@@ -58,7 +58,7 @@
     "vless://5cc4de23-2a55-4556-88d5-2a1a5161c28c@om.yooring.ir:2021?security=reality&sni=www.aparat.com&fp=chrome&pbk=4l4-oHmaKgUrC32gqmFUw0EjRsGx1cNwlOFMhLQIHAg&sid=70&type=xhttp&path=/&mode=auto&extra=%7B%22scMaxEachPostBytes%22:+1000000,+%22scMaxConcurrentPosts%22:+100,+%22scMinPostsIntervalMs%22:+30,+%22xPaddingBytes%22:+%22100-1000%22,+%22noGRPCHeader%22:+false%7D&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%AEFI%20x4",
     "vless://f9fe405b-39c1-4d5e-bf19-e0b2789a2b59@developshop.ir:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=xO3IILD2UWO4298LdDjODim8KApgnFbbinBffLWYICQ&security=reality&sid=232a&sni=www.aparat.com&spx=%2FBFfLttcVtMX1ASV&type=xhttp&x_padding_bytes=100-1000#soheil-club-1gbsoheil-2.00GB%F0%9F%93%8A",
     "vless://f9fe405b-39c1-4d5e-bf19-e0b2789a2b59@developshop.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&security=tls&sni=developshop.ir&type=xhttp&x_padding_bytes=100-1000#soheilclub1-1gbsoheil"
-  ] },
+  ], },
      "links":  {
     "default": [
     "vless://775fc925-56e6-4ce2-bf12-271b1fc6048f@138.199.206.57:80?encryption=none&security=none&type=tcp&headerType=none#80-gvcsusas",
@@ -103,7 +103,7 @@
     "vless://5cc4de23-2a55-4556-88d5-2a1a5161c28c@om.yooring.ir:2021?security=reality&sni=www.aparat.com&fp=chrome&pbk=4l4-oHmaKgUrC32gqmFUw0EjRsGx1cNwlOFMhLQIHAg&sid=70&type=xhttp&path=/&mode=auto&extra=%7B%22scMaxEachPostBytes%22:+1000000,+%22scMaxConcurrentPosts%22:+100,+%22scMinPostsIntervalMs%22:+30,+%22xPaddingBytes%22:+%22100-1000%22,+%22noGRPCHeader%22:+false%7D&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%AEFI%20x4",
     "vless://f9fe405b-39c1-4d5e-bf19-e0b2789a2b59@developshop.ir:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=xO3IILD2UWO4298LdDjODim8KApgnFbbinBffLWYICQ&security=reality&sid=232a&sni=www.aparat.com&spx=%2FBFfLttcVtMX1ASV&type=xhttp&x_padding_bytes=100-1000#soheil-club-1gbsoheil-2.00GB%F0%9F%93%8A",
     "vless://f9fe405b-39c1-4d5e-bf19-e0b2789a2b59@developshop.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&security=tls&sni=developshop.ir&type=xhttp&x_padding_bytes=100-1000#soheilclub1-1gbsoheil"
-  ] },
+  ], },
   "ssConfLinks": {
 
   },
