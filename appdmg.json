@@ -17,7 +17,7 @@
   },
   "links":  {
     "iran": [
-  "vless://eb27aa16-4832-4170-8c0c-62c9364d8454@35.177.126.130:443?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=reality&pbk=fHx_px_TEgGPzl3QKBtpnVpuxcOd3KzNNpi0a4PMtlo&fp=chrome&sni=www.rbc.ru&sid=5eac&spx=%2F#tset-6o5mgy56",
+  "vless://8c73b859-6123-4c76-8582-62f96bd0efc7@51.158.105.240:8080?security=reality&sni=samsung.com&fp=chrome&pbk=V6VBgu56Tn6L7rNPn7LW5-YZuxutdj4dNqSKhxZPJEA&sid=88f43e291039&type=xhttp&path=/&mode=auto&extra=%7B%22mode%22:%22auto%22,%22xPaddingBytes%22:%22100-1000%22%7D&packetEncoding=xudp&encryption=none#-g54drjhdzh",
     "vless://eeb01640-7788-4921-afcc-87431ad760f3@35.177.126.130:80?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=none#test-kl7er7rp",
     "vless://9c933b5d-df3e-43f9-bf27-474f198bff46@83.168.95.56:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=rbc.ru&fp=firefox&pbk=4eU_pBx2EwSaatMaiDkAavPp6shjyOUjq69kk8CoFSA&sid=12e8faf0a6142769#%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%A4%96Poland%20%7C%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8",
     "vless://9c933b5d-df3e-43f9-bf27-474f198bff46@213.252.229.104:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=rbc.ru&fp=firefox&pbk=4eU_pBx2EwSaatMaiDkAavPp6shjyOUjq69kk8CoFSA&sid=4f33d1e0c6c9c75e#%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%A4%96%20UK%2C%20London%20%7C%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8",
@@ -54,7 +54,7 @@
     "vless://f9fe405b-39c1-4d5e-bf19-e0b2789a2b60@developshop.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&security=tls&sni=developshop.ir&type=xhttp&x_padding_bytes=100-1000#soheilclub1-1gbsoheil"
   ],
     "default": [
-    "vless://eb27aa16-4832-4170-8c0c-62c9364d8454@35.177.126.130:443?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=reality&pbk=fHx_px_TEgGPzl3QKBtpnVpuxcOd3KzNNpi0a4PMtlo&fp=chrome&sni=www.rbc.ru&sid=5eac&spx=%2F#tset-6o5mgy56",
+    "vless://8c73b859-6123-4c76-8582-62f96bd0efc7@51.158.105.240:8080?security=reality&sni=samsung.com&fp=chrome&pbk=V6VBgu56Tn6L7rNPn7LW5-YZuxutdj4dNqSKhxZPJEA&sid=88f43e291039&type=xhttp&path=/&mode=auto&extra=%7B%22mode%22:%22auto%22,%22xPaddingBytes%22:%22100-1000%22%7D&packetEncoding=xudp&encryption=none#-g54drjhdzh",
     "vless://eeb01640-7788-4921-afcc-87431ad760f3@35.177.126.130:80?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=none#test-kl7er7rp",
     "vless://9c933b5d-df3e-43f9-bf27-474f198bff46@83.168.95.56:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=rbc.ru&fp=firefox&pbk=4eU_pBx2EwSaatMaiDkAavPp6shjyOUjq69kk8CoFSA&sid=12e8faf0a6142769#%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%A4%96Poland%20%7C%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8",
     "vless://9c933b5d-df3e-43f9-bf27-474f198bff46@213.252.229.104:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=rbc.ru&fp=firefox&pbk=4eU_pBx2EwSaatMaiDkAavPp6shjyOUjq69kk8CoFSA&sid=4f33d1e0c6c9c75e#%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%A4%96%20UK%2C%20London%20%7C%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8",
