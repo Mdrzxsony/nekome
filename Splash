@@ -1,16 +1,13 @@
 [
-    "vless://0e8ff16d-3519-450c-9888-8297a5decfda@165.22.66.203:440?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 7672",
-    "vless://0e8ff16d-3519-450c-9888-8297a5decfda@165.232.69.37:440?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 7359",
-    "vless://0e8ff16d-3519-450c-9888-8297a5decfda@164.90.166.166:440?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 991",
-    "vless://0e8ff16d-3519-450c-9888-8297a5decfda@164.90.218.52:440?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 854",
-    "vless://0e8ff16d-3519-450c-9888-8297a5decfda@46.101.162.210:440?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 840",
-    "vless://0e8ff16d-3519-450c-9888-8297a5decfda@64.226.108.27:440?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 4934",
-    "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany 8430",
-    "vless://0e8ff16d-3519-450c-9888-8297a5decfda@165.232.112.245:440?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 7033",
-    "vless://0e8ff16d-3519-450c-9888-8297a5decfda@104.248.140.11:440?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 5670",
-    "vless://0e8ff16d-3519-450c-9888-8297a5decfda@46.101.112.98:440?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 9256",
-    "vless://0e8ff16d-3519-450c-9888-8297a5decfda@164.92.162.111:440?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 5038",
-    "vless://0e8ff16d-3519-450c-9888-8297a5decfda@164.92.187.242:440?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 5455",
-    "vless://0e8ff16d-3519-450c-9888-8297a5decfda@104.248.22.119:440?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 2530",
-    "vless://0e8ff16d-3519-450c-9888-8297a5decfda@138.68.91.244:440?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 6407"
+    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@164.90.169.219:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 5781",
+    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@207.154.230.240:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 5060",
+    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@64.226.78.77:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 4535",
+    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@165.245.240.35:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 8015",
+    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@104.248.23.153:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 6502",
+    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@206.189.48.252:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 2174",
+    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@167.71.58.83:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 3812",
+    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@164.90.211.248:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 2379",
+    "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany 3289",
+    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@178.128.206.144:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 4315",
+    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@138.68.73.26:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 2222"
 ]
