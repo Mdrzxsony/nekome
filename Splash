@@ -1,13 +1,12 @@
 [
-    "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany 5716",
-    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@165.245.240.35:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 7024",
-    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@207.154.230.240:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 733",
-    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@164.90.169.219:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 2175",
-    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@134.122.66.142:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 1065",
-    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@64.226.78.77:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 8642",
-    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@167.71.58.83:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 6810",
-    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@104.248.23.153:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 5577",
-    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@209.38.220.76:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 8183",
-    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@206.189.48.252:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 7021",
-    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@164.90.211.248:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 9199"
+    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@134.122.66.142:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 8095",
+    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@207.154.230.240:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 1616",
+    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@209.38.220.76:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 8570",
+    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@64.226.78.77:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 8664",
+    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@167.71.58.83:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 4428",
+    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@164.90.211.248:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 5558",
+    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@104.248.23.153:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 6021",
+    "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany 7379",
+    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@164.90.169.219:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 2192",
+    "vless://5e1fe9d0-299d-47d8-9e54-0d8487737410@165.245.240.35:443?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany 7110"
 ]
