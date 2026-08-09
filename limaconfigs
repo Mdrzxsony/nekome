@@ -1,7 +1,7 @@
 [
-    "vless://8ecbbfa4-46ab-4bac-b508-92bdd5433a85@104.16.72.162:443?encryption=none&security=tls&type=ws&sni=ad-007.atlasejp97.info.&fp=chrome&path=%2Fcdn%2Ff8205c06a0ef3216&host=ad-007.atlasejp97.info.#VPN",
-    "vless://2a7262d9-9d8d-4a6e-834f-05488009f57f@104.16.72.162:443?encryption=none&security=tls&type=ws&sni=ad-001.atlasejp97.info.&fp=chrome&path=%2Fcdn%2Fdcc023318d056c5f&host=ad-001.atlasejp97.info.#VPN",
-    "vless://0c9cf35a-51a0-492a-a174-7b5ee69d789a@104.16.72.162:443?encryption=none&security=tls&type=ws&sni=ad-012.atlasejp97.info.&fp=chrome&path=%2Fcdn%2F888a7252a2a4773c&host=ad-012.atlasejp97.info.#VPN",
-    "vless://b8e96b2a-9c1f-4a8b-a1fa-1bf2368224cd@104.16.72.162:443?encryption=none&security=tls&type=ws&sni=ad-019.atlasejp97.info.&fp=chrome&path=%2Fcdn%2F05ac46398c5c7c27&host=ad-019.atlasejp97.info.#VPN",
-    "vless://4b2c3d76-c284-4100-bad6-9baf682a85a5@104.16.72.162:443?encryption=none&security=tls&type=ws&sni=ad-002.atlasejp97.info.&fp=chrome&path=%2Fcdn%2F94fc5436631792c8&host=ad-002.atlasejp97.info.#VPN"
+    "vless://0ab87a88-e1cc-4a88-89c9-6537aa52c6ac@ad-004.orbitgv79t.info:443?type=ws&security=tls&path=%2Fcdn%2F4586d764bf196e85&host=ad-004.orbitgv79t.info&sni=ad-004.orbitgv79t.info#W",
+    "vless://8ecbbfa4-46ab-4bac-b508-92bdd5433a85@ad-007.orbitgv79t.info:443?type=ws&security=tls&path=%2Fcdn%2Ff8205c06a0ef3216&host=ad-007.orbitgv79t.info&sni=ad-007.orbitgv79t.info#W",
+    "vless://93f83dc8-c333-4d85-a0a4-02d004f0f582@ad-008.orbitgv79t.info:443?type=ws&security=tls&path=%2Fcdn%2F8a00eaffa06e9e7d&host=ad-008.orbitgv79t.info&sni=ad-008.orbitgv79t.info#W",
+    "vless://2a7262d9-9d8d-4a6e-834f-05488009f57f@ad-001.orbitgv79t.info:443?type=ws&security=tls&path=%2Fcdn%2Fdcc023318d056c5f&host=ad-001.orbitgv79t.info&sni=ad-001.orbitgv79t.info#W",
+    "vless://1c09b36e-a097-41a0-bbe1-2824c9c2c4fb@ad-018.orbitgv79t.info:443?type=ws&security=tls&path=%2Fcdn%2F2698c3c9126af3c7&host=ad-018.orbitgv79t.info&sni=ad-018.orbitgv79t.info#W"
 ]
