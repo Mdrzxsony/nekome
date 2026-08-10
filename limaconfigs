@@ -1,7 +1,7 @@
 [
-    "vless://8ecbbfa4-46ab-4bac-b508-92bdd5433a85@ad-007.orbitgv79t.info:443?type=ws&security=tls&path=%2Fcdn%2Ff8205c06a0ef3216&host=ad-007.orbitgv79t.info&sni=ad-007.orbitgv79t.info#W",
-    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@ad-022.orbitgv79t.info:8443?type=ws&security=tls&path=%2F&host=ad-022.orbitgv79t.info&sni=ad-022.orbitgv79t.info#W",
-    "vless://2a7262d9-9d8d-4a6e-834f-05488009f57f@ad-001.orbitgv79t.info:443?type=ws&security=tls&path=%2Fcdn%2Fdcc023318d056c5f&host=ad-001.orbitgv79t.info&sni=ad-001.orbitgv79t.info#W",
-    "vless://0c9cf35a-51a0-492a-a174-7b5ee69d789a@ad-012.orbitgv79t.info:443?type=ws&security=tls&path=%2Fcdn%2F888a7252a2a4773c&host=ad-012.orbitgv79t.info&sni=ad-012.orbitgv79t.info#W",
-    "vless://b8e96b2a-9c1f-4a8b-a1fa-1bf2368224cd@ad-019.orbitgv79t.info:443?type=ws&security=tls&path=%2Fcdn%2F05ac46398c5c7c27&host=ad-019.orbitgv79t.info&sni=ad-019.orbitgv79t.info#W"
+    "vless://0c9cf35a-51a0-492a-a174-7b5ee69d789a@ad-027.orbitgv79t.info:443?type=ws&security=tls&path=%2Fcdn%2F888a7252a2a4773c&host=ad-027.orbitgv79t.info&sni=ad-027.orbitgv79t.info#W",
+    "vless://b8e96b2a-9c1f-4a8b-a1fa-1bf2368224cd@ad-019.orbitgv79t.info:443?type=ws&security=tls&path=%2Fcdn%2F05ac46398c5c7c27&host=ad-019.orbitgv79t.info&sni=ad-019.orbitgv79t.info#W",
+    "vless://4b2c3d76-c284-4100-bad6-9baf682a85a5@ad-021.orbitgv79t.info:443?type=ws&security=tls&path=%2Fcdn%2F94fc5436631792c8&host=ad-021.orbitgv79t.info&sni=ad-021.orbitgv79t.info#W",
+    "vless://56ceaee9-5b3d-442c-8879-bbe2c56d0f4a@ad-029.orbitgv79t.info:443?type=ws&security=tls&path=%2Fcdn%2F7a018d7427506297&host=ad-029.orbitgv79t.info&sni=ad-029.orbitgv79t.info#W",
+    "vless://4caf6ae0-9a99-4399-928d-3e34d99d584b@ad-028.orbitgv79t.info:443?type=ws&security=tls&path=%2Fcdn%2F732ad7f529575c9b&host=ad-028.orbitgv79t.info&sni=ad-028.orbitgv79t.info#W"
 ]
