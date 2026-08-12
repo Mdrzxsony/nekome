@@ -1,12 +1,12 @@
 [
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr041.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL041",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr019.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL019",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr010.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL010",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr029.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL029",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr048.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL048",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr008.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL008",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr018.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL018",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr012.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL012",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr001.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL001",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr053.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL053"
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.174.44:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=italy-14.psntbt.com.#SpeedX-74",
+    "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp#SpeedM-5",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.17.108.69:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=uk-8.psntbt.com.#SpeedX-8",
+    "vless://fb0945d4-f1aa-452e-9190-808a3cb49535@neww.blue-vpn1.com:2053?encryption=none&security=tls&sni=neww.blue-vpn1.com&fp=chrome&type=ws&path=%2F#SpeedBl-21",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.72.162:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=usa-10.psntbt.com.#SpeedX-19",
+    "vless://03707fb7-0990-440f-88f6-b0e0f7242a38@5hsytrdbbvcrxokk.localip.ir:443?encryption=none&security=tls&sni=po.ariyuz.org&fp=chrome&type=ws&path=%2F#SpeedSh-7",
+    "vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@104.17.108.69:8443?encryption=none&security=tls&sni=ssl.soren-app.com.&fp=chrome&type=ws&path=%2F&host=free-hzr34-cdn.soren-app.com.#SpeedS-13",
+    "vless://06973c57-4dca-4a4a-9b9e-7d60cfebc029@speedtest.org:443?encryption=none&security=tls&sni=639221019284029228.bojnurd-mpsev.beauty&fp=firefox&type=ws&path=%2Fedpvunws&host=639221019284029228.bojnurd-mpsev.beauty#SpeedMap-6",
+    "vless://cbfc7699-4ba5-47fd-bfb0-bdc1f42a7099@104.16.174.44:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=france-9.psntbt.com.#SpeedX-42",
+    "vless://7272b4c4-706d-4930-b0b2-7356caaaaf5f@104.16.174.44:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=finland-10.psntbt.com.#SpeedX-114"
 ]
