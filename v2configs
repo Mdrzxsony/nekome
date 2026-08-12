@@ -1,12 +1,12 @@
 [
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr054.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL054",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr001.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL001",
+    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr009.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL009",
+    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr034.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL034",
+    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr059.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL059",
+    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr019.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL019",
+    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr032.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL032",
     "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr041.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL041",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr057.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL057",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr007.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL007",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr076.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL076",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr074.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL074",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr016.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL016",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr040.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL040",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr053.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL053"
+    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr023.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL023",
+    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr014.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL014",
+    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr052.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL052",
+    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr077.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL077"
 ]
