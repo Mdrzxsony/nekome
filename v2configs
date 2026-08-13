@@ -1,12 +1,11 @@
 [
-    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.174.44:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=dlhostitaly-4.psntbt.com.#Speed-27-135",
-    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.17.108.69:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=dlhostitaly-10.psntbt.com.#Speed-27-132",
-    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.174.44:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=dlhostusa-1.psntbt.com.#Speed-27-30",
-    "vless://7272b4c4-706d-4930-b0b2-7356caaaaf5f@104.16.174.44:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=dlhostfinland-8.psntbt.com.#Speed-27-10",
-    "vless://76760281-ab3f-4bfc-9be0-4d16bb950580@188.114.97.6:443?encryption=none&security=tls&sni=bbfsen2a.elvooro.ir&fp=unsafe&type=ws&path=%2Fdastak&host=bbfsen2a.elvooro.ir#Speed-24-41",
-    "vless://a6e56c10-5705-4f40-a506-e10f44445064@209.38.200.136:440?encryption=none&security=none&type=http&path=%2F&host=play.google.com#Speed-31-7",
-    "vless://a6e56c10-5705-4f40-a506-e10f44445064@167.99.136.138:440?encryption=none&security=none&type=http&path=%2F&host=play.google.com#Speed-31-4",
-    "vless://76760281-ab3f-4bfc-9be0-4d16bb950580@188.114.97.6:443?encryption=none&security=tls&sni=hjejwkja.livaaro.ir&fp=unsafe&type=ws&path=%2Fdastak&host=hjejwkja.livaaro.ir#Speed-20-1",
-    "vless://6e148b42-cbe6-435d-a32f-7b7d0e592188@188.114.96.19:2053?encryption=none&security=tls&sni=sis.blueshoppiing.com&fp=chrome&type=ws&path=%2F#Speed-26-6",
-    "vless://ce2c8390-5bfd-4f6c-ac4c-083548d30471@oldc.iihasahaom19.org:2083?encryption=none&security=tls&sni=oldc.iihasahaom19.org&fp=chrome&type=ws&path=%2Fv1d2LmlyYW3ob440RmNBb&host=oldc.iihasahaom19.org#Speed-26-1"
+    "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp#Speed-12-13",
+    "vless://cbfc7699-4ba5-47fd-bfb0-bdc1f42a7099@104.17.108.69:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=dlhostfrance-1.psntbt.com.#Speed-27-64",
+    "vless://7272b4c4-706d-4930-b0b2-7356caaaaf5f@104.17.108.69:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=dlhostfinland-1.psntbt.com.#Speed-27-76",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@npmjs.com:8443?encryption=none&security=tls&sni=ssl.limaxgvej.info.&fp=firefox&type=ws&path=%2F&host=ad-004.limaxgvej.info.#Speed-17-4",
+    "vless://843755c3-2720-4c53-8a3d-178f96dea7d0@104.16.72.162:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=dlhostnetherland-13.psntbt.com.#Speed-27-7",
+    "vless://7272b4c4-706d-4930-b0b2-7356caaaaf5f@104.16.174.44:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=dlhostfinland-7.psntbt.com.#Speed-27-74",
+    "vless://76760281-ab3f-4bfc-9be0-4d16bb950580@188.114.97.6:443?encryption=none&security=tls&sni=mt564z3f.elvooro.ir&fp=unsafe&type=ws&path=%2Fdastak&host=mt564z3f.elvooro.ir#Speed-28-4",
+    "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp#Speed-13-20",
+    "vless://7272b4c4-706d-4930-b0b2-7356caaaaf5f@104.16.72.162:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=dlhostfinland-4.psntbt.com.#Speed-27-86"
 ]
