@@ -1,12 +1,12 @@
 [
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr052.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL052",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr074.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL074",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr070.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL070",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr035.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL035",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr063.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL063",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr012.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL012",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr078.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL078",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr057.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL057",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr051.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL051",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr043.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL043"
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.174.44:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=dlhostitaly-4.psntbt.com.#Speed-27-135",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.17.108.69:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=dlhostitaly-10.psntbt.com.#Speed-27-132",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.174.44:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=dlhostusa-1.psntbt.com.#Speed-27-30",
+    "vless://7272b4c4-706d-4930-b0b2-7356caaaaf5f@104.16.174.44:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=dlhostfinland-8.psntbt.com.#Speed-27-10",
+    "vless://76760281-ab3f-4bfc-9be0-4d16bb950580@188.114.97.6:443?encryption=none&security=tls&sni=bbfsen2a.elvooro.ir&fp=unsafe&type=ws&path=%2Fdastak&host=bbfsen2a.elvooro.ir#Speed-24-41",
+    "vless://a6e56c10-5705-4f40-a506-e10f44445064@209.38.200.136:440?encryption=none&security=none&type=http&path=%2F&host=play.google.com#Speed-31-7",
+    "vless://a6e56c10-5705-4f40-a506-e10f44445064@167.99.136.138:440?encryption=none&security=none&type=http&path=%2F&host=play.google.com#Speed-31-4",
+    "vless://76760281-ab3f-4bfc-9be0-4d16bb950580@188.114.97.6:443?encryption=none&security=tls&sni=hjejwkja.livaaro.ir&fp=unsafe&type=ws&path=%2Fdastak&host=hjejwkja.livaaro.ir#Speed-20-1",
+    "vless://6e148b42-cbe6-435d-a32f-7b7d0e592188@188.114.96.19:2053?encryption=none&security=tls&sni=sis.blueshoppiing.com&fp=chrome&type=ws&path=%2F#Speed-26-6",
+    "vless://ce2c8390-5bfd-4f6c-ac4c-083548d30471@oldc.iihasahaom19.org:2083?encryption=none&security=tls&sni=oldc.iihasahaom19.org&fp=chrome&type=ws&path=%2Fv1d2LmlyYW3ob440RmNBb&host=oldc.iihasahaom19.org#Speed-26-1"
 ]
