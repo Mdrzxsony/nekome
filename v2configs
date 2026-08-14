@@ -1,12 +1,9 @@
 [
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr018.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL018",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr066.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL066",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr033.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL033",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr017.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL017",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr016.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL016",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr045.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL045",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr077.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL077",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr060.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL060",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr078.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL078",
-    "vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr022.techinyab.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp#ALL022"
+    "vless://cb3090da-7d84-48a7-bdbd-27f7e68f7905@204.168.249.129:22027?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=AznNr6VXID7JwVFvg7pmaQqodXoYpAvCWqf0aP1BgnE&sid=aa5bb1e6fe73cb&type=tcp#Speed-22-2",
+    "vless://4c10d224-aa19-4e42-8475-d5324e4a363b@91.107.161.83:37472?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-27-179",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.72.162:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=dlhostcanada-9.psntbt.com.#Speed-27-96",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.72.162:8443?encryption=none&security=tls&sni=ssl.novaroxbm.click.&fp=firefox&type=ws&path=%2F&host=worker-019.novaroxbm.click.#Speed-18-4",
+    "vless://49e76398-5127-4005-90cb-c2a971f745f1@npmjs.com:443?encryption=none&security=tls&sni=dcskm.megarivernode-nexoim.sbs&fp=chrome&type=ws&path=%2Fram&host=dcskm.megarivernode-nexoim.sbs#Speed-24-19",
+    "vless://76760281-ab3f-4bfc-9be0-4d16bb950580@188.114.97.6:443?encryption=none&security=tls&sni=jlglhctu.raavexaa.ir&fp=unsafe&type=ws&path=%2Fdastak&host=jlglhctu.raavexaa.ir#Speed-20-4",
+    "vless://MahsaNG-vpn-1017442010@172.67.213.179:443?encryption=none&security=tls&sni=q7.shiraz.cc.cd&fp=chrome&type=ws&path=%2F&host=q7.shiraz.cc.cd#Speed-12-26"
 ]
