@@ -1,10 +1,10 @@
 [
-    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.72.162:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=dlhostusa-10.psntbt.com.#Speed-27-181",
-    "vless://0bc7f328-4f7e-474e-9dbd-57af374500c5@188.114.97.6:443?encryption=none&security=tls&sni=doyzhoj6.avendo.ir&fp=unsafe&type=ws&path=%2Fdastak&host=doyzhoj6.avendo.ir#Speed-24-68",
-    "vless://7272b4c4-706d-4930-b0b2-7356caaaaf5f@104.16.72.162:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=dlhostgermany-2.psntbt.com.#Speed-27-141",
-    "vless://7272b4c4-706d-4930-b0b2-7356caaaaf5f@104.16.174.44:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=dlhostfinland-8.psntbt.com.#Speed-27-91",
-    "vless://0ee652bf-2c02-41b0-951f-9f51f1ecf887@2.28.54.63:8080?encryption=none&security=none&type=tcp#Speed-21-24",
-    "vless://478f7189-dff0-47d9-955b-8841f92e7661@134.122.87.82:42284?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-42-76",
-    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.17.108.69:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=dlhostuk-9.psntbt.com.#Speed-27-110",
-    "vless://04e1baa0-a7df-48d2-b33d-66aec795534e@167.99.202.143:43238?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-23-30"
+    "vless://33851d53-ede0-45f7-9eb8-9aa961f7d200@195.123.226.21:443?encryption=none&security=none&type=ws&path=%2Fvless#Speed-42-27",
+    "vless://49e76398-5127-4005-90cb-c2a971f745f1@chatgpt.com:443?encryption=none&security=tls&sni=dnjxn.greenorbitport-nexoim.sbs&fp=chrome&type=ws&path=%2Fram&host=dnjxn.greenorbitport-nexoim.sbs#Speed-42-80",
+    "vless://f960c427-cfae-4129-9be0-1195fd2f1ac3@207.154.223.183:46939?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-21-13",
+    "vless://f5b9ef3f-53e3-4928-9a13-07604cfbaf32@188.114.96.99:2053?encryption=none&security=tls&sni=voip.chandplus.com&fp=chrome&type=ws&path=%2FJ5aLQOY1R9ONWYCM&host=voip.chandplus.com#Speed-24-26",
+    "vless://9d672694-c146-422e-b3b5-3717a38a0fcc@fr.api-music-fa.com:2053?encryption=none&security=tls&sni=fr.api-music-fa.com&fp=chrome&type=ws&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&host=fr.api-music-fa.com#Speed-26-4",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.72.162:8443?encryption=none&security=tls&sni=ssl.psntbt.com.&fp=chrome&type=ws&path=%2F&host=dlhostitaly-6.psntbt.com.#Speed-27-134",
+    "vless://e2c5f1a9-b3d4-4e78-9f2a-1c3d4e5f6a7b@104.16.92.229:8443?encryption=none&security=tls&sni=ssl.soren-app.com.&fp=chrome&type=ws&path=%2F&host=free-hzr25-cdn.soren-app.com.#Speed-21-34",
+    "vless://99749c6e-324e-44db-877d-c5caa6244e3e@104.17.108.69:2053?encryption=none&security=tls&sni=six.realtime-system.com&fp=chrome&type=ws&path=%2Fthisissix&host=six.realtime-system.com#Speed-42-45"
 ]
