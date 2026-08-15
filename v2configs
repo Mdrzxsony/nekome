@@ -1,12 +1,10 @@
 [
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@139.59.159.174:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-74-11",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.11.67:441?encryption=none&security=none&type=http&path=%2F&host=iran.ir#Speed-74-6",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@146.190.21.88:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-74-3",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@146.190.21.88:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-72-16",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.99.129.28:441?encryption=none&security=none&type=http&path=%2F&host=iran.ir#Speed-72-28",
-    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.72.162:8443?encryption=none&security=tls&sni=ssl.novaxuqiy.click.&fp=firefox&type=ws&path=%2F&host=ad-008.novaxuqiy.click.#Speed-71-1",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.11.67:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-72-7",
-    "vless://672e2791-3254-4a5b-bbc7-59456b8eff85@134.209.255.202:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-32-2",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@157.230.31.144:441?encryption=none&security=none&type=http&path=%2F&host=iran.ir#Speed-72-1",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@142.93.36.154:441?encryption=none&security=none&type=http&path=%2F&host=iran.ir#Speed-90-2"
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.139.139:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-90-9",
+    "vless://0454b23e-1ded-4edd-9e8a-9f9923e1e633@164.90.182.128:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-32-6",
+    "vless://672e2791-3254-4a5b-bbc7-59456b8eff85@157.230.116.48:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-32-5",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.139.139:441?encryption=none&security=none&type=http&path=%2F&host=iran.ir#Speed-90-2",
+    "vless://49e76398-5127-4005-90cb-c2a971f745f1@npmjs.com:443?encryption=none&security=tls&sni=ijuxb.starleafport-novanc.sbs&fp=firefox&type=ws&path=%2Fcarbon&host=ijuxb.starleafport-novanc.sbs#Speed-73-1",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.72.231:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-72-13",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.99.129.28:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-74-7",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@146.190.21.88:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-74-6"
 ]
