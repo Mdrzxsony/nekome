@@ -1,1 +1,11 @@
-[]
+[
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.72.162:8443?encryption=none&security=tls&type=ws&sni=ssl.cloud28rom.click.&fp=firefox&allowInsecure=1&path=%2F&host=ad-010.cloud28rom.click.#newfrag",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.72.162:8443?encryption=none&security=tls&type=ws&sni=ssl.cloud28rom.click.&fp=firefox&allowInsecure=1&path=%2F&host=ad-008.cloud28rom.click.#newfrag",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@ad-026.cloudejaem.site:8443?encryption=none&security=tls&type=ws&sni=ad-026.cloudejaem.site&fp=chrome&path=%2F&host=ad-026.cloudejaem.site#W",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@ad-023.cloudejaem.site:8443?encryption=none&security=tls&type=ws&sni=ad-023.cloudejaem.site&fp=chrome&path=%2F&host=ad-023.cloudejaem.site#W",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@ad-011.cloudejaem.site:8443?encryption=none&security=tls&type=ws&sni=ad-011.cloudejaem.site&fp=chrome&path=%2F&host=ad-011.cloudejaem.site#W",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@ad-015.cloudejaem.site:8443?encryption=none&security=tls&type=ws&sni=ad-015.cloudejaem.site&fp=chrome&path=%2F&host=ad-015.cloudejaem.site#W",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@ad-014.cloudejaem.site:8443?encryption=none&security=tls&type=ws&sni=ad-014.cloudejaem.site&fp=chrome&path=%2F&host=ad-014.cloudejaem.site#W",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@ad-010.cloud28rom.click:8443?encryption=none&security=tls&type=ws&sni=ad-010.cloud28rom.click&fp=chrome&path=%2F&host=ad-010.cloud28rom.click#W",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@ad-008.cloud28rom.click:8443?encryption=none&security=tls&type=ws&sni=ad-008.cloud28rom.click&fp=chrome&path=%2F&host=ad-008.cloud28rom.click#W"
+]
