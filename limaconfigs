@@ -1,7 +1,7 @@
 [
-    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@npmjs.com:8443?encryption=none&security=tls&type=ws&sni=ssl.cloudejaem.site.&fp=firefox&allowInsecure=1&path=%2F&host=ad-026.cloudejaem.site.#newfrag",
-    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@npmjs.com:8443?encryption=none&security=tls&type=ws&sni=ssl.cloudejaem.site.&fp=firefox&allowInsecure=1&path=%2F&host=ad-023.cloudejaem.site.#newfrag",
-    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@npmjs.com:8443?encryption=none&security=tls&type=ws&sni=ssl.cloudejaem.site.&fp=firefox&allowInsecure=1&path=%2F&host=ad-011.cloudejaem.site.#newfrag",
-    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@npmjs.com:8443?encryption=none&security=tls&type=ws&sni=ssl.cloudejaem.site.&fp=firefox&allowInsecure=1&path=%2F&host=ad-015.cloudejaem.site.#newfrag",
-    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@npmjs.com:8443?encryption=none&security=tls&type=ws&sni=ssl.cloudejaem.site.&fp=firefox&allowInsecure=1&path=%2F&host=ad-014.cloudejaem.site.#newfrag"
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@npmjs.com:8443?encryption=none&security=tls&type=ws&sni=ssl.atlas7sui4.click.&fp=firefox&allowInsecure=1&path=%2F&host=ad-026.atlas7sui4.click.#newfrag",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@npmjs.com:8443?encryption=none&security=tls&type=ws&sni=ssl.atlas7sui4.click.&fp=firefox&allowInsecure=1&path=%2F&host=ad-023.atlas7sui4.click.#newfrag",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@npmjs.com:8443?encryption=none&security=tls&type=ws&sni=ssl.atlas7sui4.click.&fp=firefox&allowInsecure=1&path=%2F&host=ad-011.atlas7sui4.click.#newfrag",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@npmjs.com:8443?encryption=none&security=tls&type=ws&sni=ssl.atlas7sui4.click.&fp=firefox&allowInsecure=1&path=%2F&host=ad-015.atlas7sui4.click.#newfrag",
+    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@npmjs.com:8443?encryption=none&security=tls&type=ws&sni=ssl.atlas7sui4.click.&fp=firefox&allowInsecure=1&path=%2F&host=ad-014.atlas7sui4.click.#newfrag"
 ]
