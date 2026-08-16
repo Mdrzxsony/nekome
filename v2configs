@@ -1,12 +1,9 @@
 [
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.90.210.197:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-91-16",
-    "vless://69223696-f2ea-4a7d-a423-28a13635ee05@46.101.231.77:436?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-32-2",
-    "vless://bcd0391b-74c0-4dd5-9d4f-2356827e3ab0@speedtest.org:443?encryption=none&security=tls&sni=0444668734.chalus-ppll.beauty&fp=firefox&type=ws&path=%2Fwvmsh&host=0444668734.chalus-ppll.beauty#Speed-83-2",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.204.248:441?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-74-18",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.52.72:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-90-15",
-    "vless://69223696-f2ea-4a7d-a423-28a13635ee05@142.93.110.166:436?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-32-8",
-    "vless://ba64b760-e73b-48da-8c59-3d1fafe61177@speedtest.org:443?encryption=none&security=tls&sni=4504985849.chalus-ppll.beauty&fp=firefox&type=ws&path=%2Frpfuv&host=4504985849.chalus-ppll.beauty#Speed-83-3",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.52.72:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-91-15",
-    "vless://0bc7f328-4f7e-474e-9dbd-57af374500c5@188.114.97.6:443?encryption=none&security=tls&sni=rgrsl5b9.niveexa.ir&fp=unsafe&type=ws&path=%2Fdastak&host=rgrsl5b9.niveexa.ir#Speed-77-1",
-    "vless://0bc7f328-4f7e-474e-9dbd-57af374500c5@188.114.97.6:443?encryption=none&security=tls&sni=zy4q1s0v.zeloraa.ir&fp=unsafe&type=ws&path=%2Fdastak&host=zy4q1s0v.zeloraa.ir#Speed-76-3"
+    "vless://875bf3dc-f8d7-4e57-8259-df6f7eb94845@de.api-music-fa.com:2083?encryption=none&security=tls&sni=de.api-music-fa.com&fp=chrome&type=ws&path=%2Fapi%2Fvote%2Fnumber%2Frow%2Fn1%2F2083in&host=de.api-music-fa.com#Speed-26-3",
+    "vless://ad1302ac-0887-40c5-9d4c-fe73ed56791c@104.16.72.162:8443?encryption=none&security=tls&sni=ssl.limaweyzd.click.&fp=firefox&type=ws&path=%2Fcdn%2F22b98475e2ce4eff&host=worker-008.limaweyzd.click.#Speed-18-4",
+    "vless://b3eed393-e990-40a0-978c-689d40be9da4@86.107.178.66:448?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=i3cJbIu8AN7qCD7xQTVfCN7de9RkxVohk_PGQgHqRl8&sid=52a74e01683e9173&type=tcp#Speed-33-7",
+    "vless://f178b962-fce6-40fd-9caa-d0cd812a2454@tgju.org:2053?encryption=none&security=tls&sni=two.realtime-system.com&fp=chrome&type=ws&path=%2Fthisistwo&host=two.realtime-system.com#Speed-42-40",
+    "vless://603819a3-dd65-408a-abab-15d8dc49887f@209.38.213.17:8880?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-23-21",
+    "vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@162.159.38.119:2053?encryption=none&security=tls&sni=egdpcyb68.heravsana.com&fp=chrome&type=ws&path=%2F&host=egdpcyb68.heravsana.com#Speed-42-36",
+    "vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@188.114.96.19:2053?encryption=none&security=tls&sni=music1000.melobitmusic1.ir&fp=chrome&type=ws&path=%2F#Speed-26-20"
 ]
