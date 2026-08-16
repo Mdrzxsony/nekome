@@ -1,11 +1,7 @@
 [
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@104.16.72.162:8443?encryption=none&security=tls&type=ws&sni=ssl.signalsaiyq.top.&fp=firefox&allowInsecure=1&path=%2Fcdn%2F1ab0237d288e4540&host=ad-004.signalsaiyq.top.#newfrag",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@104.16.72.162:8443?encryption=none&security=tls&type=ws&sni=ssl.signalsaiyq.top.&fp=firefox&allowInsecure=1&path=%2Fcdn%2F1ab0237d288e4540&host=ad-012.signalsaiyq.top.#newfrag",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@ad-026.signalsaiyq.top:8443?encryption=none&security=tls&type=ws&sni=ad-026.signalsaiyq.top&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=ad-026.signalsaiyq.top#W",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@ad-023.signalsaiyq.top:8443?encryption=none&security=tls&type=ws&sni=ad-023.signalsaiyq.top&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=ad-023.signalsaiyq.top#W",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@ad-011.signalsaiyq.top:8443?encryption=none&security=tls&type=ws&sni=ad-011.signalsaiyq.top&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=ad-011.signalsaiyq.top#W",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@ad-015.signalsaiyq.top:8443?encryption=none&security=tls&type=ws&sni=ad-015.signalsaiyq.top&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=ad-015.signalsaiyq.top#W",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@ad-014.signalsaiyq.top:8443?encryption=none&security=tls&type=ws&sni=ad-014.signalsaiyq.top&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=ad-014.signalsaiyq.top#W",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@ad-004.signalsaiyq.top:8443?encryption=none&security=tls&type=ws&sni=ad-004.signalsaiyq.top&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=ad-004.signalsaiyq.top#W",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@ad-012.signalsaiyq.top:8443?encryption=none&security=tls&type=ws&sni=ad-012.signalsaiyq.top&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=ad-012.signalsaiyq.top#W"
+    "vless://f244a75a-71c9-4d49-9dc0-8cced11f5160@104.16.72.162:8443?encryption=none&security=tls&type=ws&sni=ssl.atlas0om0m.top.&fp=firefox&allowInsecure=1&path=%2Fcdn%2F7951f1e4f8e94998&host=ad-010.atlas0om0m.top.#newfrag",
+    "vless://cb4625a3-84cf-42a5-ae81-32d29cd6cb82@104.16.72.162:8443?encryption=none&security=tls&type=ws&sni=ssl.atlas0om0m.top.&fp=firefox&allowInsecure=1&path=%2Fcdn%2Fa549b23879754719&host=ad-008.atlas0om0m.top.#newfrag",
+    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@worker-026.coreqz4z7.click:8443?encryption=none&security=tls&type=ws&sni=worker-026.coreqz4z7.click&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=worker-026.coreqz4z7.click#W",
+    "vless://f244a75a-71c9-4d49-9dc0-8cced11f5160@ad-010.atlas0om0m.top:8443?encryption=none&security=tls&type=ws&sni=ad-010.atlas0om0m.top&fp=chrome&path=%2Fcdn%2F7951f1e4f8e94998&host=ad-010.atlas0om0m.top#W",
+    "vless://cb4625a3-84cf-42a5-ae81-32d29cd6cb82@ad-008.atlas0om0m.top:8443?encryption=none&security=tls&type=ws&sni=ad-008.atlas0om0m.top&fp=chrome&path=%2Fcdn%2Fa549b23879754719&host=ad-008.atlas0om0m.top#W"
 ]
