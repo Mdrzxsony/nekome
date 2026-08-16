@@ -1,10 +1,12 @@
 [
-    "vless://bd119fcd-075f-4744-bef7-93370f36bc87@speedtest.org:443?encryption=none&security=tls&sni=8758431896.chalus-ppll.beauty&fp=firefox&type=ws&path=%2Fvcwme&host=8758431896.chalus-ppll.beauty#Speed-75-3",
-    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files111.carboxer.info&fp=chrome&type=ws&path=%2Ffiles111&host=files111.carboxer.info#Speed-91-6",
-    "vless://0bc7f328-4f7e-474e-9dbd-57af374500c5@188.114.97.6:443?encryption=none&security=tls&sni=mjpce00n.niveexa.ir&fp=unsafe&type=ws&path=%2Fdastak&host=mjpce00n.niveexa.ir#Speed-77-3",
-    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files109.carboxer.info&fp=chrome&type=ws&path=%2Ffiles109&host=files109.carboxer.info#Speed-74-8",
-    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files114.carboxer.info&fp=chrome&type=ws&path=%2Ffiles114&host=files114.carboxer.info#Speed-90-3",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.38.20:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-7",
-    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files124.carboxer.info&fp=chrome&type=ws&path=%2Ffiles124&host=files124.carboxer.info#Speed-91-15",
-    "vless://918766b6-d268-414e-a6dc-af6005d35f17@speedtest.org:443?encryption=none&security=tls&sni=7713410332.chalus-ppll.beauty&fp=firefox&type=ws&path=%2Fwvmsh&host=7713410332.chalus-ppll.beauty#Speed-83-2"
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.189.69:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-14",
+    "vless://69223696-f2ea-4a7d-a423-28a13635ee05@165.22.73.23:436?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-32-12",
+    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files108.carshoper.info&fp=chrome&type=ws&path=%2Ffiles108&host=files108.carshoper.info#Speed-90-9",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.210.185:441?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-90-5",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.241.115:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-6",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.43.7:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-16",
+    "vless://69223696-f2ea-4a7d-a423-28a13635ee05@139.59.133.144:436?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-32-5",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.43.7:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-90-11",
+    "vless://2a53c65e-fbcf-4372-bb21-2bacc35a779c@speedtest.org:443?encryption=none&security=tls&sni=9704356334.chalus-ppll.beauty&fp=firefox&type=ws&path=%2Flurbs&host=9704356334.chalus-ppll.beauty#Speed-83-1",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.247.15:441?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-19"
 ]
