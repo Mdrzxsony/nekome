@@ -1,3 +1,7 @@
 [
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@workspace.signalsaiyq.top:8443?encryption=none&security=tls&type=ws&sni=workspace.signalsaiyq.top.&fp=firefox&allowInsecure=1&path=%2Fcdn%2F1ab0237d288e4540&host=workspace.signalsaiyq.top.#newfrag"
+    "vless://f99439b7-97ab-4510-9c23-cdb4756b907e@54.37.1.240:55605?type=tcp&security=none#T",
+    "vless://f99439b7-97ab-4510-9c23-cdb4756b907e@54.37.1.97:55605?type=tcp&security=none#T",
+    "vless://f99439b7-97ab-4510-9c23-cdb4756b907e@54.37.1.137:55605?type=tcp&security=none#T",
+    "vless://f99439b7-97ab-4510-9c23-cdb4756b907e@54.37.3.112:55605?type=tcp&security=none#T",
+    "vless://f99439b7-97ab-4510-9c23-cdb4756b907e@54.37.3.42:55605?type=tcp&security=none#T"
 ]
