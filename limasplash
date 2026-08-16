@@ -1,11 +1,11 @@
 [
-    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.72.162:8443?encryption=none&security=tls&type=ws&sni=ssl.novasj9is.click.&fp=firefox&allowInsecure=1&path=%2Fcdn%2F7951f1e4f8e94998&host=ad-010.novasj9is.click.#newfrag",
-    "vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.72.162:8443?encryption=none&security=tls&type=ws&sni=ssl.novasj9is.click.&fp=firefox&allowInsecure=1&path=%2Fcdn%2Fa549b23879754719&host=ad-008.novasj9is.click.#newfrag",
-    "vless://3b1e36df-e596-42a1-9340-ce9732d36f48@worker-026.limaweyzd.click:8443?encryption=none&security=tls&type=ws&sni=worker-026.limaweyzd.click&fp=chrome&path=%2Fcdn%2Ff808bb6553bb47db&host=worker-026.limaweyzd.click#W",
-    "vless://70ce1e68-509a-495b-846b-e6b8373caa0f@worker-023.limaweyzd.click:8443?encryption=none&security=tls&type=ws&sni=worker-023.limaweyzd.click&fp=chrome&path=%2Fcdn%2F6300e9007a9b4323&host=worker-023.limaweyzd.click#W",
-    "vless://3853e663-8c7c-49d6-b427-dc469ddf55ff@worker-011.limaweyzd.click:8443?encryption=none&security=tls&type=ws&sni=worker-011.limaweyzd.click&fp=chrome&path=%2Fcdn%2F8fe2b5aaa9664be6&host=worker-011.limaweyzd.click#W",
-    "vless://b4f2c58c-ba8d-4013-ad4e-48c79aeb5825@worker-015.limaweyzd.click:8443?encryption=none&security=tls&type=ws&sni=worker-015.limaweyzd.click&fp=chrome&path=%2Fcdn%2F0352723f2a8d4211&host=worker-015.limaweyzd.click#W",
-    "vless://7487e262-a92d-418b-b82c-af821aef85e9@worker-014.limaweyzd.click:8443?encryption=none&security=tls&type=ws&sni=worker-014.limaweyzd.click&fp=chrome&path=%2Fcdn%2Fe22fb0f8325f41f3&host=worker-014.limaweyzd.click#W",
-    "vless://f244a75a-71c9-4d49-9dc0-8cced11f5160@ad-010.novasj9is.click:8443?encryption=none&security=tls&type=ws&sni=ad-010.novasj9is.click&fp=chrome&path=%2Fcdn%2F7951f1e4f8e94998&host=ad-010.novasj9is.click#W",
-    "vless://cb4625a3-84cf-42a5-ae81-32d29cd6cb82@ad-008.novasj9is.click:8443?encryption=none&security=tls&type=ws&sni=ad-008.novasj9is.click&fp=chrome&path=%2Fcdn%2Fa549b23879754719&host=ad-008.novasj9is.click#W"
+    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@104.16.72.162:8443?encryption=none&security=tls&type=ws&sni=ssl.signalsaiyq.top.&fp=firefox&allowInsecure=1&path=%2Fcdn%2F1ab0237d288e4540&host=ad-004.signalsaiyq.top.#newfrag",
+    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@104.16.72.162:8443?encryption=none&security=tls&type=ws&sni=ssl.signalsaiyq.top.&fp=firefox&allowInsecure=1&path=%2Fcdn%2F1ab0237d288e4540&host=ad-012.signalsaiyq.top.#newfrag",
+    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@ad-026.signalsaiyq.top:8443?encryption=none&security=tls&type=ws&sni=ad-026.signalsaiyq.top&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=ad-026.signalsaiyq.top#W",
+    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@ad-023.signalsaiyq.top:8443?encryption=none&security=tls&type=ws&sni=ad-023.signalsaiyq.top&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=ad-023.signalsaiyq.top#W",
+    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@ad-011.signalsaiyq.top:8443?encryption=none&security=tls&type=ws&sni=ad-011.signalsaiyq.top&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=ad-011.signalsaiyq.top#W",
+    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@ad-015.signalsaiyq.top:8443?encryption=none&security=tls&type=ws&sni=ad-015.signalsaiyq.top&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=ad-015.signalsaiyq.top#W",
+    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@ad-014.signalsaiyq.top:8443?encryption=none&security=tls&type=ws&sni=ad-014.signalsaiyq.top&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=ad-014.signalsaiyq.top#W",
+    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@ad-004.signalsaiyq.top:8443?encryption=none&security=tls&type=ws&sni=ad-004.signalsaiyq.top&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=ad-004.signalsaiyq.top#W",
+    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@ad-012.signalsaiyq.top:8443?encryption=none&security=tls&type=ws&sni=ad-012.signalsaiyq.top&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=ad-012.signalsaiyq.top#W"
 ]
