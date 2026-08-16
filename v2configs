@@ -1,12 +1,12 @@
 [
-    "vless://77df6059-aed2-4f4f-a531-46e0748ede9b@104.248.139.54:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-92-10",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.10.153:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-5",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.201.34:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-8",
-    "vless://69223696-f2ea-4a7d-a423-28a13635ee05@139.59.154.20:436?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-32-2",
-    "vless://69223696-f2ea-4a7d-a423-28a13635ee05@139.59.133.144:436?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-92-13",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.210.185:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-17",
-    "vless://69223696-f2ea-4a7d-a423-28a13635ee05@139.59.154.20:436?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-92-20",
-    "vless://69223696-f2ea-4a7d-a423-28a13635ee05@165.245.249.254:436?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-32-9",
-    "vless://69223696-f2ea-4a7d-a423-28a13635ee05@165.245.249.254:436?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-92-8",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.99.85.150:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-24"
+    "vless://77df6059-aed2-4f4f-a531-46e0748ede9b@46.101.148.187:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-32-5",
+    "vless://77df6059-aed2-4f4f-a531-46e0748ede9b@159.89.24.64:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-32-12",
+    "vless://77df6059-aed2-4f4f-a531-46e0748ede9b@104.248.139.54:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-32-13",
+    "vless://77df6059-aed2-4f4f-a531-46e0748ede9b@104.248.139.54:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-92-17",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.189.69:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-22",
+    "vless://69223696-f2ea-4a7d-a423-28a13635ee05@165.22.73.23:436?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-32-10",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.90.189.194:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-19",
+    "vless://69223696-f2ea-4a7d-a423-28a13635ee05@165.245.249.254:436?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-92-15",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.196.247:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-27",
+    "vless://69223696-f2ea-4a7d-a423-28a13635ee05@157.230.113.166:436?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-32-14"
 ]
