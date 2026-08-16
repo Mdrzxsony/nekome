@@ -1,7 +1,3 @@
 [
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@104.16.72.162:8443?encryption=none&security=tls&type=ws&sni=ssl.signalsaiyq.top.&fp=firefox&allowInsecure=1&path=%2Fcdn%2F1ab0237d288e4540&host=ad-026.signalsaiyq.top.#newfrag",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@104.16.72.162:8443?encryption=none&security=tls&type=ws&sni=ssl.signalsaiyq.top.&fp=firefox&allowInsecure=1&path=%2Fcdn%2F1ab0237d288e4540&host=ad-023.signalsaiyq.top.#newfrag",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@104.16.72.162:8443?encryption=none&security=tls&type=ws&sni=ssl.signalsaiyq.top.&fp=firefox&allowInsecure=1&path=%2Fcdn%2F1ab0237d288e4540&host=ad-011.signalsaiyq.top.#newfrag",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@104.16.72.162:8443?encryption=none&security=tls&type=ws&sni=ssl.signalsaiyq.top.&fp=firefox&allowInsecure=1&path=%2Fcdn%2F1ab0237d288e4540&host=ad-015.signalsaiyq.top.#newfrag",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@104.16.72.162:8443?encryption=none&security=tls&type=ws&sni=ssl.signalsaiyq.top.&fp=firefox&allowInsecure=1&path=%2Fcdn%2F1ab0237d288e4540&host=ad-014.signalsaiyq.top.#newfrag"
+    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@workspace.signalsaiyq.top:8443?encryption=none&security=tls&type=ws&sni=workspace.signalsaiyq.top.&fp=firefox&allowInsecure=1&path=%2Fcdn%2F1ab0237d288e4540&host=workspace.signalsaiyq.top.#newfrag"
 ]
