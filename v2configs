@@ -1,12 +1,12 @@
 [
-    "vless://0454b23e-1ded-4edd-9e8a-9f9923e1e633@104.248.21.189:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-92-11",
-    "vless://69223696-f2ea-4a7d-a423-28a13635ee05@138.68.107.35:436?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-92-10",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.120.22:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-1",
-    "vless://69223696-f2ea-4a7d-a423-28a13635ee05@46.101.231.77:436?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-92-16",
-    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files111.mclarendriver.info&fp=chrome&type=ws&path=%2Ffiles111&host=files111.mclarendriver.info#Speed-90-6",
-    "vless://0454b23e-1ded-4edd-9e8a-9f9923e1e633@104.248.21.189:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-32-11",
-    "vless://ba64b760-e73b-48da-8c59-3d1fafe61177@speedtest.org:443?encryption=none&security=tls&sni=4504985849.chalus-ppll.beauty&fp=firefox&type=ws&path=%2Frpfuv&host=4504985849.chalus-ppll.beauty#Speed-83-5",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@206.189.49.193:441?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-16",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.204.248:441?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-21",
-    "vless://0bc7f328-4f7e-474e-9dbd-57af374500c5@188.114.97.6:443?encryption=none&security=tls&sni=pfe8ubbz.zeloraa.ir&fp=unsafe&type=ws&path=%2Fdastak&host=pfe8ubbz.zeloraa.ir#Speed-76-1"
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.186.168:441?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-2",
+    "vless://ec8e575d-e758-4ac3-ad28-4f61b491403a@speedtest.org:443?encryption=none&security=tls&sni=3273327846.chalus-ppll.beauty&fp=firefox&type=ws&path=%2Frkkml&host=3273327846.chalus-ppll.beauty#Speed-75-8",
+    "vless://69223696-f2ea-4a7d-a423-28a13635ee05@165.245.242.235:436?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-92-8",
+    "vless://69223696-f2ea-4a7d-a423-28a13635ee05@104.248.246.206:436?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-92-11",
+    "vless://0bc7f328-4f7e-474e-9dbd-57af374500c5@188.114.97.6:443?encryption=none&security=tls&sni=bsxo2oru.niveexa.ir&fp=unsafe&type=ws&path=%2Fdastak&host=bsxo2oru.niveexa.ir#Speed-77-2",
+    "vless://5b5e71e7-c492-4709-947d-afd5d54ddf6d@speedtest.org:443?encryption=none&security=tls&sni=0553372200.chalus-ppll.beauty&fp=firefox&type=ws&path=%2Fvvnnk&host=0553372200.chalus-ppll.beauty#Speed-75-4",
+    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files102.mclarendriver.info&fp=chrome&type=ws&path=%2Ffiles102&host=files102.mclarendriver.info#Speed-74-2",
+    "vless://69223696-f2ea-4a7d-a423-28a13635ee05@46.101.231.77:436?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-32-15",
+    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files102.mclarendriver.info&fp=chrome&type=ws&path=%2Ffiles102&host=files102.mclarendriver.info#Speed-90-2",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.83.201:441?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-90-6"
 ]
