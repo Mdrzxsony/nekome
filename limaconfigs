@@ -1,7 +1,1 @@
-[
-    "vless://f99439b7-97ab-4510-9c23-cdb4756b907e@54.37.1.240:55605?type=tcp&security=none#T",
-    "vless://f99439b7-97ab-4510-9c23-cdb4756b907e@54.37.1.97:55605?type=tcp&security=none#T",
-    "vless://f99439b7-97ab-4510-9c23-cdb4756b907e@54.37.1.137:55605?type=tcp&security=none#T",
-    "vless://f99439b7-97ab-4510-9c23-cdb4756b907e@54.37.3.112:55605?type=tcp&security=none#T",
-    "vless://f99439b7-97ab-4510-9c23-cdb4756b907e@54.37.3.42:55605?type=tcp&security=none#T"
-]
+[]
