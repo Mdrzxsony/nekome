@@ -1,16 +1,5 @@
 [
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@104.16.72.162:8443?type=ws&security=tls&path=%2Fcdn%2F1ab0237d288e4540&host=worker-026.zenbz3q8.click&sni=worker-026.zenbz3q8.click#W",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@104.16.72.162:8443?type=ws&security=tls&path=%2Fcdn%2F1ab0237d288e4540&host=worker-023.zenbz3q8.click&sni=worker-023.zenbz3q8.click#W",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@104.16.72.162:8443?type=ws&security=tls&path=%2Fcdn%2F1ab0237d288e4540&host=worker-011.zenbz3q8.click&sni=worker-011.zenbz3q8.click#W",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@104.16.72.162:8443?type=ws&security=tls&path=%2Fcdn%2F1ab0237d288e4540&host=worker-015.zenbz3q8.click&sni=worker-015.zenbz3q8.click#W",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@104.16.72.162:8443?type=ws&security=tls&path=%2Fcdn%2F1ab0237d288e4540&host=worker-014.zenbz3q8.click&sni=worker-014.zenbz3q8.click#W",
-    "vless://f244a75a-71c9-4d49-9dc0-8cced11f5160@104.16.72.162:8443?encryption=none&security=tls&type=ws&sni=ssl.primeehx9r.top.&fp=firefox&allowInsecure=1&path=%2Fcdn%2F7951f1e4f8e94998&host=ad-010.primeehx9r.top.#newfrag",
-    "vless://cb4625a3-84cf-42a5-ae81-32d29cd6cb82@104.16.72.162:8443?encryption=none&security=tls&type=ws&sni=ssl.primeehx9r.top.&fp=firefox&allowInsecure=1&path=%2Fcdn%2Fa549b23879754719&host=ad-008.primeehx9r.top.#newfrag",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@worker-026.zenbz3q8.click:8443?encryption=none&security=tls&type=ws&sni=worker-026.zenbz3q8.click&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=worker-026.zenbz3q8.click#W",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@worker-023.zenbz3q8.click:8443?encryption=none&security=tls&type=ws&sni=worker-023.zenbz3q8.click&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=worker-023.zenbz3q8.click#W",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@worker-011.zenbz3q8.click:8443?encryption=none&security=tls&type=ws&sni=worker-011.zenbz3q8.click&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=worker-011.zenbz3q8.click#W",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@worker-015.zenbz3q8.click:8443?encryption=none&security=tls&type=ws&sni=worker-015.zenbz3q8.click&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=worker-015.zenbz3q8.click#W",
-    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@worker-014.zenbz3q8.click:8443?encryption=none&security=tls&type=ws&sni=worker-014.zenbz3q8.click&fp=chrome&path=%2Fcdn%2F1ab0237d288e4540&host=worker-014.zenbz3q8.click#W",
-    "vless://f244a75a-71c9-4d49-9dc0-8cced11f5160@ad-010.primeehx9r.top:8443?encryption=none&security=tls&type=ws&sni=ad-010.primeehx9r.top&fp=chrome&path=%2Fcdn%2F7951f1e4f8e94998&host=ad-010.primeehx9r.top#W",
-    "vless://cb4625a3-84cf-42a5-ae81-32d29cd6cb82@ad-008.primeehx9r.top:8443?encryption=none&security=tls&type=ws&sni=ad-008.primeehx9r.top&fp=chrome&path=%2Fcdn%2Fa549b23879754719&host=ad-008.primeehx9r.top#W"
+    "vless://f99439b7-97ab-4510-9c23-cdb4756b907e@104.16.72.162:55605?encryption=none&security=none&type=tcp#sanaei-fr-ovh-gra-8",
+    "vless://f99439b7-97ab-4510-9c23-cdb4756b907e@104.16.72.162:55605?encryption=none&security=none&type=tcp#sanaei-fr-ovh-gra-6",
+    "vless://f99439b7-97ab-4510-9c23-cdb4756b907e@@ip:55605?encryption=none&security=none&type=tcp#T"
 ]
