@@ -1,12 +1,12 @@
 [
-    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@meshbuzz.bond:443?encryption=none&security=tls&sni=a2usqd7d.vexa-shop.ir&fp=ios&type=ws&path=%2Fadycon&host=a2usqd7d.vexa-shop.ir#Speed-35-1",
-    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files147.noonpanir.info&fp=chrome&type=ws&path=%2Ffiles147&host=files147.noonpanir.info#Speed-90-2",
-    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files146.noonpanir.info&fp=chrome&type=ws&path=%2Ffiles146&host=files146.noonpanir.info#Speed-91-5",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@142.93.229.24:441?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-91-4",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.248.174:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-91-9",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@206.189.58.71:441?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-74-9",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.106.108:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-74-24",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@188.166.6.137:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-74-17",
-    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files151.noonpanir.info&fp=chrome&type=ws&path=%2Ffiles151&host=files151.noonpanir.info#Speed-74-15",
-    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files136.noonpanir.info&fp=chrome&type=ws&path=%2Ffiles136&host=files136.noonpanir.info#Speed-74-4"
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@144.126.239.246:441?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-90-13",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@178.62.225.217:441?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-74-15",
+    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files148.noonpanir.info&fp=chrome&type=ws&path=%2Ffiles148&host=files148.noonpanir.info#Speed-90-1",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.230.39:441?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-74-8",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.103.166:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-91-8",
+    "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@meshbuzz.bond:443?encryption=none&security=tls&sni=0v37b3d5.maviron1.ir&fp=ios&type=ws&path=%2Fadycon&host=0v37b3d5.maviron1.ir#Speed-87-1",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@188.166.116.48:441?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-91-4",
+    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@worker-030.nova2lbsd.top:8443?encryption=none&security=tls&sni=worker-030.nova2lbsd.top&fp=chrome&type=ws&path=%2Fcdn%2F1ab0237d288e4540&host=worker-030.nova2lbsd.top#Speed-74-27",
+    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files139.noonpanir.info&fp=chrome&type=ws&path=%2Ffiles139&host=files139.noonpanir.info#Speed-74-22",
+    "vless://309327cb-3538-4313-98b0-301dd2c68f2f@worker-008.nova2lbsd.top:8443?encryption=none&security=tls&sni=worker-008.nova2lbsd.top&fp=chrome&type=ws&path=%2Fcdn%2F1ab0237d288e4540&host=worker-008.nova2lbsd.top#Speed-91-16"
 ]
