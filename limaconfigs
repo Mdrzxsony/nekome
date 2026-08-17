@@ -1,7 +1,7 @@
 [
-    "vless://f99439b7-97ab-4510-9c23-cdb4756b907e@54.37.1.240:55605?type=tcp&security=none#T",
-    "vless://f99439b7-97ab-4510-9c23-cdb4756b907e@54.37.1.97:55605?type=tcp&security=none#T",
-    "vless://f99439b7-97ab-4510-9c23-cdb4756b907e@54.37.1.137:55605?type=tcp&security=none#T",
-    "vless://f99439b7-97ab-4510-9c23-cdb4756b907e@54.37.3.112:55605?type=tcp&security=none#T",
-    "vless://f99439b7-97ab-4510-9c23-cdb4756b907e@54.37.3.42:55605?type=tcp&security=none#T"
+    "vless://cbd24f6f-8883-47c1-acc4-c440616668ad@167.172.186.14:55605?type=tcp&security=none#T",
+    "vless://34a257d8-b7fa-4a71-9732-5d4c694eae79@164.92.243.29:55605?type=tcp&security=none#T",
+    "vless://c6166a8d-7062-4934-b9c8-3adcd1c4812f@161.35.24.238:55605?type=tcp&security=none#T",
+    "vless://2989d410-1baf-4e6c-aa42-4be5c4a222da@161.35.207.57:55605?type=tcp&security=none#T",
+    "vless://b9598661-d715-4d56-8b98-39eacf7c38c3@167.71.35.208:55605?type=tcp&security=none#T"
 ]
