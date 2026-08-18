@@ -1,7 +1,7 @@
 [
-    "vless://5cc9a6ea-2492-4b10-914d-0074bffd94e5@@ip:55605?encryption=none&security=none&type=tcp#T",
-    "vless://88547bb3-4471-4222-8a64-eb6d13e4188e@@ip:55605?encryption=none&security=none&type=tcp#T",
-    "vless://02ecc3d4-8e39-487b-80b3-6be6232cf447@@ip:55605?encryption=none&security=none&type=tcp#T",
-    "vless://2a05f89e-2ab2-4d8e-9deb-77a8356f511e@@ip:55605?encryption=none&security=none&type=tcp#T",
-    "vless://71584033-4f7e-4591-b2d6-da0c1f73dd71@@ip:55605?encryption=none&security=none&type=tcp#T"
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@worker-005.signalo3gjj.site:8443?encryption=none&security=tls&type=ws&sni=worker-005.signalo3gjj.site&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-005.signalo3gjj.site#W",
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@worker-021.signalo3gjj.site:8443?encryption=none&security=tls&type=ws&sni=worker-021.signalo3gjj.site&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-021.signalo3gjj.site#W",
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@worker-012.signalo3gjj.site:8443?encryption=none&security=tls&type=ws&sni=worker-012.signalo3gjj.site&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-012.signalo3gjj.site#W",
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@worker-009.signalo3gjj.site:8443?encryption=none&security=tls&type=ws&sni=worker-009.signalo3gjj.site&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-009.signalo3gjj.site#W",
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@worker-026.signalo3gjj.site:8443?encryption=none&security=tls&type=ws&sni=worker-026.signalo3gjj.site&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-026.signalo3gjj.site#W"
 ]
