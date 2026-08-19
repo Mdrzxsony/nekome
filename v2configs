@@ -1,1 +1,3 @@
-[]
+[
+    "vless://00000000-0000-0000-0000-000000000000@10.254.254.1:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=store.steampowered.com&fp=chrome&sid=00&type=tcp#offline"
+]
