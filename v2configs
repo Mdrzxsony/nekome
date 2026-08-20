@@ -1,12 +1,10 @@
 [
-    "vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@ipw.ygdfw.com:443?encryption=none&security=tls&sni=lqbxgijb.telqor.ir&fp=ios&type=ws&path=%2Fws-vlees&host=lqbxgijb.telqor.ir#Speed-90-9",
-    "vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@ipw.ygdfw.com:443?encryption=none&security=tls&sni=qyk9e80e.veltrixo.ir&fp=ios&type=ws&path=%2Fws-vlees&host=qyk9e80e.veltrixo.ir#Speed-100-2",
-    "vless://ff33d34d-2742-4879-9d07-651a329f7ff5@speedtest.org:443?encryption=none&security=tls&sni=0995270687.chalus-ppll.beauty&fp=firefox&type=ws&path=%2Fsecwz&host=0995270687.chalus-ppll.beauty#Speed-75-2",
-    "vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@ipw.ygdfw.com:443?encryption=none&security=tls&sni=qdzrvvpv.veltrixo.ir&fp=ios&type=ws&path=%2Fws-vlees&host=qdzrvvpv.veltrixo.ir#Speed-100-3",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@170.64.161.116:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-19",
-    "vless://cdf70df2-f0e7-442a-b188-aaced6999cc2@188.114.97.6:443?encryption=none&security=tls&sni=hh2x7waa.orvaano.ir&fp=unsafe&type=ws&path=%2Fdastebil&host=hh2x7waa.orvaano.ir#Speed-77-2",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@170.64.157.96:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-103-6",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@168.144.174.48:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-74-10",
-    "vless://cdf70df2-f0e7-442a-b188-aaced6999cc2@188.114.97.6:443?encryption=none&security=tls&sni=r7eadovz.arviilo.ir&fp=unsafe&type=ws&path=%2Fdastebil&host=r7eadovz.arviilo.ir#Speed-76-3",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.90.184.128:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-103-10"
+    "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@meshbuzz.bond:443?encryption=none&security=tls&sni=gf2rxblo.maviron1.ir&fp=ios&type=ws&path=%2Fadycon&host=gf2rxblo.maviron1.ir#Speed-98-1",
+    "vless://cdf70df2-f0e7-442a-b188-aaced6999cc2@188.114.97.6:443?encryption=none&security=tls&sni=18w285qp.orvaano.ir&fp=unsafe&type=ws&path=%2Fdastebil&host=18w285qp.orvaano.ir#Speed-77-2",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.223.230.187:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-1",
+    "vless://f990a90c-d540-4751-a3e7-bbdc62983a32@dontreject.ir:443?encryption=none&security=tls&sni=ZzQgAeXw.mAsHaDiEbOd.oRg&fp=firefox&type=ws&path=%2Fmashdi&host=ZzQgAeXw.mAsHaDiEbOd.oRg#Speed-74-8",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@178.62.203.24:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-103-16",
+    "vless://cdf70df2-f0e7-442a-b188-aaced6999cc2@188.114.97.6:443?encryption=none&security=tls&sni=cex06xqi.orvaano.ir&fp=unsafe&type=ws&path=%2Fdastebil&host=cex06xqi.orvaano.ir#Speed-77-1",
+    "vless://cdf70df2-f0e7-442a-b188-aaced6999cc2@188.114.97.6:443?encryption=none&security=tls&sni=xbbvepsg.orvaano.ir&fp=unsafe&type=ws&path=%2Fdastebil&host=xbbvepsg.orvaano.ir#Speed-77-3",
+    "vless://3f3d5ac0-ae2b-4cb6-a403-cccb387f0444@speedtest.org:443?encryption=none&security=tls&sni=vbkil.bluecloudnode-balii.sbs&fp=chrome&type=ws&path=%2Fwait&host=vbkil.bluecloudnode-balii.sbs#Speed-84-1"
 ]
