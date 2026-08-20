@@ -1,1 +1,11 @@
-[]
+[
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@206.189.104.156:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-15",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@178.62.208.181:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-20",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@178.62.208.181:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-90-9",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.199.165.208:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-90-10",
+    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@meshbuzz.bond:443?encryption=none&security=tls&sni=ve3j4wks.vexa-shop.ir&fp=ios&type=ws&path=%2Fadycon&host=ve3j4wks.vexa-shop.ir#Speed-91-15",
+    "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@meshbuzz.bond:443?encryption=none&security=tls&sni=n3xh5oqb.maviron1.ir&fp=ios&type=ws&path=%2Fadycon&host=n3xh5oqb.maviron1.ir#Speed-98-1",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@178.128.246.232:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-1",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@170.64.148.34:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-91-2",
+    "vless://01704b80-8e9e-4da4-b574-74c06dfb64f8@dontreject.ir:443?encryption=none&security=tls&sni=FeLnQhKh.mAsHaDiEbOd.oRg&fp=firefox&type=ws&path=%2Fmashdi&host=FeLnQhKh.mAsHaDiEbOd.oRg#Speed-85-1"
+]
