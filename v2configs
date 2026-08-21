@@ -1,11 +1,10 @@
 [
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@188.166.21.242:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-103-16",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.40.90:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-13",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.157.210:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-26",
-    "vless://cdf70df2-f0e7-442a-b188-aaced6999cc2@188.114.97.6:443?encryption=none&security=tls&sni=aob913tn.arviilo.ir&fp=unsafe&type=ws&path=%2Fdastebil&host=aob913tn.arviilo.ir#Speed-90-15",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.227.135.144:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-5",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.213.1:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-2",
-    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files118.carmoon.info&fp=chrome&type=ws&path=%2Ffiles118&host=files118.carmoon.info#Speed-91-7",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@206.189.96.108:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-103-28",
-    "vless://cdf70df2-f0e7-442a-b188-aaced6999cc2@188.114.97.6:443?encryption=none&security=tls&sni=0k40rwmq.orvaano.ir&fp=unsafe&type=ws&path=%2Fdastebil&host=0k40rwmq.orvaano.ir#Speed-77-2"
+    "vless://3f3d5ac0-ae2b-4cb6-a403-cccb387f0444@speedtest.org:443?encryption=none&security=tls&sni=vbkil.bluecloudnode-balii.sbs&fp=chrome&type=ws&path=%2Fwait&host=vbkil.bluecloudnode-balii.sbs#Speed-84-1",
+    "vless://cdf70df2-f0e7-442a-b188-aaced6999cc2@188.114.97.6:443?encryption=none&security=tls&sni=ta1k7686.zelaaro.ir&fp=unsafe&type=ws&path=%2Fdastebil&host=ta1k7686.zelaaro.ir#Speed-76-2",
+    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files119.mclarendriver.info&fp=chrome&type=ws&path=%2Ffiles119&host=files119.mclarendriver.info#Speed-90-2",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.90.197.86:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-74-13",
+    "vless://cdf70df2-f0e7-442a-b188-aaced6999cc2@188.114.97.6:443?encryption=none&security=tls&sni=75kx63ym.zelaaro.ir&fp=unsafe&type=ws&path=%2Fdastebil&host=75kx63ym.zelaaro.ir#Speed-76-1",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.6.180:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-103-7",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.99.216.56:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-1",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@206.189.96.108:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-29"
 ]
