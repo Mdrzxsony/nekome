@@ -1,7 +1,7 @@
 [
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-004.galaxyappnew.info&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-004.galaxyappnew.info#newfrag",
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-016.galaxyappnew.info&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-016.galaxyappnew.info#newfrag",
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-010.galaxyappnew.info&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-010.galaxyappnew.info#newfrag",
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-008.galaxyappnew.info&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-008.galaxyappnew.info#newfrag",
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-021.galaxyappnew.info&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-021.galaxyappnew.info#newfrag"
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-004.miloappnew.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-004.miloappnew.top#newfrag",
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-016.miloappnew.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-016.miloappnew.top#newfrag",
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-010.miloappnew.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-010.miloappnew.top#newfrag",
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-008.miloappnew.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-008.miloappnew.top#newfrag",
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-021.miloappnew.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-021.miloappnew.top#newfrag"
 ]
