@@ -1,11 +1,10 @@
 [
-    "vless://f990a90c-d540-4751-a3e7-bbdc62983a32@dontreject.ir:443?encryption=none&security=tls&sni=VwDuGlUf.mAsHaDiEbOd.oRg&fp=firefox&type=ws&path=%2Fmashdi&host=VwDuGlUf.mAsHaDiEbOd.oRg#Speed-91-16",
-    "vless://cdf70df2-f0e7-442a-b188-aaced6999cc2@188.114.97.6:443?encryption=none&security=tls&sni=c80ipa7v.orvaano.ir&fp=unsafe&type=ws&path=%2Fdastebil&host=c80ipa7v.orvaano.ir#Speed-77-1",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.90.166.8:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-8",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.88.133:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-23",
-    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files132.kamelbash.info&fp=chrome&type=ws&path=%2Ffiles132&host=files132.kamelbash.info#Speed-74-2",
-    "vless://e364dd98-cf6f-4897-af1d-9ff57301cd6b@162.159.137.232:8443?encryption=none&security=tls&sni=status.tridin.site.&fp=random&type=ws&path=%2F&host=status.tridin.site.#Speed-74-22",
-    "vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@ipw.ygdfw.com:443?encryption=none&security=tls&sni=f7r2v2yn.shopmexa.ir&fp=unsafe&type=ws&path=%2Fws-vlees&host=f7r2v2yn.shopmexa.ir#Speed-74-36",
-    "vless://cdf70df2-f0e7-442a-b188-aaced6999cc2@188.114.97.6:443?encryption=none&security=tls&sni=tzt5g1b4.yeknafaree.ir&fp=unsafe&type=ws&path=%2Fdastebil&host=tzt5g1b4.yeknafaree.ir#Speed-76-1",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@188.166.105.57:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-103-2"
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@195.201.100.34:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-103-10",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@168.119.232.94:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-9",
+    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files137.leilafromgoogle.info&fp=chrome&type=ws&path=%2Ffiles137&host=files137.leilafromgoogle.info#Speed-74-5",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.133.24:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-74-14",
+    "vless://cdf70df2-f0e7-442a-b188-aaced6999cc2@188.114.97.6:443?encryption=none&security=tls&sni=uzj1b3x7.yeknafaree.ir&fp=unsafe&type=ws&path=%2Fdastebil&host=uzj1b3x7.yeknafaree.ir#Speed-74-33",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.78.63:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-103-8",
+    "vless://cdf70df2-f0e7-442a-b188-aaced6999cc2@188.114.97.6:443?encryption=none&security=tls&sni=uzj1b3x7.yeknafaree.ir&fp=unsafe&type=ws&path=%2Fdastebil&host=uzj1b3x7.yeknafaree.ir#Speed-74-29",
+    "vless://29dce8c6-0f37-4214-a721-3e8fad6ba0b7@104.16.92.229:8443?encryption=none&security=tls&sni=status.tridin.site.&fp=random&type=ws&path=%2F&host=status.tridin.site.#Speed-74-27"
 ]
