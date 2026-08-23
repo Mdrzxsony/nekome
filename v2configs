@@ -1,10 +1,11 @@
 [
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.94.192:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-103-14",
-    "vless://3536b030-c733-4562-b79f-925f40255cf8@164.92.167.226:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-32-6",
-    "vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@ipw.ygdfw.com:443?encryption=none&security=tls&sni=3zwhb01n.shopmexa.ir&fp=unsafe&type=ws&path=%2Fws-vlees&host=3zwhb01n.shopmexa.ir#Speed-91-15",
-    "vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@ipw.ygdfw.com:443?encryption=none&security=tls&sni=22td1rfc.myzora.ir&fp=ios&type=ws&path=%2Fws-vlees&host=22td1rfc.myzora.ir#Speed-93-1",
-    "vless://cdf70df2-f0e7-442a-b188-aaced6999cc2@188.114.97.6:443?encryption=none&security=tls&sni=fxwgws5k.orvaano.ir&fp=unsafe&type=ws&path=%2Fdastebil&host=fxwgws5k.orvaano.ir#Speed-77-2",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.99.210.15:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-29",
-    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files110.cartexture.info&fp=chrome&type=ws&path=%2Ffiles110&host=files110.cartexture.info#Speed-74-2",
-    "vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@ipw.ygdfw.com:443?encryption=none&security=tls&sni=f7r2v2yn.shopmexa.ir&fp=unsafe&type=ws&path=%2Fws-vlees&host=f7r2v2yn.shopmexa.ir#Speed-109-18"
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.96.230:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-103-14",
+    "vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@ipw.ygdfw.com:443?encryption=none&security=tls&sni=3zwhb01n.shopmexa.ir&fp=unsafe&type=ws&path=%2Fws-vlees&host=3zwhb01n.shopmexa.ir#Speed-109-17",
+    "vless://f990a90c-d540-4751-a3e7-bbdc62983a32@dontreject.ir:443?encryption=none&security=tls&sni=ZzQgAeXw.mAsHaDiEbOd.oRg&fp=firefox&type=ws&path=%2Fmashdi&host=ZzQgAeXw.mAsHaDiEbOd.oRg#Speed-74-34",
+    "vless://01704b80-8e9e-4da4-b574-74c06dfb64f8@dontreject.ir:443?encryption=none&security=tls&sni=FeLnQhKh.mAsHaDiEbOd.oRg&fp=firefox&type=ws&path=%2Fmashdi&host=FeLnQhKh.mAsHaDiEbOd.oRg#Speed-91-7",
+    "vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@ipw.ygdfw.com:443?encryption=none&security=tls&sni=3zwhb01n.shopmexa.ir&fp=unsafe&type=ws&path=%2Fws-vlees&host=3zwhb01n.shopmexa.ir#Speed-109-19",
+    "vless://279f3d20-b2d5-4135-91b0-0de2eb3c829d@165.22.28.133:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-32-16",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@188.166.77.231:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-9",
+    "vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@ipw.ygdfw.com:443?encryption=none&security=tls&sni=3zwhb01n.shopmexa.ir&fp=unsafe&type=ws&path=%2Fws-vlees&host=3zwhb01n.shopmexa.ir#Speed-101-1",
+    "vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@ipw.ygdfw.com:443?encryption=none&security=tls&sni=izeiv4hk.veltrixo.ir&fp=ios&type=ws&path=%2Fws-vlees&host=izeiv4hk.veltrixo.ir#Speed-102-1"
 ]
