@@ -1,12 +1,10 @@
 [
-    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files149.cardesigner.info&fp=chrome&type=ws&path=%2Ffiles149&host=files149.cardesigner.info#Speed-122-8",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.99.229:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-74-11",
-    "vless://fed1a6c5-c834-49c0-8fb2-390aaae217ab@104.18.32.47:80?encryption=none&security=none&type=ws&path=%2F&host=sTATuS.TRIdin.SiTe.#Speed-74-17",
-    "vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@ipw.ygdfw.com:443?encryption=none&security=tls&sni=uw2brc2g.shopmexa.ir&fp=unsafe&type=ws&path=%2Fws-vlees&host=uw2brc2g.shopmexa.ir#Speed-109-12",
-    "vless://3f3d5ac0-ae2b-4cb6-a403-cccb387f0444@speedtest.org:443?encryption=none&security=tls&sni=vbkil.bluecloudnode-balii.sbs&fp=chrome&type=ws&path=%2Fwait&host=vbkil.bluecloudnode-balii.sbs#Speed-84-1",
-    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files140.cardesigner.info&fp=chrome&type=ws&path=%2Ffiles140&host=files140.cardesigner.info#Speed-122-6",
-    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files143.cardesigner.info&fp=chrome&type=ws&path=%2Ffiles143&host=files143.cardesigner.info#Speed-74-4",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@170.64.187.141:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-17",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@178.128.251.79:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-103-16",
-    "vless://139d719f-d4fb-4fd9-94c5-c78d549e13a9@104.16.72.50:80?encryption=none&security=none&type=ws&path=%2F&host=sTATuS.TRIdin.SiTe.#Speed-74-23"
+    "vless://063bfca4-5ebf-47a2-bc0e-254c0a172465@209.38.198.226:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-92-17",
+    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files131.carpicture.info&fp=chrome&type=ws&path=%2Ffiles131&host=files131.carpicture.info#Speed-120-7",
+    "vless://063bfca4-5ebf-47a2-bc0e-254c0a172465@164.90.171.224:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-116-12",
+    "vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@ipw.ygdfw.com:443?encryption=none&security=tls&sni=uw2brc2g.shopmexa.ir&fp=unsafe&type=ws&path=%2Fws-vlees&host=uw2brc2g.shopmexa.ir#Speed-120-33",
+    "vless://f990a90c-d540-4751-a3e7-bbdc62983a32@dontreject.ir:443?encryption=none&security=tls&sni=SkGfTwFr.mAsHaDiEbOd.oRg&fp=firefox&type=ws&path=%2Fmashdi&host=SkGfTwFr.mAsHaDiEbOd.oRg#Speed-120-26",
+    "vless://063bfca4-5ebf-47a2-bc0e-254c0a172465@209.38.198.226:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-32-13",
+    "vless://33d5ecd8-b530-4040-9c40-98b6805a3992@tgju.org:443?encryption=none&security=tls&sni=files146.carpicture.info&fp=chrome&type=ws&path=%2Ffiles146&host=files146.carpicture.info#Speed-120-6",
+    "vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@ipw.ygdfw.com:443?encryption=none&security=tls&sni=h7wo41rf.veltrixo.ir&fp=ios&type=ws&path=%2Fws-vlees&host=h7wo41rf.veltrixo.ir#Speed-100-3"
 ]
