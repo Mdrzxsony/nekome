@@ -1,1 +1,7 @@
-[]
+[
+    "vless://fa0d67a0-7ca2-4ded-a4ef-1096610db6a0@check08.minizbazar.ir:2053?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&sid=524efc1f88592266&type=grpc&serviceName=api.v1.data&mode=gun#RGCHECK08",
+    "vless://fa0d67a0-7ca2-4ded-a4ef-1096610db6a0@check01.minizbazar.ir:2053?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&sid=524efc1f88592266&type=grpc&serviceName=api.v1.data&mode=gun#RGCHECK01",
+    "vless://fa0d67a0-7ca2-4ded-a4ef-1096610db6a0@check05.minizbazar.ir:2053?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&sid=524efc1f88592266&type=grpc&serviceName=api.v1.data&mode=gun#RGCHECK05",
+    "vless://fa0d67a0-7ca2-4ded-a4ef-1096610db6a0@check10.minizbazar.ir:2053?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&sid=524efc1f88592266&type=grpc&serviceName=api.v1.data&mode=gun#RGCHECK10",
+    "vless://fa0d67a0-7ca2-4ded-a4ef-1096610db6a0@check07.minizbazar.ir:2053?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&sid=524efc1f88592266&type=grpc&serviceName=api.v1.data&mode=gun#RGCHECK07"
+]
