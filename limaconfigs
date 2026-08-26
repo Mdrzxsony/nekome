@@ -1,7 +1,7 @@
 [
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-004.limamilo.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-004.limamilo.top#newfrag",
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-016.limamilo.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-016.limamilo.top#newfrag",
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-010.limamilo.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-010.limamilo.top#newfrag",
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-008.limamilo.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-008.limamilo.top#newfrag",
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-021.limamilo.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-021.limamilo.top#newfrag"
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-032.primev8pme.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-032.primev8pme.top#newfrag",
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-001.primev8pme.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-001.primev8pme.top#newfrag",
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-034.primev8pme.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-034.primev8pme.top#newfrag",
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-003.primev8pme.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-003.primev8pme.top#newfrag",
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-009.primev8pme.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-009.primev8pme.top#newfrag"
 ]
