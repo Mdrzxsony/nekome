@@ -1,7 +1,7 @@
 [
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-004.primec2ebz.top&fp=chrome&allowInsecure=1&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-004.primec2ebz.top#newfrag",
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-016.primec2ebz.top&fp=chrome&allowInsecure=1&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-016.primec2ebz.top#newfrag",
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-010.primec2ebz.top&fp=chrome&allowInsecure=1&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-010.primec2ebz.top#newfrag",
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-008.primec2ebz.top&fp=chrome&allowInsecure=1&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-008.primec2ebz.top#newfrag",
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-021.primec2ebz.top&fp=chrome&allowInsecure=1&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-021.primec2ebz.top#newfrag"
+    "vless://35d375c6-eb80-4fbf-9731-833246bcaca6@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-004.prime1ehf2.top&fp=chrome&allowInsecure=1&path=%2Fcdn%2F6ade300ff15f4967&host=worker-004.prime1ehf2.top#newfrag",
+    "vless://35d375c6-eb80-4fbf-9731-833246bcaca6@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-016.prime1ehf2.top&fp=chrome&allowInsecure=1&path=%2Fcdn%2F6ade300ff15f4967&host=worker-016.prime1ehf2.top#newfrag",
+    "vless://35d375c6-eb80-4fbf-9731-833246bcaca6@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-010.prime1ehf2.top&fp=chrome&allowInsecure=1&path=%2Fcdn%2F6ade300ff15f4967&host=worker-010.prime1ehf2.top#newfrag",
+    "vless://35d375c6-eb80-4fbf-9731-833246bcaca6@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-008.prime1ehf2.top&fp=chrome&allowInsecure=1&path=%2Fcdn%2F6ade300ff15f4967&host=worker-008.prime1ehf2.top#newfrag",
+    "vless://35d375c6-eb80-4fbf-9731-833246bcaca6@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-021.prime1ehf2.top&fp=chrome&allowInsecure=1&path=%2Fcdn%2F6ade300ff15f4967&host=worker-021.prime1ehf2.top#newfrag"
 ]
