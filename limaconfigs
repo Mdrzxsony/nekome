@@ -1,7 +1,7 @@
 [
-    "vless://35d375c6-eb80-4fbf-9731-833246bcaca6@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-004.prime1ehf2.top&fp=chrome&path=%2Fcdn%2F6ade300ff15f4967&host=worker-004.prime1ehf2.top#newfrag",
-    "vless://35d375c6-eb80-4fbf-9731-833246bcaca6@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-016.prime1ehf2.top&fp=chrome&path=%2Fcdn%2F6ade300ff15f4967&host=worker-016.prime1ehf2.top#newfrag",
-    "vless://35d375c6-eb80-4fbf-9731-833246bcaca6@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-010.prime1ehf2.top&fp=chrome&path=%2Fcdn%2F6ade300ff15f4967&host=worker-010.prime1ehf2.top#newfrag",
-    "vless://35d375c6-eb80-4fbf-9731-833246bcaca6@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-008.prime1ehf2.top&fp=chrome&path=%2Fcdn%2F6ade300ff15f4967&host=worker-008.prime1ehf2.top#newfrag",
-    "vless://35d375c6-eb80-4fbf-9731-833246bcaca6@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-021.prime1ehf2.top&fp=chrome&path=%2Fcdn%2F6ade300ff15f4967&host=worker-021.prime1ehf2.top#newfrag"
+    "vless://db9b2837-cbf5-458c-8be9-9ec38d431410@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-004.prime1ehf2.top&fp=chrome&path=%2Fcdn%2F03b3166e071442e2&host=worker-004.prime1ehf2.top#newfrag",
+    "vless://db9b2837-cbf5-458c-8be9-9ec38d431410@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-016.prime1ehf2.top&fp=chrome&path=%2Fcdn%2F03b3166e071442e2&host=worker-016.prime1ehf2.top#newfrag",
+    "vless://db9b2837-cbf5-458c-8be9-9ec38d431410@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-010.prime1ehf2.top&fp=chrome&path=%2Fcdn%2F03b3166e071442e2&host=worker-010.prime1ehf2.top#newfrag",
+    "vless://db9b2837-cbf5-458c-8be9-9ec38d431410@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-008.prime1ehf2.top&fp=chrome&path=%2Fcdn%2F03b3166e071442e2&host=worker-008.prime1ehf2.top#newfrag",
+    "vless://db9b2837-cbf5-458c-8be9-9ec38d431410@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-021.prime1ehf2.top&fp=chrome&path=%2Fcdn%2F03b3166e071442e2&host=worker-021.prime1ehf2.top#newfrag"
 ]
