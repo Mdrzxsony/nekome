@@ -1,7 +1,7 @@
 [
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-004.coreixx2x.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-004.coreixx2x.top#newfrag",
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-016.coreixx2x.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-016.coreixx2x.top#newfrag",
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-010.coreixx2x.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-010.coreixx2x.top#newfrag",
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-008.coreixx2x.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-008.coreixx2x.top#newfrag",
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-021.coreixx2x.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-021.coreixx2x.top#newfrag"
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-004.flux48dof.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-004.flux48dof.top#newfrag",
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-016.flux48dof.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-016.flux48dof.top#newfrag",
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-010.flux48dof.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-010.flux48dof.top#newfrag",
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-008.flux48dof.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-008.flux48dof.top#newfrag",
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-021.flux48dof.top&fp=chrome&path=%2Fcdn%2F7ae87fc47c544a50&host=worker-021.flux48dof.top#newfrag"
 ]
