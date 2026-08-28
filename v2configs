@@ -1,10 +1,9 @@
 [
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.223.22.89:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72-26",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.196.14:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-147-3",
-    "vless://a0157cfa-2ce0-46a7-b657-c940038d6858@188.114.97.6:443?encryption=none&security=tls&sni=jxxod412.mahyarkuchulo.com&fp=unsafe&type=ws&path=%2Fmash&host=jxxod412.mahyarkuchulo.com#Speed-91-8",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.70.75:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-141-6",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@206.81.16.206:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-152-2",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.221.207:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-103-9",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.205.192:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-103-25",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.117.117:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-147-29"
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.209.255.117:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-103-29",
+    "vless://1b1d02f9-02d7-410a-9393-93c485c7233f@Api.devsoftsnow.com:443?encryption=none&security=tls&sni=platform125.golnamakdata.info&fp=chrome&type=ws&path=%2Fplatform125&host=platform125.golnamakdata.info#Speed-108-2",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.65.117.41:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-103-16",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.245.226:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-147-16",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.223.22.89:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-103-9",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.22.141:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-103-20",
+    "vless://a0157cfa-2ce0-46a7-b657-c940038d6858@188.114.97.6:443?encryption=none&security=tls&sni=wpgx97gd.madovor.com&fp=unsafe&type=ws&path=%2Fmash&host=wpgx97gd.madovor.com#Speed-113-1"
 ]
