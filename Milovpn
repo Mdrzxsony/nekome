@@ -1,7 +1,7 @@
 [
-    "vless://a782e52b-eae4-44ba-9156-64eb355db1f4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-004.rapid7fiyd.top&fp=chrome&path=%2Fcdn%2F36b9750f48de4dc3&host=worker-004.rapid7fiyd.top#newfrag",
-    "vless://a782e52b-eae4-44ba-9156-64eb355db1f4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-016.rapid7fiyd.top&fp=chrome&path=%2Fcdn%2F36b9750f48de4dc3&host=worker-016.rapid7fiyd.top#newfrag",
-    "vless://a782e52b-eae4-44ba-9156-64eb355db1f4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-010.rapid7fiyd.top&fp=chrome&path=%2Fcdn%2F36b9750f48de4dc3&host=worker-010.rapid7fiyd.top#newfrag",
-    "vless://a782e52b-eae4-44ba-9156-64eb355db1f4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-008.rapid7fiyd.top&fp=chrome&path=%2Fcdn%2F36b9750f48de4dc3&host=worker-008.rapid7fiyd.top#newfrag",
-    "vless://a782e52b-eae4-44ba-9156-64eb355db1f4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-021.rapid7fiyd.top&fp=chrome&path=%2Fcdn%2F36b9750f48de4dc3&host=worker-021.rapid7fiyd.top#newfrag"
+    "vless://f83647f0-a703-4d3f-9822-1001dbf67b2a@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-021.coret0lap.top&fp=chrome&path=%2Fcdn%2Faff0ecf22ba74403&host=worker-021.coret0lap.top#newfrag",
+    "vless://f83647f0-a703-4d3f-9822-1001dbf67b2a@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-012.coret0lap.top&fp=chrome&path=%2Fcdn%2Faff0ecf22ba74403&host=worker-012.coret0lap.top#newfrag",
+    "vless://f83647f0-a703-4d3f-9822-1001dbf67b2a@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-027.coret0lap.top&fp=chrome&path=%2Fcdn%2Faff0ecf22ba74403&host=worker-027.coret0lap.top#newfrag",
+    "vless://f83647f0-a703-4d3f-9822-1001dbf67b2a@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-003.coret0lap.top&fp=chrome&path=%2Fcdn%2Faff0ecf22ba74403&host=worker-003.coret0lap.top#newfrag",
+    "vless://f83647f0-a703-4d3f-9822-1001dbf67b2a@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-006.coret0lap.top&fp=chrome&path=%2Fcdn%2Faff0ecf22ba74403&host=worker-006.coret0lap.top#newfrag"
 ]
