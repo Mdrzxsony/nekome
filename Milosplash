@@ -1,7 +1,7 @@
 [
-    "vless://f83647f0-a703-4d3f-9822-1001dbf67b2a@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=51.210.159.202&fp=chrome&path=%2Fcdn%2Faff0ecf22ba74403&host=51.210.159.202#newfrag",
-    "vless://f83647f0-a703-4d3f-9822-1001dbf67b2a@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=51.89.226.101&fp=chrome&path=%2Fcdn%2Faff0ecf22ba74403&host=51.89.226.101#newfrag",
-    "vless://f83647f0-a703-4d3f-9822-1001dbf67b2a@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=145.239.29.81&fp=chrome&path=%2Fcdn%2Faff0ecf22ba74403&host=145.239.29.81#newfrag",
-    "vless://f83647f0-a703-4d3f-9822-1001dbf67b2a@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=51.195.25.141&fp=chrome&path=%2Fcdn%2Faff0ecf22ba74403&host=51.195.25.141#newfrag",
-    "vless://f83647f0-a703-4d3f-9822-1001dbf67b2a@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=57.128.114.231&fp=chrome&path=%2Fcdn%2Faff0ecf22ba74403&host=57.128.114.231#newfrag"
+    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=51.210.159.202&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=51.210.159.202#newfrag",
+    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=51.89.226.101&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=51.89.226.101#newfrag",
+    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=145.239.29.81&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=145.239.29.81#newfrag",
+    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=51.195.25.141&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=51.195.25.141#newfrag",
+    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=57.128.114.231&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=57.128.114.231#newfrag"
 ]
