@@ -1,7 +1,7 @@
 [
-    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-021.primeofap9.top&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=worker-021.primeofap9.top#newfrag",
-    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-012.primeofap9.top&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=worker-012.primeofap9.top#newfrag",
-    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-027.primeofap9.top&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=worker-027.primeofap9.top#newfrag",
-    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-003.primeofap9.top&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=worker-003.primeofap9.top#newfrag",
-    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-006.primeofap9.top&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=worker-006.primeofap9.top#newfrag"
+    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-021.coredevrust.top&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=worker-021.coredevrust.top#newfrag",
+    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-012.coredevrust.top&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=worker-012.coredevrust.top#newfrag",
+    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-027.coredevrust.top&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=worker-027.coredevrust.top#newfrag",
+    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-003.coredevrust.top&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=worker-003.coredevrust.top#newfrag",
+    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-006.coredevrust.top&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=worker-006.coredevrust.top#newfrag"
 ]
