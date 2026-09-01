@@ -1,4 +1,6 @@
 [
-    "vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&security=none&type=tcp#proxy",
-    "vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&security=none&type=tcp#proxy-2"
+    "vless://716c77a1-5237-4b86-b5f6-3362c519026f@78.108.124.12:2085?encryption=none&security=none&type=grpc&serviceName=vless#proxy",
+    "vless://716c77a1-5237-4b86-b5f6-3362c519026f@78.108.124.13:2085?encryption=none&security=none&type=grpc&serviceName=vless#proxy-2",
+    "vless://716c77a1-5237-4b86-b5f6-3362c519026f@78.108.124.14:2085?encryption=none&security=none&type=grpc&serviceName=vless#proxy-3",
+    "vless://716c77a1-5237-4b86-b5f6-3362c519026f@78.108.124.12:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=aviasales.ru&fp=chrome&pbk=bEeH-FkbZTtgCl5bG49wX6bo0WmL6eq9%3AjBubb6BFhY&sid=30716db2e6e716f9#proxy-4"
 ]
