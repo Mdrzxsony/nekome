@@ -1,4 +1,17 @@
 [
-    "vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&security=none&type=tcp#proxy",
-    "vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&security=none&type=tcp#proxy-2"
+    "vless://5db60648-e9ff-44d6-bab5-11d4d24c359a@78.108.124.36:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=aviasales.ru&fp=chrome&pbk=SUG0YHVOIYo5ZtRTG0h-s-eVAbEjUpFxmsV4Sqycf2E&sid=cd3c149d8e4b4df4#proxy",
+    "vless://5db60648-e9ff-44d6-bab5-11d4d24c359a@78.108.124.36:2085?encryption=none&security=none&type=grpc&serviceName=vless#proxy-2",
+    "vless://5db60648-e9ff-44d6-bab5-11d4d24c359a@78.108.124.37:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=aviasales.ru&fp=chrome&pbk=SUG0YHVOIYo5ZtRTG0h-s-eVAbEjUpFxmsV4Sqycf2E&sid=cd3c149d8e4b4df4#proxy-3",
+    "vless://5db60648-e9ff-44d6-bab5-11d4d24c359a@78.108.124.37:2085?encryption=none&security=none&type=grpc&serviceName=vless#proxy-4",
+    "vless://5db60648-e9ff-44d6-bab5-11d4d24c359a@78.108.124.38:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=aviasales.ru&fp=chrome&pbk=SUG0YHVOIYo5ZtRTG0h-s-eVAbEjUpFxmsV4Sqycf2E&sid=cd3c149d8e4b4df4#proxy-5",
+    "vless://5db60648-e9ff-44d6-bab5-11d4d24c359a@78.108.124.38:2085?encryption=none&security=none&type=grpc&serviceName=vless#proxy-6",
+    "vless://5db60648-e9ff-44d6-bab5-11d4d24c359a@78.108.124.39:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=aviasales.ru&fp=chrome&pbk=SUG0YHVOIYo5ZtRTG0h-s-eVAbEjUpFxmsV4Sqycf2E&sid=cd3c149d8e4b4df4#proxy-7",
+    "vless://5db60648-e9ff-44d6-bab5-11d4d24c359a@78.108.124.39:2085?encryption=none&security=none&type=grpc&serviceName=vless#proxy-8",
+    "vless://5db60648-e9ff-44d6-bab5-11d4d24c359a@78.108.124.40:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=aviasales.ru&fp=chrome&pbk=SUG0YHVOIYo5ZtRTG0h-s-eVAbEjUpFxmsV4Sqycf2E&sid=cd3c149d8e4b4df4#proxy-9",
+    "vless://5db60648-e9ff-44d6-bab5-11d4d24c359a@78.108.124.40:2085?encryption=none&security=none&type=grpc&serviceName=vless#proxy-10",
+    "vless://5db60648-e9ff-44d6-bab5-11d4d24c359a@78.108.124.36:2087?encryption=none&security=none&type=ws&path=%2F5c853ca43eaa#proxy-11",
+    "vless://5db60648-e9ff-44d6-bab5-11d4d24c359a@78.108.124.37:2087?encryption=none&security=none&type=ws&path=%2Ffdcfac8a85c2#proxy-12",
+    "vless://5db60648-e9ff-44d6-bab5-11d4d24c359a@78.108.124.38:2087?encryption=none&security=none&type=ws&path=%2F94229912c837#proxy-13",
+    "vless://5db60648-e9ff-44d6-bab5-11d4d24c359a@78.108.124.39:2087?encryption=none&security=none&type=ws&path=%2F3b0864fb21d9#proxy-14",
+    "vless://5db60648-e9ff-44d6-bab5-11d4d24c359a@78.108.124.40:2087?encryption=none&security=none&type=ws&path=%2Fc6c0d328cc04#proxy-15"
 ]
