@@ -1,7 +1,7 @@
 [
-    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-021.lima-app-renovation.info&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=worker-021.lima-app-renovation.info#newfrag",
-    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-012.lima-app-renovation.info&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=worker-012.lima-app-renovation.info#newfrag",
-    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-027.lima-app-renovation.info&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=worker-027.lima-app-renovation.info#newfrag",
-    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-003.lima-app-renovation.info&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=worker-003.lima-app-renovation.info#newfrag",
-    "vless://3c28c17c-ad63-4c8e-8c55-cededbe31bf4@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-006.lima-app-renovation.info&fp=chrome&path=%2Fcdn%2Fed748a84d5ac4adb&host=worker-006.lima-app-renovation.info#newfrag"
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-021.rapid5drmj.top&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-021.rapid5drmj.top#newfrag",
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-012.rapid5drmj.top&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-012.rapid5drmj.top#newfrag",
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-027.rapid5drmj.top&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-027.rapid5drmj.top#newfrag",
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-003.rapid5drmj.top&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-003.rapid5drmj.top#newfrag",
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-006.rapid5drmj.top&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-006.rapid5drmj.top#newfrag"
 ]
