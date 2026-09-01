@@ -1,14 +1,15 @@
 [
-    "vless://a0157cfa-2ce0-46a7-b657-c940038d6858@dee338dd.localip.ir:443?encryption=none&security=tls&sni=smart.2huhk6u8lh.space&fp=unsafe&type=ws&path=%2Fmash&host=smart.2huhk6u8lh.space#Speed-53703",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.128.237:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-28418",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.225.105.19:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-39790",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.221.22:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-47812",
-    "vless://063bfca4-5ebf-47a2-bc0e-254c0a172465@64.226.85.7:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-42976",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@178.128.194.94:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-27309",
-    "vless://0ae04dca-b125-7dd9-aa89-08c69d727f8e@finland.chandplus.com:443?encryption=none&security=tls&sni=finland.chandplus.com&fp=chrome&type=tcp#Speed-53969",
-    "vless://4fa281ea-0846-4371-89a9-76df8b6c9b76@216.128.168.26:2053?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-69032",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@140.82.33.44:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-18696",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.227.122.57:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-83391",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.87.161:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-31385",
-    "vless://a0157cfa-2ce0-46a7-b657-c940038d6858@dee338dd.localip.ir:443?encryption=none&security=tls&sni=smart.2huhk6u8lh.space&fp=unsafe&type=ws&path=%2Fmash&host=smart.2huhk6u8lh.space#Speed-30892"
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.62.39:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-56553",
+    "vless://f6997bd4-5450-401c-b73e-637c695e4ca1@speedtest.org:443?encryption=none&security=tls&sni=4028322564.abolfazl-bgifrst.top&fp=firefox&type=ws&path=%2Feqfst&host=4028322564.abolfazl-bgifrst.top#Speed-57540",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.209.232.206:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-46963",
+    "vless://43d74df6-9a0e-259f-6485-f8653de9476a@ws.jahanify.com:2053?encryption=none&security=tls&sni=ws.jahanify.com&fp=chrome&type=ws&path=%2Fapi%2Fupdate%2Flist%2Fx45F&host=ws.jahanify.com#Speed-41630",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.187.178:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-68276",
+    "vless://84204dd3-97fc-2214-93dc-31ea36c1aced@vaniya.ir:443?encryption=none&security=tls&sni=vaniya.ir&fp=chrome&type=ws&path=%2F&host=vaniya.ir#Speed-11611",
+    "vless://a3c38a7e-a9d6-4675-8097-19aaba959128@speedtest.org:443?encryption=none&security=tls&sni=2777781604.abolfazl-bgifrst.top&fp=firefox&type=ws&path=%2Fiaozm&host=2777781604.abolfazl-bgifrst.top#Speed-42004",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@157.230.31.21:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-49980",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@88.198.224.219:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-57434",
+    "vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@142.132.211.243:2053?encryption=none&security=tls&sni=y38uke4z.avamsplxnyn.lat&fp=firefox&type=ws&path=%2F&host=y38uke4z.avamsplxnyn.lat#Speed-38831",
+    "vless://283a47f8-d66b-4176-a9fa-50948c2c89de@172.67.217.240:443?encryption=none&security=tls&sni=s1.zxec.ir&fp=unsafe&type=ws&path=%2Fws-vlees&host=s1.zxec.ir#Speed-72598",
+    "vless://81e87529-e704-8fab-ab86-b1ca40bf5f6a@kala.bgdragonshop.ir:2083?encryption=none&security=tls&sni=kala.bgdragonshop.ir&fp=chrome&type=ws&path=%2Fapi%2Fv2%2Fupdates%2Fstream%2Fx9f3&host=kala.bgdragonshop.ir#Speed-3018",
+    "vless://a0157cfa-2ce0-46a7-b657-c940038d6858@dee338dd.localip.ir:443?encryption=none&security=tls&sni=smart.2huhk6u8lh.space&fp=unsafe&type=ws&path=%2Fmash&host=smart.2huhk6u8lh.space#Speed-47800"
 ]
