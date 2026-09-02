@@ -1,7 +1,7 @@
 [
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-007.rapidw4sgh.top:8443?encryption=none&security=tls&type=ws&sni=51.210.159.202&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=51.210.159.202#newfrag",
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-028.rapidw4sgh.top:8443?encryption=none&security=tls&type=ws&sni=51.89.226.101&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=51.89.226.101#newfrag",
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-003.rapidw4sgh.top:8443?encryption=none&security=tls&type=ws&sni=145.239.29.81&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=145.239.29.81#newfrag",
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-019.rapidw4sgh.top:8443?encryption=none&security=tls&type=ws&sni=51.195.25.141&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=51.195.25.141#newfrag",
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-009.rapidw4sgh.top:8443?encryption=none&security=tls&type=ws&sni=57.128.114.231&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=57.128.114.231#newfrag"
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-007.vectoreixv6.top:8443?encryption=none&security=tls&type=ws&sni=51.210.159.202&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=51.210.159.202#newfrag",
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-028.vectoreixv6.top:8443?encryption=none&security=tls&type=ws&sni=51.89.226.101&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=51.89.226.101#newfrag",
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-003.vectoreixv6.top:8443?encryption=none&security=tls&type=ws&sni=145.239.29.81&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=145.239.29.81#newfrag",
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-019.vectoreixv6.top:8443?encryption=none&security=tls&type=ws&sni=51.195.25.141&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=51.195.25.141#newfrag",
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-009.vectoreixv6.top:8443?encryption=none&security=tls&type=ws&sni=57.128.114.231&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=57.128.114.231#newfrag"
 ]
