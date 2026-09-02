@@ -1,12 +1,7 @@
 [
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?type=ws&security=tls&path=%2Fcdn%2F775cebe114514683&host=worker-007.limamiloapps.click&sni=worker-007.limamiloapps.click#W",
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?type=ws&security=tls&path=%2Fcdn%2F775cebe114514683&host=worker-028.limamiloapps.click&sni=worker-028.limamiloapps.click#W",
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?type=ws&security=tls&path=%2Fcdn%2F775cebe114514683&host=worker-003.limamiloapps.click&sni=worker-003.limamiloapps.click#W",
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?type=ws&security=tls&path=%2Fcdn%2F775cebe114514683&host=worker-019.limamiloapps.click&sni=worker-019.limamiloapps.click#W",
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?type=ws&security=tls&path=%2Fcdn%2F775cebe114514683&host=worker-009.limamiloapps.click&sni=worker-009.limamiloapps.click#W",
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-007.limamiloapps.click:8443?encryption=none&security=tls&type=ws&sni=worker-007.limamiloapps.click&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-007.limamiloapps.click#W",
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-028.limamiloapps.click:8443?encryption=none&security=tls&type=ws&sni=worker-028.limamiloapps.click&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-028.limamiloapps.click#W",
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-003.limamiloapps.click:8443?encryption=none&security=tls&type=ws&sni=worker-003.limamiloapps.click&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-003.limamiloapps.click#W",
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-019.limamiloapps.click:8443?encryption=none&security=tls&type=ws&sni=worker-019.limamiloapps.click&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-019.limamiloapps.click#W",
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-009.limamiloapps.click:8443?encryption=none&security=tls&type=ws&sni=worker-009.limamiloapps.click&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-009.limamiloapps.click#W"
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-007.valayar-new.top:8443?encryption=none&security=tls&type=ws&sni=51.210.159.202&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=51.210.159.202#newfrag",
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-028.valayar-new.top:8443?encryption=none&security=tls&type=ws&sni=51.89.226.101&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=51.89.226.101#newfrag",
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-003.valayar-new.top:8443?encryption=none&security=tls&type=ws&sni=145.239.29.81&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=145.239.29.81#newfrag",
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-019.valayar-new.top:8443?encryption=none&security=tls&type=ws&sni=51.195.25.141&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=51.195.25.141#newfrag",
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@worker-009.valayar-new.top:8443?encryption=none&security=tls&type=ws&sni=57.128.114.231&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=57.128.114.231#newfrag"
 ]
