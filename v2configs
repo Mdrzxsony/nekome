@@ -1,13 +1,15 @@
 [
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.209.238.138:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-15039",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.99.29:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-49226",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.68.141:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-51860",
-    "vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@188.114.97.6:443?encryption=none&security=tls&sni=allsmart.dijifarnoosh.ir&fp=unsafe&type=ws&path=%2Fws-vlees&host=allsmart.dijifarnoosh.ir#Speed-55515",
-    "vless://319ece6c-71e3-f158-f750-9b2a2e9726ae@213.123.43.171:8080?encryption=none&security=none&type=ws&path=%2F#Speed-54924",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.99.242.179:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-66897",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.226.118:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-85192",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.227.147.28:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-28619",
-    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@100.26.41.24:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-56574",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.24.174:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-17715",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.90.185.251:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-87401"
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@139.59.139.200:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-65632",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@139.59.139.159:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-41711",
+    "vless://9006545e-f437-4ca1-bb5c-38dcd546bf92@7339049516.abarkuh-khrki.lat:443?encryption=none&security=tls&sni=7339049516.abarkuh-khrki.lat&fp=firefox&type=ws&path=%2Fmyjwq&host=7339049516.abarkuh-khrki.lat#Speed-21006",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@70.34.203.223:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-32306",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@70.34.200.202:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-83412",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@135.181.61.216:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=5f7c3b816486b3fc&type=tcp#Speed-48869",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.108.244:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-20530",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.240.64:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-76807",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.1.126:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-5039",
+    "vless://063bfca4-5ebf-47a2-bc0e-254c0a172465@165.227.153.3:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-25510",
+    "vless://a0157cfa-2ce0-46a7-b657-c940038d6858@dee338dd.localip.ir:443?encryption=none&security=tls&sni=smart.cqj57auucu4.space&fp=unsafe&type=ws&path=%2Fmash&host=smart.cqj57auucu4.space#Speed-18195",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@142.93.106.219:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-80072",
+    "vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@104.17.108.69:443?encryption=none&security=tls&sni=allsmart.mypardito.ir&fp=unsafe&type=ws&path=%2Fws-vlees&host=allsmart.mypardito.ir#Speed-85133"
 ]
