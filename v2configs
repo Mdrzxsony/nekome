@@ -1,15 +1,15 @@
 [
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.99.136.185:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-84569",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.219.246:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-90611",
-    "vless://a0157cfa-2ce0-46a7-b657-c940038d6858@meshddeck.ir:443?encryption=none&security=tls&sni=smart.myrvacove.fun&fp=unsafe&type=ws&path=%2Fmash&host=smart.myrvacove.fun#Speed-10368",
-    "vless://063bfca4-5ebf-47a2-bc0e-254c0a172465@64.226.85.7:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-82223",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.155.218:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-87542",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.180.62:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-29786",
-    "vless://c6352bac-b1b0-ff4d-b90e-e7a3ad276993@89.167.125.183:80?encryption=none&security=none&type=ws&path=%2F#Speed-69983",
-    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.51.173:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-58114",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@70.34.201.244:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72091",
-    "vless://84204dd3-97fc-2214-93dc-31ea36c1aced@vaniya.ir:443?encryption=none&security=tls&sni=vaniya.ir&fp=chrome&type=ws&path=%2F&host=vaniya.ir#Speed-41826",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.224.247:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-27370",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.176.64.195:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-37067",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.224.247:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-4794"
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.186.235:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-37575",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.236.16:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-58626",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.3.18:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-76693",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.91.230:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-69268",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.3.245:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-18802",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.176.73.87:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-23614",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@70.34.207.158:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-62004",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.246.11:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-26762",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.45.60:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-63465",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@95.179.255.57:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-88376",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.99.136.185:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-20474",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.90.184.77:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-63312",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@37.27.58.19:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=7972b9fd&type=tcp#Speed-33255"
 ]
