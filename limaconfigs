@@ -1,7 +1,7 @@
 [
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-48-007.appenginebeam.top&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-48-007.appenginebeam.top#newfrag",
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-48-028.appenginebeam.top&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-48-028.appenginebeam.top#newfrag",
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-48-003.appenginebeam.top&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-48-003.appenginebeam.top#newfrag",
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-48-019.appenginebeam.top&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-48-019.appenginebeam.top#newfrag",
-    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-48-009.appenginebeam.top&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-48-009.appenginebeam.top#newfrag"
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-52-007.appenginebeam.top&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-52-007.appenginebeam.top#newfrag",
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-52-028.appenginebeam.top&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-52-028.appenginebeam.top#newfrag",
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-52-003.appenginebeam.top&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-52-003.appenginebeam.top#newfrag",
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-52-019.appenginebeam.top&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-52-019.appenginebeam.top#newfrag",
+    "vless://68a594d5-ea70-439f-b960-bb53c472d4fa@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-52-009.appenginebeam.top&fp=chrome&path=%2Fcdn%2F775cebe114514683&host=worker-52-009.appenginebeam.top#newfrag"
 ]
