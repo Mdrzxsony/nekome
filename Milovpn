@@ -1,7 +1,7 @@
 [
-    "vless://01c55414-1384-406f-8bd3-d05fdeb1f184@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-185-042.appenginenode.top&fp=chrome&path=%2Fcdn%2F3592923188e849b9&host=worker-185-042.appenginenode.top#newfrag",
-    "vless://01c55414-1384-406f-8bd3-d05fdeb1f184@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-185-063.appenginenode.top&fp=chrome&path=%2Fcdn%2F3592923188e849b9&host=worker-185-063.appenginenode.top#newfrag",
-    "vless://01c55414-1384-406f-8bd3-d05fdeb1f184@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-185-038.appenginenode.top&fp=chrome&path=%2Fcdn%2F3592923188e849b9&host=worker-185-038.appenginenode.top#newfrag",
-    "vless://01c55414-1384-406f-8bd3-d05fdeb1f184@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-185-054.appenginenode.top&fp=chrome&path=%2Fcdn%2F3592923188e849b9&host=worker-185-054.appenginenode.top#newfrag",
-    "vless://01c55414-1384-406f-8bd3-d05fdeb1f184@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-185-044.appenginenode.top&fp=chrome&path=%2Fcdn%2F3592923188e849b9&host=worker-185-044.appenginenode.top#newfrag"
+    "vless://01c55414-1384-406f-8bd3-d05fdeb1f184@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-189-042.appenginewave.top&fp=chrome&path=%2Fcdn%2F3592923188e849b9&host=worker-189-042.appenginewave.top#newfrag",
+    "vless://01c55414-1384-406f-8bd3-d05fdeb1f184@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-189-063.appenginewave.top&fp=chrome&path=%2Fcdn%2F3592923188e849b9&host=worker-189-063.appenginewave.top#newfrag",
+    "vless://01c55414-1384-406f-8bd3-d05fdeb1f184@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-189-038.appenginewave.top&fp=chrome&path=%2Fcdn%2F3592923188e849b9&host=worker-189-038.appenginewave.top#newfrag",
+    "vless://01c55414-1384-406f-8bd3-d05fdeb1f184@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-189-054.appenginewave.top&fp=chrome&path=%2Fcdn%2F3592923188e849b9&host=worker-189-054.appenginewave.top#newfrag",
+    "vless://01c55414-1384-406f-8bd3-d05fdeb1f184@speedtest.org:8443?encryption=none&security=tls&type=ws&sni=worker-189-044.appenginewave.top&fp=chrome&path=%2Fcdn%2F3592923188e849b9&host=worker-189-044.appenginewave.top#newfrag"
 ]
