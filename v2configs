@@ -1,11 +1,16 @@
 [
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.96.125:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-9997",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.29.86:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-45897",
-    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@Api.devsoftsnow.com:443?encryption=none&security=tls&sni=platform116.golnamaktera.top&fp=chrome&type=ws&path=%2Fplatform116&host=platform116.golnamaktera.top#Speed-77540",
-    "vless://83f51086-46dc-4a12-82a1-3cb6b10c27fd@15038393.abadeh-khrkblt.lat:443?encryption=none&security=tls&sni=15038393.abadeh-khrkblt.lat&fp=firefox&type=ws&path=%2Fszmjf&host=15038393.abadeh-khrkblt.lat#Speed-52231",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@104.248.24.102:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-96573",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.29.86:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-41549",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.20.132:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-39065",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@37.27.67.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=5f7c3b816486b3fc&type=tcp#Speed-88537",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.127.125:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-65874"
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.172.42.241:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-36911",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@104.248.27.101:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-23959",
+    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@34.253.209.143:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-4965",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@157.245.43.144:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-25430",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.209.233.49:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-81917",
+    "vless://0e6f4986-5c29-4797-887c-a17976c71170@32321540.abadeh-khrkblt.lat:443?encryption=none&security=tls&sni=32321540.abadeh-khrkblt.lat&fp=firefox&type=ws&path=%2Fmirfe&host=32321540.abadeh-khrkblt.lat#Speed-17187",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@178.128.201.51:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-40279",
+    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@3.250.231.8:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-53115",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.253.169:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-69735",
+    "vless://a5575f34-70fb-4be1-ba25-6883cfa3956d@172.67.217.10:443?encryption=none&security=tls&sni=ant-justforme.com&fp=firefox&type=ws&path=%2Ftgrzerang&host=ant-justforme.com#Speed-57407",
+    "vless://77fdc3d6-68b8-4c46-8263-7cae24bb387b@68153843.abadeh-khrkblt.lat:443?encryption=none&security=tls&sni=68153843.abadeh-khrkblt.lat&fp=firefox&type=ws&path=%2Fuyexu&host=68153843.abadeh-khrkblt.lat#Speed-75922",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.107.91:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-53145",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.28.43:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-91814",
+    "vless://28bf3016-7b3b-4f1f-8c3e-9e2079cff075@60604631.abadeh-khrkblt.lat:443?encryption=none&security=tls&sni=60604631.abadeh-khrkblt.lat&fp=firefox&type=ws&path=%2Fqmvws&host=60604631.abadeh-khrkblt.lat#Speed-74729"
 ]
