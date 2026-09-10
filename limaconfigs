@@ -3,7 +3,7 @@
     "vless://c1cff96c-89aa-40ec-96a3-188e0c63a176@108.61.173.218:55605?encryption=none&security=none&type=tcp#vultr-vpn-04",
     "vless://38f4c1ae-670f-4c62-9158-486de145f25a@78.141.229.161:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.wikipedia.org&fp=chrome&pbk=zv11-9XnLrKby3Kof654_3u3rNVwOdbSJsjZ3s7sMBc&sid=6c8de7910bc2f7ee#vultr-vpn-13",
     "vless://493b391c-d134-4c90-b069-36ae45029cb9@78.141.229.161:55605?encryption=none&security=none&type=tcp#vultr-vpn-13",
-    "vless://104c5c90-7e7d-4463-b366-b2264bccafbd@45.77.108.229:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.wikipedia.org&fp=chrome&pbk=wMA-Dz1z6QM6Ng_2sJBn6LtjCoduQHaTtloS5BNqFAs&sid=03224369d12ae5e0#vultr-vpn-14",
-    "vless://1c6f64b3-1662-4e9f-a947-bf6fb3a20322@45.77.108.229:55605?encryption=none&security=none&type=tcp#vultr-vpn-14",
+    "vless://231c0969-1cc4-42b4-8812-b3e892fe0c6d@209.250.239.50:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.wikipedia.org&fp=chrome&pbk=9AeW3YrajOcjiCLrdu0ILMmnhCaZtmKsf7pqjaC5sVQ&sid=3e48e47a248723b2#vultr-vpn-07",
+    "vless://ca814187-d0bf-4aae-8ed3-7963623ca201@209.250.239.50:55605?encryption=none&security=none&type=tcp#vultr-vpn-07",
     "vless://96339949-dc06-4378-b24a-32ed67d9e10f@178.104.145.95:15590?encryption=none&security=none&type=tcp#hetzner-nbg-cx23-direct-1"
 ]
