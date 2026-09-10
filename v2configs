@@ -1,13 +1,16 @@
 [
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.219.152:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-89928",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.120.73:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-90549",
-    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.57.145:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-62403",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.224.87:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-59766",
-    "vless://07841c72-6234-7ef0-0ca7-df85c5ced752@api.bgdragonshop.ir:443?encryption=none&security=tls&sni=api.bgdragonshop.ir&fp=chrome&type=ws&path=%2F&host=api.bgdragonshop.ir#Speed-72113",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@104.248.31.185:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-56604",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.119.101:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72437",
-    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@18.133.161.86:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-97336",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.175.129:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-78171",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.99.204:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-56372",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.232.99.47:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-31869"
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.148.178:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-6532",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.113.147:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-19539",
+    "vless://c3cfe1b0-dace-4c28-990c-af996b2076b6@104.21.21.111:443?encryption=none&security=tls&sni=s3.sooreshop.com&fp=unsafe&type=ws&path=%2Fsheri&host=s3.sooreshop.com#Speed-61336",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@139.59.142.209:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-23682",
+    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@52.56.145.234:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-86104",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.113.147:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-35860",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.64.37:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-33735",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@108.181.59.93:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=80805c03e51653&type=tcp#Speed-3013",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.19.21:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-745",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.199.152:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-90258",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.187.196:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-52417",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@192.248.178.148:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-22721",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.141.29:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-48933",
+    "vless://84204dd3-97fc-2214-93dc-31ea36c1aced@vaniya.ir:443?encryption=none&security=tls&sni=vaniya.ir&fp=chrome&type=ws&path=%2F&host=vaniya.ir#Speed-70547"
 ]
