@@ -1,14 +1,12 @@
 [
-    "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@46.224.1.83:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-85616",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@68.183.223.215:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-4039",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.243.60:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-5239",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.78.9:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-1480",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.229.177:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-21566",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@192.248.178.148:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-37070",
-    "vless://c3cfe1b0-dace-4c28-990c-af996b2076b6@104.21.21.111:443?encryption=none&security=tls&sni=s3.sooreshop.com&fp=chrome&type=ws&path=%2Fsheri&host=s3.sooreshop.com#Speed-9194",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.128.32.154:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-40504",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.166.4:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-65596",
-    "vless://3bec0d0f-6b7b-4678-9b1e-10797b26d59c@85882415.abadeh-khrkblt.lat:443?encryption=none&security=tls&sni=85882415.abadeh-khrkblt.lat&fp=firefox&type=ws&path=%2Fbxfoy&host=85882415.abadeh-khrkblt.lat#Speed-82098",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.53.196:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-28551",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.166.4:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-89508"
+    "vless://6c653ba8-1ef9-4cdc-affc-648f87007e0b@98588824.abadeh-khrkblt.lat:443?encryption=none&security=tls&sni=98588824.abadeh-khrkblt.lat&fp=firefox&type=ws&path=%2Fwyioi&host=98588824.abadeh-khrkblt.lat#Speed-51952",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.190.120:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-75732",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.90.234.119:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-70003",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.3.103:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-60670",
+    "vless://4338e79a-521b-ca59-ca6a-377a769cc5e9@ns1.besttotaldns.com:443?encryption=none&security=tls&sni=ns1.besttotaldns.com&fp=chrome&type=grpc&serviceName=grpc-path&mode=gun#Speed-7851",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.225.97.106:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-78252",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.181.189:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-36603",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.205.14:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-14636",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.28.44:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-29529",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.81.22:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-50667"
 ]
