@@ -1,15 +1,13 @@
 [
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.108.79.235:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=91e6&type=tcp#Speed-50199",
-    "vless://07841c72-6234-7ef0-0ca7-df85c5ced752@api.bgdragonshop.ir:443?encryption=none&security=tls&sni=api.bgdragonshop.ir&fp=chrome&type=ws&path=%2F&host=api.bgdragonshop.ir#Speed-69121",
-    "vless://80bd3fad-7856-4aa1-8087-d01fa07b86c1@3.124.174.47:443?encryption=none&security=none&type=tcp#Speed-62079",
-    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@tgju.org:443?encryption=none&security=tls&sni=platform102.cloudbaby.top&fp=chrome&type=ws&path=%2Fplatform102&host=platform102.cloudbaby.top#Speed-87410",
-    "vless://5abbc4f4-3442-8792-2b9e-4f80cbe42b22@rss.hosting-24.ir:443?encryption=none&security=tls&sni=rss.hosting-24.ir&fp=chrome&type=ws&path=%2F&host=rss.hosting-24.ir#Speed-97438",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@104.248.25.23:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-13552",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.195.198:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-90805",
-    "vless://063bfca4-5ebf-47a2-bc0e-254c0a172465@64.226.85.7:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-2105",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.233.120:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-80337",
-    "vless://872c3f0e-c5a8-9320-aea5-66b0998d909a@apiv1.besttotaldns.com:443?encryption=none&security=tls&sni=apiv1.besttotaldns.com&fp=chrome&type=ws&path=%2F&host=apiv1.besttotaldns.com#Speed-40112",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.227.155.107:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-99584",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@104.248.254.99:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-26104",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@208.87.242.143:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=08&type=tcp#Speed-76898"
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.239.139:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-29098",
+    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@159.65.88.48:11186?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-52707",
+    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@188.166.163.166:11186?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-22611",
+    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@46.101.121.117:11186?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-2959",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.17.206:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-27393",
+    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@46.101.91.4:11186?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-60267",
+    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.57.24:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-33669",
+    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@64.226.95.2:11186?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-2265",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.253.138:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-38225",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.109.65:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-74481",
+    "vless://5f63e314-dc77-420f-a248-3baa0b83ec68@18.196.135.4:35079?encryption=none&security=none&type=http&path=%2F&host=amp-api-edge.apps.apple.com#Speed-38790"
 ]
