@@ -1,7 +1,4 @@
 [
-    "vless://8e820f9d-718d-4563-865a-048b06ed4c6d@gcandas.carshops1.ir:3030?encryption=none&security=none&type=tcp#Worker%2003",
-    "vless://8e820f9d-718d-4563-865a-048b06ed4c6d@idvdigifdm.tenzeuio.ir:3030?encryption=none&security=none&type=tcp#Worker%2023",
-    "vless://8e820f9d-718d-4563-865a-048b06ed4c6d@gmkes.carshops1.ir:6070?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=n0s2CC1yzpAxgbezazYP9fzXpvaZiwwDybE-BiKJEAE&sid=44ff6b214b39f2b1#Worker%2021",
-    "vless://8e820f9d-718d-4563-865a-048b06ed4c6d@199.232.78.150:443?encryption=none&security=tls&type=xhttp&sni=ssl.fastly.com&alpn=h2#Worker%2008",
-    "vless://8e820f9d-718d-4563-865a-048b06ed4c6d@uyxxb6j5ya.torprospeed.ir:3030?encryption=none&security=none&type=tcp#Worker%2030"
+    "vless://8e820f9d-718d-4563-865a-048b06ed4c6d@2eeebbf0a98fbde892f553dc.sefrtasaad.ir:43120?type=tcp&security=none&encryption=none#Worker%2033",
+    "vless://8e820f9d-718d-4563-865a-048b06ed4c6d@a44000e04ac2356ed2119f05.sefrta3ad.ir:29850?type=tcp&security=reality&encryption=none&sni=dynu.com&fp=firefox&pbk=e8CXohaKf2tsAoyL_C_kxvW8qtAPae6ggZQbFuK76FM&sid=6ae7286fd84f6567#Worker%2032"
 ]
