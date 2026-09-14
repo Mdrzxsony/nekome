@@ -1,17 +1,13 @@
 [
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.242.128:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-18855",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.10.54:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-59",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.3.25:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-97570",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.106.147:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-2399",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.209.198:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-30499",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.227.157.224:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-20126",
-    "vless://dd3f82d1-7e61-4acf-9d2f-a2e676d4b0b8@18.196.64.243:33499?encryption=none&security=none&type=http&path=%2F&host=amp-api-edge.apps.apple.com#Speed-30684",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.65.121.202:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-18438",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.209.4:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-89854",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.246.32:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-83121",
-    "vless://986d4b30-a8d3-4c01-b133-dc30a032b908@172.67.217.240:443?encryption=none&security=tls&sni=sait-landing12.cfnforapp.com&fp=chrome&type=grpc&serviceName=jFVZ0r0QpKBk&mode=gun#Speed-6371",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.168.155:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-67122",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.222.17:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-26957",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.66.199:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-80461",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.69.76:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-94584"
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.251.192:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-97983",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.226.97:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-76183",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@206.189.59.219:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-16893",
+    "vless://0aaf7d08-c6fd-45a4-b3a0-0701a1cf62a8@188.114.97.7:8443?encryption=none&security=tls&sni=sait-landing12.cfnforapp.com&fp=chrome&type=ws&path=%2FxIy1x3PamvMG&host=sait-landing12.cfnforapp.com#Speed-42457",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.200.212:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-51420",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.249.200:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-74298",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@139.59.154.227:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-90932",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.12.249:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-28019",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.22.92.112:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-31066",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.78.185:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-4149",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@188.166.160.24:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-77672"
 ]
