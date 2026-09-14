@@ -1,4 +1,7 @@
 [
-    "vless://8e820f9d-718d-4563-865a-048b06ed4c6d@2eeebbf0a98fbde892f553dc.sefrtasaad.ir:43120?type=tcp&security=none&encryption=none#Worker%2033",
-    "vless://8e820f9d-718d-4563-865a-048b06ed4c6d@a44000e04ac2356ed2119f05.sefrta3ad.ir:29850?type=tcp&security=reality&encryption=none&sni=dynu.com&fp=firefox&pbk=e8CXohaKf2tsAoyL_C_kxvW8qtAPae6ggZQbFuK76FM&sid=6ae7286fd84f6567#Worker%2032"
+    "vless://66b6439e-0293-4e96-9b1f-959b72766740@itl.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=play-apps-features.googleusercontent.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=aefc7f3722#Worker%2038",
+    "vless://66b6439e-0293-4e96-9b1f-959b72766740@pt-play.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=play-apps-features.googleusercontent.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=070a23aed243#Worker%2044",
+    "vless://66b6439e-0293-4e96-9b1f-959b72766740@uka.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=play-apps-features.googleusercontent.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=aefc7f3722#Worker%2047",
+    "vless://66b6439e-0293-4e96-9b1f-959b72766740@ugb.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=play-apps-features.googleusercontent.com&fp=ios&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d#Worker%2042",
+    "vless://66b6439e-0293-4e96-9b1f-959b72766740@ae-google.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=delivery.mp.microsoft.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08#Worker%2035"
 ]
