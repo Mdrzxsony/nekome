@@ -1,7 +1,4 @@
 [
-    "vless://80784393-fb27-419c-9876-39213e722d1e@51.89.231.54:8443?encryption=none&security=reality&type=xhttp&sni=51.89.231.54&fp=chrome&pbk=%40pbk&sid=%40sid#XHTTP%20Reality",
-    "vless://50f47c7d-7c1b-4505-a570-72ed611fc66f@57.128.35.88:8443?encryption=none&security=reality&type=xhttp&sni=57.128.35.88&fp=chrome&pbk=%40pbk&sid=%40sid#XHTTP%20Reality",
-    "vless://eed55e41-d256-4306-bde4-a3bf6e186590@162.19.223.136:8443?encryption=none&security=reality&type=xhttp&sni=162.19.223.136&fp=chrome&pbk=%40pbk&sid=%40sid#XHTTP%20Reality",
     "vless://1b8f589f-c13d-4a14-aeaa-8645628f56b6@57.128.34.64:8443?encryption=none&security=reality&type=xhttp&sni=57.128.34.64&fp=chrome&pbk=%40pbk&sid=%40sid#XHTTP%20Reality",
     "vless://c9c08051-ad4f-482e-8059-3c8dc91d6d7c@57.129.30.93:8443?encryption=none&security=reality&type=xhttp&sni=57.129.30.93&fp=chrome&pbk=%40pbk&sid=%40sid#XHTTP%20Reality",
     "vless://f3f35dad-bccb-47a2-9190-623c8e7f8dd8@57.128.164.151:8443?encryption=none&security=reality&type=xhttp&sni=57.128.164.151&fp=chrome&pbk=%40pbk&sid=%40sid#XHTTP%20Reality",
@@ -13,5 +10,8 @@
     "vless://a9ff5712-493b-4bca-97ea-4357704df115@91.134.72.166:8443?encryption=none&security=reality&type=xhttp&sni=91.134.72.166&fp=chrome&pbk=%40pbk&sid=%40sid#XHTTP%20Reality",
     "vless://81b77672-07d4-41e8-8eae-18987e2bd50b@141.95.103.217:8443?encryption=none&security=reality&type=xhttp&sni=141.95.103.217&fp=chrome&pbk=%40pbk&sid=%40sid#XHTTP%20Reality",
     "vless://65f486cc-6eb9-4454-b432-9aa0e72afb1b@51.79.103.31:8443?encryption=none&security=reality&type=xhttp&sni=51.79.103.31&fp=chrome&pbk=%40pbk&sid=%40sid#XHTTP%20Reality",
-    "vless://d5e91f71-beab-4897-b62c-c8c085ac1958@91.134.72.143:8443?encryption=none&security=reality&type=xhttp&sni=91.134.72.143&fp=chrome&pbk=%40pbk&sid=%40sid#XHTTP%20Reality"
+    "vless://d5e91f71-beab-4897-b62c-c8c085ac1958@91.134.72.143:8443?encryption=none&security=reality&type=xhttp&sni=91.134.72.143&fp=chrome&pbk=%40pbk&sid=%40sid#XHTTP%20Reality",
+    "vless://80784393-fb27-419c-9876-39213e722d1e@51.89.231.54:8443?encryption=none&security=reality&type=xhttp&sni=51.89.231.54&fp=chrome&pbk=%40pbk&sid=%40sid#XHTTP%20Reality",
+    "vless://50f47c7d-7c1b-4505-a570-72ed611fc66f@57.128.35.88:8443?encryption=none&security=reality&type=xhttp&sni=57.128.35.88&fp=chrome&pbk=%40pbk&sid=%40sid#XHTTP%20Reality",
+    "vless://eed55e41-d256-4306-bde4-a3bf6e186590@162.19.223.136:8443?encryption=none&security=reality&type=xhttp&sni=162.19.223.136&fp=chrome&pbk=%40pbk&sid=%40sid#XHTTP%20Reality"
 ]
