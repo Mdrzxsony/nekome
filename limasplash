@@ -1,18 +1,10 @@
 [
-    "vless://48542cf0-59d5-4bee-8bc4-f6e41756f1f1@fserver-worker-017.appengineport.top:443?type=ws&security=tls&path=%2F&host=fserver-worker-017.appengineport.top&sni=fserver-worker-017.appengineport.top#W",
-    "vless://8dc63c4a-8b2d-4059-bc82-76b27bc90b22@fserver-worker-030.appengineport.top:443?type=ws&security=tls&path=%2F&host=fserver-worker-030.appengineport.top&sni=fserver-worker-030.appengineport.top#W",
-    "vless://7ff51d87-54a6-45c8-a5ce-ab10659e43d4@fserver-worker-019.appengineport.top:443?type=ws&security=tls&path=%2F&host=fserver-worker-019.appengineport.top&sni=fserver-worker-019.appengineport.top#W",
-    "vless://f3ff8c48-e2ed-4950-a9a4-8d7d6e7f63ca@fserver-worker-022.appengineport.top:443?type=ws&security=tls&path=%2F&host=fserver-worker-022.appengineport.top&sni=fserver-worker-022.appengineport.top#W",
-    "vless://a9ff5712-493b-4bca-97ea-4357704df115@fserver-worker-024.appengineport.top:443?type=ws&security=tls&path=%2F&host=fserver-worker-024.appengineport.top&sni=fserver-worker-024.appengineport.top#W",
-    "vless://48542cf0-59d5-4bee-8bc4-f6e41756f1f1@fserver-worker-017.appengineport.top:443?type=ws&security=tls&path=/&host=57.128.161.185&sni=57.128.161.185#W",
-    "vless://8dc63c4a-8b2d-4059-bc82-76b27bc90b22@fserver-worker-030.appengineport.top:443?type=ws&security=tls&path=/&host=51.68.85.234&sni=51.68.85.234#W",
-    "vless://7ff51d87-54a6-45c8-a5ce-ab10659e43d4@fserver-worker-019.appengineport.top:443?type=ws&security=tls&path=/&host=91.134.72.201&sni=91.134.72.201#W",
-    "vless://f3ff8c48-e2ed-4950-a9a4-8d7d6e7f63ca@fserver-worker-022.appengineport.top:443?type=ws&security=tls&path=/&host=51.77.108.77&sni=51.77.108.77#W",
-    "vless://a9ff5712-493b-4bca-97ea-4357704df115@fserver-worker-024.appengineport.top:443?type=ws&security=tls&path=/&host=91.134.72.166&sni=91.134.72.166#W",
+    "vless://2c69cff8-1d89-42b1-b8a5-30739e396bb3@fserver-worker-028.appengineport.top:443?type=ws&security=tls&path=%2F&host=fserver-worker-028.appengineport.top&sni=fserver-worker-028.appengineport.top#W",
     "vless://f3f35dad-bccb-47a2-9190-623c8e7f8dd8@fserver-worker-003.appengineport.top:443?type=ws&security=tls&path=%2F&host=fserver-worker-003.appengineport.top&sni=fserver-worker-003.appengineport.top#W",
     "vless://3964ae03-8028-4282-8d1b-ff7af04b0250@fserver-worker-026.appengineport.top:443?type=ws&security=tls&path=%2F&host=fserver-worker-026.appengineport.top&sni=fserver-worker-026.appengineport.top#W",
     "vless://5ca63daa-3f1a-4ff9-869c-8c0030fda82d@fserver-worker-001.appengineport.top:443?type=ws&security=tls&path=%2F&host=fserver-worker-001.appengineport.top&sni=fserver-worker-001.appengineport.top#W",
     "vless://39c1447c-4a4b-4684-bfdd-3b107e84a02d@fserver-worker-016.appengineport.top:443?type=ws&security=tls&path=%2F&host=fserver-worker-016.appengineport.top&sni=fserver-worker-016.appengineport.top#W",
+    "vless://2c69cff8-1d89-42b1-b8a5-30739e396bb3@fserver-worker-028.appengineport.top:443?type=ws&security=tls&path=/&host=51.89.5.216&sni=51.89.5.216#W",
     "vless://f3f35dad-bccb-47a2-9190-623c8e7f8dd8@fserver-worker-003.appengineport.top:443?type=ws&security=tls&path=/&host=57.128.164.151&sni=57.128.164.151#W",
     "vless://3964ae03-8028-4282-8d1b-ff7af04b0250@fserver-worker-026.appengineport.top:443?type=ws&security=tls&path=/&host=15.235.41.213&sni=15.235.41.213#W",
     "vless://5ca63daa-3f1a-4ff9-869c-8c0030fda82d@fserver-worker-001.appengineport.top:443?type=ws&security=tls&path=/&host=141.94.10.125&sni=141.94.10.125#W",
@@ -26,9 +18,5 @@
     "vless://eed55e41-d256-4306-bde4-a3bf6e186590@fserver-worker-023.appengineport.top:443?type=ws&security=tls&path=/&host=162.19.223.136&sni=162.19.223.136#W",
     "vless://1b8f589f-c13d-4a14-aeaa-8645628f56b6@fserver-worker-020.appengineport.top:443?type=ws&security=tls&path=/&host=57.128.34.64&sni=57.128.34.64#W",
     "vless://29a2c2d5-5346-47eb-8df9-6fd178a3a0da@fserver-worker-002.appengineport.top:443?type=ws&security=tls&path=/&host=51.79.102.54&sni=51.79.102.54#W",
-    "vless://06284474-64c1-43fb-a294-c0a540af08ae@fserver-worker-005.appengineport.top:443?type=ws&security=tls&path=/&host=51.91.208.153&sni=51.91.208.153#W",
-    "vless://c9c08051-ad4f-482e-8059-3c8dc91d6d7c@fserver-worker-018.appengineport.top:443?type=ws&security=tls&path=%2F&host=fserver-worker-018.appengineport.top&sni=fserver-worker-018.appengineport.top#W",
-    "vless://2c69cff8-1d89-42b1-b8a5-30739e396bb3@fserver-worker-028.appengineport.top:443?type=ws&security=tls&path=%2F&host=fserver-worker-028.appengineport.top&sni=fserver-worker-028.appengineport.top#W",
-    "vless://c9c08051-ad4f-482e-8059-3c8dc91d6d7c@fserver-worker-018.appengineport.top:443?type=ws&security=tls&path=/&host=57.129.30.93&sni=57.129.30.93#W",
-    "vless://2c69cff8-1d89-42b1-b8a5-30739e396bb3@fserver-worker-028.appengineport.top:443?type=ws&security=tls&path=/&host=51.89.5.216&sni=51.89.5.216#W"
+    "vless://06284474-64c1-43fb-a294-c0a540af08ae@fserver-worker-005.appengineport.top:443?type=ws&security=tls&path=/&host=51.91.208.153&sni=51.91.208.153#W"
 ]
