@@ -1,1 +1,16 @@
-[]
+[
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@15.235.67.117:2053?encryption=none&security=tls&sni=vkbcd0qbjj.xsvc.ir&fp=firefox&type=ws&path=%2F&host=vkbcd0qbjj.xsvc.ir#Speed-15355",
+    "vless://7414359d-49ee-44db-9df4-0d4d2a6ff8d9@104.17.146.121:443?encryption=none&security=tls&sni=sait-landing12.cfnforapp.com&fp=chrome&type=grpc&serviceName=jFVZ0r0QpKBk&mode=gun#Speed-35340",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.209.76:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-89368",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@134.209.190.100:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-20467",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.65.117.72:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-14027",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.76.198:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-25408",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@206.189.60.192:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72334",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.17.151:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-2373",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.117.158:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-21563",
+    "vless://ed092e2f-28a0-6223-abe8-a7ce7f20aa06@ns2.besttotaldns.com:443?encryption=none&security=tls&sni=ns2.besttotaldns.com&fp=chrome&type=ws&path=%2F&host=ns2.besttotaldns.com#Speed-9955",
+    "vless://8ad6f491-c95a-7217-c153-0febb87e0e58@ns1.hosting-24.ir:443?encryption=none&security=tls&sni=ns1.hosting-24.ir&fp=chrome&type=ws&path=%2F&host=ns1.hosting-24.ir#Speed-44605",
+    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@188.114.97.6:443?encryption=none&security=tls&sni=smmmfsp.renzovika.store&fp=unsafe&type=ws&path=%2Fadyconlb&host=smmmfsp.renzovika.store#Speed-33880",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.76.198:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-51263",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.113.163:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-46005"
+]
