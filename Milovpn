@@ -1,7 +1,10 @@
 [
-    "vless://66b6439e-0293-4e96-9b1f-959b72766740@itl.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=play-apps-features.googleusercontent.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=aefc7f3722#Worker%2038",
-    "vless://66b6439e-0293-4e96-9b1f-959b72766740@pt-play.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=play-apps-features.googleusercontent.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=070a23aed243#Worker%2044",
-    "vless://66b6439e-0293-4e96-9b1f-959b72766740@uka.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=play-apps-features.googleusercontent.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=aefc7f3722#Worker%2047",
-    "vless://66b6439e-0293-4e96-9b1f-959b72766740@ugb.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=play-apps-features.googleusercontent.com&fp=ios&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d#Worker%2042",
-    "vless://66b6439e-0293-4e96-9b1f-959b72766740@ae-google.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=delivery.mp.microsoft.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08#Worker%2035"
+    "vless://f8c80cf2-74cc-42e8-91d1-0fce29971980@199.232.78.151:443?type=xhttp&security=tls&encryption=none&sni=ssl.fastly.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2F&host=Xuiben.global.ssl.fastly.net&headerType=none&mode=auto#Worker%2007",
+    "vless://f8c80cf2-74cc-42e8-91d1-0fce29971980@199.232.78.152:443?type=xhttp&security=tls&encryption=none&sni=ssl.fastly.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2F&host=Hjevj.global.ssl.fastly.net&headerType=none&mode=auto#Worker%2009",
+    "vless://f8c80cf2-74cc-42e8-91d1-0fce29971980@199.232.78.149:443?type=xhttp&security=tls&encryption=none&sni=ssl.fastly.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2F&host=Hdhebe.global.ssl.fastly.net&headerType=none&mode=auto#Worker%2006",
+    "vless://f8c80cf2-74cc-42e8-91d1-0fce29971980@2.28.62.133:443?type=tcp&security=none&encryption=none&headerType=http&path=%2F&host=icloud.com#Worker%2004",
+    "vless://f8c80cf2-74cc-42e8-91d1-0fce29971980@2.28.55.0:2096?type=tcp&security=reality&encryption=none&sni=play.google.com&fp=edge&pbk=iswwC5Hih1xCRIvY4oY80YfMjVr_Sk17lgHtUN5lhF4&sid=0740c2a0ed58b8b1#Worker%2002",
+    "vless://f8c80cf2-74cc-42e8-91d1-0fce29971980@77.42.16.22:2096?type=tcp&security=reality&encryption=none&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=iswwC5Hih1xCRIvY4oY80YfMjVr_Sk17lgHtUN5lhF4&sid=0740c2a0ed58b8b1#Worker%2005",
+    "vless://f8c80cf2-74cc-42e8-91d1-0fce29971980@199.232.78.150:443?type=xhttp&security=tls&encryption=none&sni=ssl.fastly.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2F&host=Hdhevd.global.ssl.fastly.net&headerType=none&mode=auto#Worker%2008",
+    "vless://f8c80cf2-74cc-42e8-91d1-0fce29971980@2.28.60.106:443?type=tcp&security=none&encryption=none&headerType=http&path=%2F&host=api.dropboxapi.com#Worker%2003"
 ]
