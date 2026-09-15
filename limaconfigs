@@ -1,1 +1,10 @@
-[]
+[
+    "vless://66b6439e-0293-4e96-9b1f-959b72766740@usa3.mobileemdad.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com&fp=ios&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=377d#Worker%2046",
+    "vless://66b6439e-0293-4e96-9b1f-959b72766740@fr13.mobileemdad.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com&fp=ios&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=e8f4426268c05621#Worker%2040",
+    "vless://66b6439e-0293-4e96-9b1f-959b72766740@trn4.mobileemdad.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d#Worker%2039",
+    "vless://66b6439e-0293-4e96-9b1f-959b72766740@ae-google.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=delivery.mp.microsoft.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=e8f4426268c05621#Worker%2035",
+    "vless://66b6439e-0293-4e96-9b1f-959b72766740@poi.mobileemdad.top:42542?type=tcp&security=none&encryption=none&headerType=http&path=%2F&host=play-apps-features.googleusercontent.com#Worker%2049",
+    "vless://66b6439e-0293-4e96-9b1f-959b72766740@gsv6.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=play-apps-features.googleusercontent.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=aefc7f3722#Worker%2043",
+    "vless://66b6439e-0293-4e96-9b1f-959b72766740@usa4.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=play-apps-features.googleusercontent.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d#Worker%2045",
+    "vless://66b6439e-0293-4e96-9b1f-959b72766740@ukm.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=play-apps-features.googleusercontent.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=9ed2fa#Worker%2037"
+]
