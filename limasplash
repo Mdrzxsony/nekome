@@ -1,6 +1,5 @@
 [
-    "vless://3721d601-1368-46c8-9976-22739ffd5ed2@appenginepulse.top:443?type=xhttp&security=reality&encryption=none&sni=65.20.111.76&fp=chrome&pbk=@pbk&sid=@sid&path=/hndr&mode=auto#Worker",
-    "vless://3721d601-1368-46c8-9976-22739ffd5ed2@appenginepulse.top:443?type=xhttp&security=reality&encryption=none&sni=65.20.110.235&fp=chrome&pbk=@pbk&sid=@sid&path=/hndr&mode=auto#Worker",
-    "vless://3721d601-1368-46c8-9976-22739ffd5ed2@appenginepulse.top:443?type=xhttp&security=reality&encryption=none&sni=208.85.22.56&fp=chrome&pbk=@pbk&sid=@sid&path=/hndr&mode=auto#Worker",
-    "vless://3721d601-1368-46c8-9976-22739ffd5ed2@appenginepulse.top:443?type=xhttp&security=reality&encryption=none&sni=65.20.106.189&fp=chrome&pbk=@pbk&sid=@sid&path=/hndr&mode=auto#Worker"
+    "vless://3721d601-1368-46c8-9976-22739ffd5ed2@appenginepulse.top:443?type=xhttp&security=reality&encryption=none&sni=208.85.19.43&fp=chrome&pbk=@pbk&sid=@sid&path=/hndr&mode=auto#Worker",
+    "vless://3721d601-1368-46c8-9976-22739ffd5ed2@appenginepulse.top:443?type=xhttp&security=reality&encryption=none&sni=208.76.222.160&fp=chrome&pbk=@pbk&sid=@sid&path=/hndr&mode=auto#Worker",
+    "vless://3721d601-1368-46c8-9976-22739ffd5ed2@appenginepulse.top:443?type=xhttp&security=reality&encryption=none&sni=208.85.19.233&fp=chrome&pbk=@pbk&sid=@sid&path=/hndr&mode=auto#Worker"
 ]
