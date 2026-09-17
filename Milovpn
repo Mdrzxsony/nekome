@@ -1,3 +1,12 @@
 [
-    "vless://43e4c4a1-e3f4-4df5-9925-ab46502c46c2@Dit674f5tdxiut.tenzeuio.ir:33846?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=nXd5IHYhMjmXGqSFUzm21E5bsUTETP4YGhDNXA5Lz0w&sid=38317616205fa2d1#Worker%2001"
+    "vless://3721d601-1368-46c8-9976-22739ffd5ed2@208.85.19.43:443?type=xhttp&security=reality&pbk=lX36f1vcySquMgcnAm8qhnoCXiCZa7DrZTmf7VnaUg0&fp=chrome&sni=www.wikipedia.org&sid=df89d206&path=%2Fhndr&mode=auto#R",
+    "vless://3721d601-1368-46c8-9976-22739ffd5ed2@65.20.108.12:443?type=xhttp&security=reality&pbk=lX36f1vcySquMgcnAm8qhnoCXiCZa7DrZTmf7VnaUg0&fp=chrome&sni=www.wikipedia.org&sid=df89d206&path=%2Fhndr&mode=auto#R",
+    "vless://3721d601-1368-46c8-9976-22739ffd5ed2@65.20.111.31:443?type=xhttp&security=reality&pbk=lX36f1vcySquMgcnAm8qhnoCXiCZa7DrZTmf7VnaUg0&fp=chrome&sni=www.wikipedia.org&sid=df89d206&path=%2Fhndr&mode=auto#R",
+    "vless://3721d601-1368-46c8-9976-22739ffd5ed2@65.20.110.82:443?type=xhttp&security=reality&pbk=lX36f1vcySquMgcnAm8qhnoCXiCZa7DrZTmf7VnaUg0&fp=chrome&sni=www.wikipedia.org&sid=df89d206&path=%2Fhndr&mode=auto#R",
+    "vless://3721d601-1368-46c8-9976-22739ffd5ed2@208.76.222.160:443?type=xhttp&security=reality&pbk=lX36f1vcySquMgcnAm8qhnoCXiCZa7DrZTmf7VnaUg0&fp=chrome&sni=www.wikipedia.org&sid=df89d206&path=%2Fhndr&mode=auto#R",
+    "vless://3721d601-1368-46c8-9976-22739ffd5ed2@208.85.22.56:443?type=xhttp&security=reality&pbk=lX36f1vcySquMgcnAm8qhnoCXiCZa7DrZTmf7VnaUg0&fp=chrome&sni=www.wikipedia.org&sid=df89d206&path=%2Fhndr&mode=auto#R",
+    "vless://3721d601-1368-46c8-9976-22739ffd5ed2@65.20.110.235:443?type=xhttp&security=reality&pbk=lX36f1vcySquMgcnAm8qhnoCXiCZa7DrZTmf7VnaUg0&fp=chrome&sni=www.wikipedia.org&sid=df89d206&path=%2Fhndr&mode=auto#R",
+    "vless://3721d601-1368-46c8-9976-22739ffd5ed2@65.20.111.76:443?type=xhttp&security=reality&pbk=lX36f1vcySquMgcnAm8qhnoCXiCZa7DrZTmf7VnaUg0&fp=chrome&sni=www.wikipedia.org&sid=df89d206&path=%2Fhndr&mode=auto#R",
+    "vless://3721d601-1368-46c8-9976-22739ffd5ed2@65.20.106.189:443?type=xhttp&security=reality&pbk=lX36f1vcySquMgcnAm8qhnoCXiCZa7DrZTmf7VnaUg0&fp=chrome&sni=www.wikipedia.org&sid=df89d206&path=%2Fhndr&mode=auto#R",
+    "vless://3721d601-1368-46c8-9976-22739ffd5ed2@208.85.19.233:443?type=xhttp&security=reality&pbk=lX36f1vcySquMgcnAm8qhnoCXiCZa7DrZTmf7VnaUg0&fp=chrome&sni=www.wikipedia.org&sid=df89d206&path=%2Fhndr&mode=auto#R"
 ]
