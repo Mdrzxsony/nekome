@@ -1,16 +1,14 @@
 [
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.218.11:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-41489",
-    "vless://030bef2f-24d9-44fd-b3e5-c6066f00a534@167.233.71.14:80?encryption=none&security=none&type=ws&path=%2F#Speed-52195",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.116.182:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-19771",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.172.178.133:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-57872",
-    "vless://4269dd61-01d4-4cee-acaf-c0a8d020f5e7@104.25.227.33:80?encryption=none&security=none&type=ws&path=%2FcM5BY8rxEt6c&host=landing12.walkisports.com#Speed-41199",
-    "vless://5214463d-e6af-4a76-ada4-724eeffeb0d3@104.24.219.225:80?encryption=none&security=none&type=ws&path=%2FcM5BY8rxEt6c&host=landing12.walkisports.com#Speed-59138",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@45.77.52.48:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-71716",
-    "vless://9fa5b96f-02be-48f4-ab38-31a5f24c19ea@5.161.147.73:80?encryption=none&security=none&type=tcp#Speed-64815",
-    "vless://9fa5b96f-02be-48f4-ab38-31a5f24c19ea@185.204.170.73:80?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-14369",
-    "vless://cd87372d-0a54-44e0-a874-119528147405@116.203.164.139:80?encryption=none&security=none&type=ws&path=%2F#Speed-59153",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@speedtest.org:2053?encryption=none&security=tls&sni=kfgag0nnjr.fmaq.ir&fp=firefox&type=ws&path=%2F&host=kfgag0nnjr.fmaq.ir#Speed-6334",
-    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.50.192:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-24831",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@178.128.206.93:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-94576",
-    "vless://5878a2fa-fa99-43f9-8384-912e8a1d743b@74.220.20.172:80?encryption=none&security=none&type=ws&path=%2F#Speed-20850"
+    "vless://22e10f43-19bf-40bd-8cab-3c767ea9b5ac@136.244.85.174:80?encryption=none&security=none&type=ws&path=%2F#Speed-85280",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.99.246.197:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-16197",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.26.66:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-99049",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.187.196:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-20553",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@161.35.65.140:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-36529",
+    "vless://892c9ae0-eb22-4bd1-8a4e-b23da00a05bc@104.25.227.33:8443?encryption=none&security=tls&sni=landing12.walkisports.com&fp=chrome&type=ws&path=%2FxIy1x3PamvMG&host=landing12.walkisports.com#Speed-52115",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.68.112:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-43874",
+    "vless://80c8c2d1-f279-4993-8447-2b1856e56135@172.67.141.182:443?encryption=none&security=tls&sni=landing12.walkisports.com&fp=chrome&type=grpc&serviceName=jFVZ0r0QpKBk&mode=gun#Speed-46326",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.68.29:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72808",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.218.11:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-59296",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.92.156.29:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-25572",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@108.181.70.97:2053?encryption=none&security=tls&sni=dnaetfah4qu.mwvf.ir&fp=firefox&type=ws&path=%2F&host=dnaetfah4qu.mwvf.ir#Speed-36371"
 ]
