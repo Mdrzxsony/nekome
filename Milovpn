@@ -1,4 +1,7 @@
 [
-    "vless://4530ee2a-8294-48ec-a75c-6dbaf7336a85@91.99.175.126:443?encryption=none&security=reality&type=xhttp&sni=www.wikipedia.org&fp=chrome&pbk=Qm52KRyb3r94YeyOLDuTjSlMHVsPZCvO_DQZgsfrXhs&sid=0ccbc7bb11e7ce55#Worker",
-    "vless://4530ee2a-8294-48ec-a75c-6dbaf7336a85@49.13.236.21:443?encryption=none&security=reality&type=xhttp&sni=www.wikipedia.org&fp=chrome&pbk=Qm52KRyb3r94YeyOLDuTjSlMHVsPZCvO_DQZgsfrXhs&sid=0ccbc7bb11e7ce55#Worker"
+    "vless://ed35238f-eefa-493e-88ec-4a97c2d4b200@91.107.251.128:8080?encryption=none&security=none&type=tcp#Worker%2005",
+    "vless://ed35238f-eefa-493e-88ec-4a97c2d4b200@5.161.151.222:8080?encryption=none&security=none&type=tcp#Worker%2003",
+    "vless://ed35238f-eefa-493e-88ec-4a97c2d4b200@158.94.216.42:443?encryption=none&security=none&type=tcp#Worker%2001",
+    "vless://ed35238f-eefa-493e-88ec-4a97c2d4b200@mb3.mahanmsn.ir:443?encryption=none&security=none&type=tcp#Worker%2004",
+    "vless://ed35238f-eefa-493e-88ec-4a97c2d4b200@176.65.140.210:443?encryption=none&security=none&type=tcp#Worker%2002"
 ]
