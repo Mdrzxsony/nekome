@@ -1,13 +1,14 @@
 [
-    "vless://40f6058d-6cc1-4e4e-8c00-a5df8b7a8b58@95.179.253.237:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-90794",
-    "vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.63.28:443?encryption=none&security=tls&sni=cfvvv-ev1.pages.dev&fp=chrome&type=ws&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512&host=cfvvv-ev1.pages.dev#Speed-62756",
-    "vless://aba38174-ed51-4fe1-b9d3-d591790dacd5@172.104.159.182:80?encryption=none&security=none&type=ws&path=%2F#Speed-42768",
-    "vless://6f3c9b16-2ba9-4920-8cf9-b04660ab0dcd@208.103.161.1:443?encryption=none&security=tls&sni=alicianovajkuan.site&fp=unsafe&type=grpc&serviceName=gf3f40b7379ad&mode=gun#Speed-93331",
-    "vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl3.moritech.net&fp=firefox&type=tcp#Speed-70476",
-    "vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@104.18.1.1:2083?encryption=none&security=tls&sni=vlsovip.1d.mom&fp=ios&type=ws&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080&host=vlsovip.1d.mom#Speed-96431",
-    "vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&type=tcp#Speed-36158",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@174.138.14.227:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-34552",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.215.231:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-50280",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.229.205:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-27614",
-    "vless://f88a5cd3-61be-4b0d-9351-1101d292c634@140.82.33.78:80?encryption=none&security=none&type=ws&path=%2F#Speed-17506"
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.249.28:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-61142",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.94.78:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-65803",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.90.198.174:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-29178",
+    "vless://ed35238f-eefa-493e-88ec-4a97c2d4b200@mb3.mahanmsn.ir:443?encryption=none&security=none&type=tcp#Speed-87602",
+    "vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.63.28:443?encryption=none&security=tls&sni=cfvvv-ev1.pages.dev&fp=chrome&type=ws&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512&host=cfvvv-ev1.pages.dev#Speed-17103",
+    "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?encryption=none&security=reality&sni=md2.univesalsrv.com&fp=firefox&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&type=grpc&serviceName=hub.v1.SyncService&mode=gun#Speed-30514",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.90.182.246:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-4931",
+    "vless://44eae030-290b-4083-8102-6f8bab05701b@104.24.0.184:443?encryption=none&security=tls&sni=cfvvv-ev1.pages.dev&fp=chrome&type=ws&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512&host=cfvvv-ev1.pages.dev#Speed-52802",
+    "vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.60.109:443?encryption=none&security=tls&sni=cfvvv-ev1.pages.dev&fp=chrome&type=ws&path=%2F&host=cfvvv-ev1.pages.dev#Speed-40940",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@143.110.163.168:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-72127",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@104.248.84.22:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-91212",
+    "vless://44eae030-290b-4083-8102-6f8bab05701b@188.114.97.6:443?encryption=none&security=tls&sni=cfvvv-ev1.pages.dev&fp=chrome&type=ws&path=%2F&host=cfvvv-ev1.pages.dev#Speed-57408"
 ]
