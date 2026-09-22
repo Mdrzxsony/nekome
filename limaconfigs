@@ -1,6 +1,7 @@
 [
-    "vless://40d50bae-50a4-4bd9-9a43-56bf039e9ef2@gerk.mahankld.ir:57508?encryption=none&security=none&type=tcp#Worker%2007",
-    "vless://40d50bae-50a4-4bd9-9a43-56bf039e9ef2@fib.mahankld.ir:49902?encryption=none&security=none&type=tcp#Worker%2006",
     "vless://40d50bae-50a4-4bd9-9a43-56bf039e9ef2@fid.vvppinhd.shop:26540?encryption=none&security=none&type=tcp#Worker%2005",
-    "vless://40d50bae-50a4-4bd9-9a43-56bf039e9ef2@gers.mahankld.ir:50338?encryption=none&security=none&type=tcp#Worker%2009"
+    "vless://40d50bae-50a4-4bd9-9a43-56bf039e9ef2@gerf.vvppinhd.shop:45963?encryption=none&security=none&type=tcp#Worker%2010",
+    "vless://40d50bae-50a4-4bd9-9a43-56bf039e9ef2@gers.vvppinhd.shop:50338?encryption=none&security=none&type=tcp#Worker%2009",
+    "vless://40d50bae-50a4-4bd9-9a43-56bf039e9ef2@ss.vvppinhd.shop:47900?encryption=none&security=none&type=tcp#Worker%2007",
+    "vless://40d50bae-50a4-4bd9-9a43-56bf039e9ef2@fib.vvppinhd.shop:49902?encryption=none&security=none&type=tcp#Worker%2006"
 ]
