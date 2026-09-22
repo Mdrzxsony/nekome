@@ -1,4 +1,4 @@
 [
-    "vless://ed35238f-eefa-493e-88ec-4a97c2d4b200@65.109.210.235:22144?encryption=none&security=none&type=tcp#Worker%2001",
-    "vless://ed35238f-eefa-493e-88ec-4a97c2d4b200@91.107.164.163:19912?encryption=none&security=none&type=tcp#Worker%2004"
+    "vless://ed35238f-eefa-493e-88ec-4a97c2d4b200@91.107.164.163:19912?encryption=none&security=none&type=tcp#Worker%2004",
+    "vless://ed35238f-eefa-493e-88ec-4a97c2d4b200@65.109.210.235:22144?encryption=none&security=none&type=tcp#Worker%2001"
 ]
