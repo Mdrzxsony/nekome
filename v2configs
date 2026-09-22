@@ -1,14 +1,15 @@
 [
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@165.245.251.149:441?encryption=none&security=none&type=http&path=%2F&host=https%3A%2F%2Fstore.steampowered.com#Speed-8441",
-    "vless://07841c72-6234-7ef0-0ca7-df85c5ced752@api.bgdragonshop.ir:443?encryption=none&security=tls&sni=api.bgdragonshop.ir&fp=chrome&type=ws&path=%2F&host=api.bgdragonshop.ir#Speed-87156",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@178.83.45.13:2053?encryption=none&security=tls&sni=ozvmc66.puxr.ir&fp=firefox&type=ws&path=%2F&host=ozvmc66.puxr.ir#Speed-86123",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.225.101.126:440?encryption=none&security=none&type=http&path=%2F&host=https%3A%2F%2Fstore.steampowered.com#Speed-78689",
-    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@3.112.212.125:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-95723",
-    "vless://62890e50-9201-45a9-bd49-83dd561305b1@188.114.97.6:443?encryption=none&security=tls&sni=splasch.sanimonplusbeaureve.fun&fp=unsafe&type=ws&path=%2Fsani3&host=splasch.sanimonplusbeaureve.fun#Speed-56389",
-    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.70.21:443?encryption=none&security=tls&sni=smmspla.dovrani.ir&fp=unsafe&type=ws&path=%2Fadylb&host=smmspla.dovrani.ir#Speed-59973",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@134.199.162.136:443?encryption=none&security=none&type=http&path=%2F&host=https%3A%2F%2Fstore.steampowered.com#Speed-93859",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@165.232.121.234:441?encryption=none&security=none&type=http&path=%2F&host=https%3A%2F%2Fstore.steampowered.com#Speed-52946",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.108.0.27:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=80805c03e51653&type=tcp#Speed-66704",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@201.79.4.144:441?encryption=none&security=none&type=http&path=%2F&host=https%3A%2F%2Fstore.steampowered.com#Speed-4798",
-    "vless://3a4a7f5a-60b5-48c5-b03f-d2d93fcc9f33@18.184.255.132:24885?encryption=none&security=none&type=http&path=%2F&host=amp-api-edge.apps.apple.com#Speed-64058"
+    "vless://3a4a7f5a-60b5-48c5-b03f-d2d93fcc9f33@18.184.255.132:24885?encryption=none&security=none&type=http&path=%2F&host=amp-api-edge.apps.apple.com#Speed-72465",
+    "vless://fdd28408-09c2-4f31-8032-9be258cfc313@90644591.fox-keyku.info:443?encryption=none&security=tls&sni=90644591.fox-keyku.info&fp=chrome&type=ws&path=%2Fjigvh&host=90644591.fox-keyku.info#Speed-76209",
+    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@43.207.138.221:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-87509",
+    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@167.172.169.89:441?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-34765",
+    "vless://a21c2e24-771c-4998-a3c9-77246435bdcc@104.21.21.111:2087?encryption=none&security=tls&sni=stil1.mavrino.bond&fp=unsafe&type=ws&path=%2F9f733a63d47c4522b370dedf4828468c&host=stil1.mavrino.bond#Speed-65666",
+    "vless://063bfca4-5ebf-47a2-bc0e-254c0a172465@64.226.85.7:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-13030",
+    "vless://c279fee0-c09c-4bd5-c780-6e9ea10da566@172.234.37.77:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.krg&fp=chrome&pbk=R6gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&type=tcp#Speed-34061",
+    "vless://4b8bb408-a573-434f-9082-0ca649a5b464@188.114.97.6:443?encryption=none&security=tls&sni=Cdnoffile.vory.ir&fp=unsafe&type=ws&path=%2F&host=Cdnoffile.vory.ir.#Speed-20037",
+    "vless://a77ec17e-2aae-4e07-892d-67a6a2aec0d8@65975241.fox-keyku.info:443?encryption=none&security=tls&sni=65975241.fox-keyku.info&fp=chrome&type=ws&path=%2Fzljgy&host=65975241.fox-keyku.info#Speed-7004",
+    "vless://78b18d13-3c54-4082-8d9a-708cae523f44@28174275.cobra-keyku.info:443?encryption=none&security=tls&sni=28174275.cobra-keyku.info&fp=chrome&type=ws&path=%2Fuhdol&host=28174275.cobra-keyku.info#Speed-56232",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@108.181.58.195:2053?encryption=none&security=tls&sni=xd4mcsnpvnfi.qevx.ir&fp=firefox&type=ws&path=%2F&host=xd4mcsnpvnfi.qevx.ir#Speed-9599",
+    "vless://37e82f93-8ecb-46fc-9d36-0b047ab85d78@87492874.fox-keyku.info:443?encryption=none&security=tls&sni=87492874.fox-keyku.info&fp=chrome&type=ws&path=%2Fsqsqp&host=87492874.fox-keyku.info#Speed-62001",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@178.83.46.250:2053?encryption=none&security=tls&sni=5mtei.zuxo.ir&fp=firefox&type=ws&path=%2F&host=5mtei.zuxo.ir#Speed-73776"
 ]
