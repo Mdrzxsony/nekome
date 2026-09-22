@@ -1,15 +1,11 @@
 [
-    "vless://21e630e7-1947-4800-879e-0752e45a3249@164.90.209.75:448?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-57524",
-    "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@164.92.187.11:444?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-5663",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.126.179:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-6531",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@134.199.146.146:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-57305",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@142.93.40.197:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-66299",
-    "vless://c8f4a689-bc58-473d-9b94-b7e939740451@172.67.141.182:2053?encryption=none&security=tls&sni=community.backgroundtiles.space&fp=unsafe&type=grpc&serviceName=01orclpow43a&mode=gun#Speed-64442",
-    "vless://2950ceeb-166f-4315-a827-6dcb46bb3a2e@60591439.ramsar-drillerg.info:443?encryption=none&security=tls&sni=60591439.ramsar-drillerg.info&fp=chrome&type=ws&path=%2Fqwsyy&host=60591439.ramsar-drillerg.info#Speed-67136",
-    "vless://d7aa85a6-f932-4a99-94c8-896b11ff9f5a@71192763.mashhad-drillerg.info:443?encryption=none&security=tls&sni=71192763.mashhad-drillerg.info&fp=chrome&type=ws&path=%2Fzwuxj&host=71192763.mashhad-drillerg.info#Speed-86560",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@hmg6abnw.parnixa.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=5f7c3b816486b3fc&type=tcp#Speed-64498",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.128.42.36:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-11866",
-    "vless://b2593749-691c-428c-9481-14979cba3446@162.159.192.125:443?encryption=none&security=tls&sni=xi.tbv.ccwu.cc&fp=chrome&type=ws&path=%2Fproxyip%3Dus.xiabibi.cf&host=xi.tbv.ccwu.cc#Speed-15819",
-    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@13.53.176.5:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-65055",
-    "vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=random&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&sid=cfe08c23a85f24&type=tcp#Speed-15739"
+    "vless://5a10d2b2-7c65-4664-8ea6-8fdda26e44e5@44480640.tehran-drillerg.info:443?encryption=none&security=tls&sni=44480640.tehran-drillerg.info&fp=chrome&type=ws&path=%2Fgjqyo&host=44480640.tehran-drillerg.info#Speed-60270",
+    "vless://22ef55ff-683b-4b4c-9ce3-d0aa0e8323ce@104.25.227.33:443?encryption=none&security=tls&sni=zinogold.shop&fp=unsafe&type=grpc&serviceName=lFYIMdYyNErq&mode=gun#Speed-78780",
+    "vless://9fa5b96f-02be-48f4-ab38-31a5f24c19ea@130.185.121.24:443?encryption=none&security=none&type=grpc&serviceName=grpc&mode=gun#Speed-62535",
+    "vless://402ffc93-ffd1-428f-b447-a777d3b1d20a@5.75.173.240:80?encryption=none&security=none&type=ws&path=%2F#Speed-14943",
+    "vless://8e1fe0d0-3069-46eb-bf22-33d184ce1f25@195.201.122.15:80?encryption=none&security=none&type=ws&path=%2F#Speed-23497",
+    "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@46.224.170.213:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-3811",
+    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.58.134:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-19667",
+    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@104.248.44.110:441?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-51931",
+    "vless://9644cbe0-a042-482c-a6f3-5a124cb48ab2@138.199.215.171:80?encryption=none&security=none&type=ws&path=%2F#Speed-70163"
 ]
