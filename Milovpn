@@ -1,16 +1,12 @@
 [
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@cd.dlclive.cyou:8880?type=httpupgrade&security=none&encryption=none&path=%2F%3Fed%3D2082&host=c.nl1.lovelyteam.ir#Worker%2025",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@cd.dlclive.cyou:2086?type=xhttp&security=none&encryption=none&path=%2F&host=c.usa1.lovelyteam.ir&mode=auto#Worker%2034",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.dlclive.cyou:2083?type=tcp&security=reality&encryption=none&sni=amazon.com&fp=chrome&pbk=NOdKtkm2NmSrfjoW0JCOhVvUYDFByysdkU9mBcU3UgU&sid=afb4658a26&spx=%2F#Worker%2040",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.dlclive.cyou:8401?type=tcp&security=reality&encryption=none&sni=digikala.com&fp=chrome&pbk=i-bcTAplsvex0xoeid_M7HC3__6liXz8iu9dDgIyZSs&sid=c98edd68&spx=%2F#Worker%2085",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm1.dlclive.cyou:8402?type=tcp&security=none&encryption=none#Worker%2014",
     "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.dlclive.cyou:8443?type=xhttp&security=none&encryption=none&path=%2Flive&host=filmnet.ir&mode=stream-one&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22like+Gecko%29+Chrome%2F144.0.0.0+Safari%2F537.36%22%7D%7D#Worker%2019",
     "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm3.dlclive.cyou:8402?type=tcp&security=none&encryption=none#Worker%2002",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@cd.dlclive.cyou:2086?type=xhttp&security=none&encryption=none&path=%2F&host=c.fi1.lovelyteam.ir&mode=auto#Worker%2028",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@cd.dlclive.cyou:2086?type=xhttp&security=none&encryption=none&path=%2F&host=c.nl1.lovelyteam.ir&mode=auto#Worker%2026",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@cd.dlclive.cyou:2086?type=xhttp&security=none&encryption=none&path=%2F&host=c.fi1.lovelyteam.ir&mode=auto#Worker%2052",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@cd.dlclive.cyou:2086?type=xhttp&security=none&encryption=none&path=%2F&host=c.nl1.lovelyteam.ir&mode=auto#Worker%2079",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm5.dlclive.cyou:8402?type=tcp&security=none&encryption=none#Worker%2048",
     "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm2.dlclive.cyou:8402?type=tcp&security=none&encryption=none#Worker%2015",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@cd.dlclive.cyou:8880?type=httpupgrade&security=none&encryption=none&path=%2F%3Fed%3D2082&host=c.en1.lovelyteam.ir#Worker%2024",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm5.dlclive.cyou:8402?type=tcp&security=none&encryption=none#Worker%2001",
     "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm4.dlclive.cyou:8402?type=tcp&security=none&encryption=none#Worker%2003",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.dlclive.cyou:2082?type=tcp&security=reality&encryption=none&sni=www.upwork.com&fp=chrome&pbk=Ue0x4ieEthJfr9UJncd-mVB-lfM_Yk2UoJ9YCWKyPSw&sid=d579df3fd5&spx=%2F#Worker%2018",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@cd.dlclive.cyou:8880?type=httpupgrade&security=none&encryption=none&path=%2F%3Fed%3D2082&host=c.usa1.lovelyteam.ir#Worker%2041",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@cd.dlclive.cyou:2086?type=xhttp&security=none&encryption=none&path=%2F&host=c.de1.lovelyteam.ir&mode=auto#Worker%2021"
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.dlclive.cyou:2082?type=tcp&security=reality&encryption=none&sni=www.upwork.com&fp=chrome&pbk=Ue0x4ieEthJfr9UJncd-mVB-lfM_Yk2UoJ9YCWKyPSw&sid=d579df3fd5&spx=%2F#Worker%2018"
 ]
