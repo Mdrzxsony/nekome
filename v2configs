@@ -1,15 +1,15 @@
 [
-    "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.19.251:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-11588",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.71.9.126:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-4523",
-    "vless://9fa5b96f-02be-48f4-ab38-31a5f24c19ea@130.185.121.24:80?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-94534",
-    "vless://ed35238f-eefa-493e-88ec-4a97c2d4b200@65.109.210.235:22144?encryption=none&security=none&type=tcp#Speed-64931",
-    "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&type=tcp#Speed-27194",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@165.232.116.221:441?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-2124",
-    "vless://4338e79a-521b-ca59-ca6a-377a769cc5e9@ns1.besttotaldns.com:443?encryption=none&security=tls&sni=ns1.besttotaldns.com&fp=chrome&type=grpc&serviceName=grpc-path&mode=gun#Speed-89355",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.91.50:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-54993",
-    "vless://b8e67de0-508d-4a97-866f-997dd93f3996@46.225.254.237:80?encryption=none&security=none&type=ws&path=%2F#Speed-32591",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@134.209.233.155:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-31996",
-    "vless://493fe4b7-0cc3-4917-9680-facc2d53fcba@65.109.251.94:80?encryption=none&security=none&type=ws&path=%2F#Speed-39659",
-    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.58.134:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-64908",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.232.93.74:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-24285"
+    "vless://21e630e7-1947-4800-879e-0752e45a3249@164.90.209.75:448?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-57524",
+    "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@164.92.187.11:444?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-5663",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.126.179:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-6531",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@134.199.146.146:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-57305",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@142.93.40.197:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-66299",
+    "vless://c8f4a689-bc58-473d-9b94-b7e939740451@172.67.141.182:2053?encryption=none&security=tls&sni=community.backgroundtiles.space&fp=unsafe&type=grpc&serviceName=01orclpow43a&mode=gun#Speed-64442",
+    "vless://2950ceeb-166f-4315-a827-6dcb46bb3a2e@60591439.ramsar-drillerg.info:443?encryption=none&security=tls&sni=60591439.ramsar-drillerg.info&fp=chrome&type=ws&path=%2Fqwsyy&host=60591439.ramsar-drillerg.info#Speed-67136",
+    "vless://d7aa85a6-f932-4a99-94c8-896b11ff9f5a@71192763.mashhad-drillerg.info:443?encryption=none&security=tls&sni=71192763.mashhad-drillerg.info&fp=chrome&type=ws&path=%2Fzwuxj&host=71192763.mashhad-drillerg.info#Speed-86560",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@hmg6abnw.parnixa.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=5f7c3b816486b3fc&type=tcp#Speed-64498",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.128.42.36:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-11866",
+    "vless://b2593749-691c-428c-9481-14979cba3446@162.159.192.125:443?encryption=none&security=tls&sni=xi.tbv.ccwu.cc&fp=chrome&type=ws&path=%2Fproxyip%3Dus.xiabibi.cf&host=xi.tbv.ccwu.cc#Speed-15819",
+    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@13.53.176.5:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-65055",
+    "vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=random&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&sid=cfe08c23a85f24&type=tcp#Speed-15739"
 ]
