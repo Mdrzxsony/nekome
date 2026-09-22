@@ -1,17 +1,13 @@
 [
-    "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&type=tcp#Speed-93032",
-    "vless://4f8a1d19-4d21-47f5-816e-a8f475fbd3f7@31.57.18.58:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=srv-waw.kintecolas.com&fp=firefox&pbk=qPgl3LmKAKs5K-KzGNRJyr5KTO0KoRNN5m2PTCMscXU&sid=22f534c530d37170&type=tcp#Speed-36830",
-    "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@46.101.148.25:442?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-12817",
-    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@149.28.208.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-64695",
-    "vless://7b496f37-731b-43be-b08e-5a10225e56fe@91.98.99.172:80?encryption=none&security=none&type=ws&path=%2F#Speed-39709",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.219.111:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-15980",
-    "vless://7e1017c4-bbd2-4dc2-a880-d06ac60b1fa6@172.105.249.197:80?encryption=none&security=none&type=ws&path=%2F#Speed-765",
-    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@45.32.172.49:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-94868",
-    "vless://44eae030-290b-4083-8102-6f8bab05701b@104.24.0.184:443?encryption=none&security=tls&sni=cfvvv-ev1.pages.dev&fp=unsafe&type=ws&path=%2Fmtmvpn&host=cfvvv-ev1.pages.dev#Speed-99955",
-    "vless://df229ffc-a50a-437c-83af-cbca7346af59@91.98.98.89:80?encryption=none&security=none&type=ws&path=%2F#Speed-59919",
-    "vless://97aa2c4f-1665-0141-231d-4de0ec71937c@socket.jahanify.com:2053?encryption=none&security=tls&sni=socket.jahanify.com&fp=chrome&type=ws&path=%2Fv1d2LmlyYW3ob880RmNRb&host=socket.jahanify.com#Speed-48105",
-    "vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.60.109:443?encryption=none&security=tls&sni=cfvvv-ev1.pages.dev&fp=chrome&type=ws&path=%2F&host=cfvvv-ev1.pages.dev#Speed-21725",
-    "vless://abb23796-88d0-437f-b679-cda6e39f9b1e@174.138.13.95:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-31905",
-    "vless://4847d6dd-5c7f-459a-8799-606da5851937@178.128.195.8:449?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-18584",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@142.93.40.188:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-16305"
+    "vless://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@ciccuc.mervi.icu:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ciccuc.mervi.icu&fp=random&pbk=3J-u0CiyQk47zVzkuMVgOiVIYtomNZPr__85MDxGxVw&sid=5029592ae5516948&type=tcp#Speed-61917",
+    "vless://d4ac061e-9ed1-5360-abf8-d2a8557540ee@45.77.240.121:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-65088",
+    "vless://a17c0f9d-b406-463b-a564-b938a3ed6e62@116.203.2.155:80?encryption=none&security=none&type=ws&path=%2F#Speed-79825",
+    "vless://735b8344-0b95-464c-b687-1c5616138908@172.67.130.159:2096?encryption=none&security=tls&sni=cdn-de.skyvora.app&fp=chrome&type=ws&path=%2F3cagtz3&host=cdn-de.skyvora.app#Speed-43037",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.126.213:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-16813",
+    "vless://15f434b8-aaec-4306-98c9-dd8f5ef608d4@vpn.cyrionflare.xyz:2087?encryption=none&security=none&type=tcp#Speed-57986",
+    "vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@k2.cloud--vpn.site:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=firefox&type=ws&path=%2F&host=c12.com#Speed-35130",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@5tpmejgjz1zm.ardovix.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=5fa1b9&type=tcp#Speed-95233",
+    "vless://7b496f37-731b-43be-b08e-5a10225e56fe@91.98.99.172:80?encryption=none&security=none&type=ws&path=%2F#Speed-38077",
+    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@134.122.85.4:441?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-90552",
+    "vless://40f6058d-6cc1-4e4e-8c00-a5df8b7a8b58@95.179.253.237:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-24647"
 ]
