@@ -1,6 +1,6 @@
 [
-    "vless://40d50bae-50a4-4bd9-9a43-56bf039e9ef2@gerf.vvppinhd.shop:45963?encryption=none&security=none&type=tcp#Worker%2010",
-    "vless://40d50bae-50a4-4bd9-9a43-56bf039e9ef2@gers.vvppinhd.shop:50338?authority=&encryption=none&security=none&serviceName=&type=grpc#Worker%2009",
     "vless://40d50bae-50a4-4bd9-9a43-56bf039e9ef2@91.107.189.62:8080?authority=&encryption=none&security=none&serviceName=&type=grpc#Worker%2015",
-    "vless://40d50bae-50a4-4bd9-9a43-56bf039e9ef2@65.109.202.89:47070?encryption=none&security=none&type=tcp#Worker%2014"
+    "vless://40d50bae-50a4-4bd9-9a43-56bf039e9ef2@65.109.202.89:47070?encryption=none&security=none&type=tcp#Worker%2014",
+    "vless://40d50bae-50a4-4bd9-9a43-56bf039e9ef2@gerf.vvppinhd.shop:45963?encryption=none&security=none&type=tcp#Worker%2010",
+    "vless://40d50bae-50a4-4bd9-9a43-56bf039e9ef2@gers.vvppinhd.shop:50338?authority=&encryption=none&security=none&serviceName=&type=grpc#Worker%2009"
 ]
