@@ -1,17 +1,16 @@
 [
     "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm5.avenone.ir:8402?type=tcp&security=none&encryption=none#Worker%20654",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm3.avenone.ir:8402?type=tcp&security=none&encryption=none#Worker%20655",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1083?type=tcp&security=reality&encryption=none&sni=aws.amazon.com&fp=chrome&pbk=NOdKtkm2NmSrfjoW0JCOhVvUYDFByysdkU9mBcU3UgU&sid=afb4658a26&spx=%2F#Worker%20759",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@cd.dlclive.click:2086?type=xhttp&security=none&encryption=none&path=%2F&host=c.en1.pamelasli.ir&mode=auto#Worker%20754",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1085?type=xhttp&security=reality&encryption=none&sni=www.wikipedia.org&fp=chrome&pbk=avX5xTgoi7MdxAIy2-fBBb2lJobAD2Uhz7ugbzx77Qk&sid=afb4658a26&spx=%2F&path=%2Flive&mode=auto#Worker%20753",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@cd.dlclive.click:2086?type=xhttp&security=none&encryption=none&path=%2F&host=c.de1.pamelasli.ir&mode=auto#Worker%20724",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1084?type=tcp&security=reality&encryption=none&sni=www.rpc.ankr.com&fp=chrome&pbk=NOdKtkm2NmSrfjoW0JCOhVvUYDFByysdkU9mBcU3UgU&sid=afb4658a26&spx=%2F#Worker%20764",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm3.avenone.ir:8402?type=tcp&security=none&encryption=none#Worker%20810",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@cd.dlclive.click:2086?type=xhttp&security=none&encryption=none&path=%2F&host=c.en1.pamelasli.ir&mode=auto#Worker%20799",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1085?type=xhttp&security=reality&encryption=none&sni=www.wikipedia.org&fp=chrome&pbk=avX5xTgoi7MdxAIy2-fBBb2lJobAD2Uhz7ugbzx77Qk&sid=afb4658a26&spx=%2F&path=%2Flive&mode=auto#Worker%20818",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@cd.dlclive.click:2086?type=xhttp&security=none&encryption=none&path=%2F&host=c.de1.pamelasli.ir&mode=auto#Worker%20797",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1084?type=tcp&security=reality&encryption=none&sni=www.rpc.ankr.com&fp=chrome&pbk=NOdKtkm2NmSrfjoW0JCOhVvUYDFByysdkU9mBcU3UgU&sid=afb4658a26&spx=%2F#Worker%20822",
     "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1082?type=tcp&security=reality&encryption=none&sni=www.upwork.com&fp=chrome&pbk=Ue0x4ieEthJfr9UJncd-mVB-lfM_Yk2UoJ9YCWKyPSw&sid=d579df3fd5&spx=%2F#Worker%20407",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@cd.dlclive.click:2086?type=xhttp&security=none&encryption=none&path=%2F&host=c.fi1.pamelasli.ir&mode=auto#Worker%20762",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1081?type=tcp&security=reality&encryption=none&sni=digikala.com&fp=chrome&pbk=i-bcTAplsvex0xoeid_M7HC3__6liXz8iu9dDgIyZSs&sid=c98edd68&spx=%2F#Worker%20763",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@cd.dlclive.click:2086?type=xhttp&security=none&encryption=none&path=%2F&host=c.fi1.pamelasli.ir&mode=auto#Worker%20798",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1081?type=tcp&security=reality&encryption=none&sni=digikala.com&fp=chrome&pbk=i-bcTAplsvex0xoeid_M7HC3__6liXz8iu9dDgIyZSs&sid=c98edd68&spx=%2F#Worker%20820",
     "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm4.avenone.ir:8402?type=tcp&security=none&encryption=none#Worker%20405",
     "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm2.avenone.ir:8402?type=tcp&security=none&encryption=none#Worker%20404",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1083?type=tcp&security=reality&encryption=none&sni=amazon.com&fp=chrome&pbk=NOdKtkm2NmSrfjoW0JCOhVvUYDFByysdkU9mBcU3UgU&sid=afb4658a26&spx=%2F#Worker%20821",
     "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm1.avenone.ir:8402?type=tcp&security=none&encryption=none#Worker%20705",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@cd.dlclive.click:2086?type=xhttp&security=none&encryption=none&path=%2F&host=c.usa1.pamelasli.ir&mode=auto#Worker%20761",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@cd.dlclive.click:2086?type=xhttp&security=none&encryption=none&path=%2F&host=c.nl1.pamelasli.ir&mode=auto#Worker%20760"
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@cd.dlclive.click:2086?type=xhttp&security=none&encryption=none&path=%2F&host=c.nl1.pamelasli.ir&mode=auto#Worker%20800"
 ]
