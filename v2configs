@@ -1,13 +1,14 @@
 [
-    "vless://a21c2e24-771c-4998-a3c9-77246435bdcc@188.114.97.6:2087?encryption=none&security=tls&sni=splate.mavrino.bond&fp=unsafe&type=ws&path=%2F9f733a63d47c4522b370dedf4828468c&host=splate.mavrino.bond#Speed-17515",
-    "vless://3b836fb6-2f56-4252-8b17-8b188fc3b6f0@54671566.frog-keyku.info:443?encryption=none&security=tls&sni=54671566.frog-keyku.info&fp=chrome&type=ws&path=%2Fgsrri&host=54671566.frog-keyku.info#Speed-61078",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@95.217.145.241:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=80805c03e51653&type=tcp#Speed-46536",
-    "vless://063bfca4-5ebf-47a2-bc0e-254c0a172465@165.227.153.3:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-27170",
-    "vless://0fd694d0-7cba-4655-8635-a67fa200335b@104.21.21.111:443?encryption=none&security=tls&sni=smart-new.abbasali300.dpdns.org&fp=unsafe&type=ws&path=%2Fapi%2Fv1%2Fidentity%2F012&host=smart-new.abbasali300.dpdns.org#Speed-91604",
-    "vless://62890e50-9201-45a9-bd49-83dd561305b1@104.21.70.21:443?encryption=none&security=tls&sni=splasch.sanimonplusbeaureve.fun&fp=unsafe&type=ws&path=%2Fsani3&host=splasch.sanimonplusbeaureve.fun#Speed-39441",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.88.68:443?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-71932",
-    "vless://06a401fb-0100-cd98-04c5-fcf65048a37b@ns2.hosting-24.ir:443?encryption=none&security=tls&sni=ns2.hosting-24.ir&fp=chrome&type=ws&path=%2F&host=ns2.hosting-24.ir#Speed-96948",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@164.92.183.15:441?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-33002",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.119.201:443?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-50228",
-    "vless://a77ec17e-2aae-4e07-892d-67a6a2aec0d8@76970538.giraffe-keyku.info:443?encryption=none&security=tls&sni=76970538.giraffe-keyku.info&fp=chrome&type=ws&path=%2Fzljgy&host=76970538.giraffe-keyku.info#Speed-71096"
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.2.46:440?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-9742",
+    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@3.113.8.154:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-34628",
+    "vless://4b8bb408-a573-434f-9082-0ca649a5b464@188.114.97.6:443?encryption=none&security=tls&sni=Cdnofvideo.vory.ir&fp=unsafe&type=ws&path=%2F&host=Cdnofvideo.vory.ir#Speed-48275",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.177.247:440?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-45475",
+    "vless://a21c2e24-771c-4998-a3c9-77246435bdcc@188.114.97.6:2087?encryption=none&security=tls&sni=splate.mavrino.bond&fp=unsafe&type=ws&path=%2F9f733a63d47c4522b370dedf4828468c&host=splate.mavrino.bond#Speed-72334",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@178.83.45.168:2053?encryption=none&security=tls&sni=xgpjlndwnp.pqux.ir&fp=firefox&type=ws&path=%2F&host=xgpjlndwnp.pqux.ir#Speed-27985",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@170.64.149.11:443?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-81507",
+    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@68.183.211.86:441?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-66724",
+    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@142.93.174.201:441?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-99234",
+    "vless://37e82f93-8ecb-46fc-9d36-0b047ab85d78@20586078.hyena-keyku.info:443?encryption=none&security=tls&sni=20586078.hyena-keyku.info&fp=chrome&type=ws&path=%2Fsqsqp&host=20586078.hyena-keyku.info#Speed-65884",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@148.113.228.189:2053?encryption=none&security=tls&sni=ytydxqjwa9c.mwvf.ir&fp=firefox&type=ws&path=%2F&host=ytydxqjwa9c.mwvf.ir#Speed-19545",
+    "vless://063bfca4-5ebf-47a2-bc0e-254c0a172465@165.227.153.3:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-59315"
 ]
