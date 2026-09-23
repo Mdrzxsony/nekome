@@ -1,15 +1,15 @@
 [
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.99.38.15:443?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-42450",
-    "vless://6864d406-a94b-402f-903f-89b35866352d@130.185.121.24:443?encryption=none&security=none&type=grpc&mode=gun#Speed-61338",
-    "vless://2201d74a-f417-42fd-8f80-5ca85bf0d088@172.235.164.7:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=VA2oJAmZ3pOHdJH6apAQLRhCXedJAb1tWKbrx8SJNW8&sid=312bccf0ce9bc256&type=tcp#Speed-96028",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.65.50.183:443?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-33522",
-    "vless://a97bdcfb-c2d2-4173-96c3-1807b5ab28f3@57.128.106.21:80?encryption=none&security=none&type=http&path=%2F&host=ir-odc.samsungapps.com#Speed-32157",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@speedtest.org:2053?encryption=none&security=tls&sni=7rimxc6tyri.nlbt.ir&fp=firefox&type=ws&path=%2F&host=7rimxc6tyri.nlbt.ir#Speed-16796",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@165.22.76.114:441?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-52359",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@134.122.100.22:443?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-97605",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@143.110.170.192:443?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-82475",
-    "vless://c1fcd69a-8272-498f-a2c1-871badfa41b4@57.128.24.151:80?encryption=none&security=none&type=http&path=%2F&host=ir-odc.samsungapps.com#Speed-27933",
-    "vless://44e1105d-b46e-402f-933b-eaa136fcbb24@185.121.179.105:7444?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=de777.lavivas.org&fp=chrome&type=tcp#Speed-78764",
-    "vless://98a8b442-6949-4980-b8e8-34808342ec22@146.59.117.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=uUBPvv7g7ntLThWaZha0MvTITYb6rYS0B_UR7Rd3l1E&sid=bb50ef82a134e1b6&type=tcp#Speed-29417",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@170.64.156.21:443?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-62029"
+    "vless://dfa458b3-731e-4ae1-a39f-37e059d1d4ee@46.62.137.110:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=_KIEj8aP4bXz1WReZymsCKhh2YEHj-PzJyZHA7fJaiQ&sid=76bd1634722e0593&type=tcp#Speed-91748",
+    "vless://712e95de-0511-4c67-a812-069f24be275f@wqaedxcwnjdcwebcvwyvdxyweyfdvyervf5.slicemain.com:443?encryption=none&security=none&type=grpc&mode=gun#Speed-50044",
+    "vless://04b8a410-dd77-4b81-9d25-d11e5d737fc3@199.232.78.159:80?encryption=none&security=none&type=ws&path=%2F&host=simorghgr.global.ssl.fastly.net#Speed-65491",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.116.166:443?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-44609",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@170.64.187.92:443?encryption=none&security=none&type=http&path=%2F&host=http%3A%2F%2Fstore.steampowered.com#Speed-34946",
+    "vless://712e95de-0511-4c67-a812-069f24be275f@wqaedxcwnjdcwebcvwyvdxyweyfdvyervf5.slicemain.com:443?encryption=none&security=none&type=grpc&mode=gun#Speed-26754",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.112.200:443?encryption=none&security=none&type=http&path=%2F&host=https%3A%2F%2Fstore.steampowered.com#Speed-50592",
+    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@45.32.172.49:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-61719",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.100.45:443?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-92267",
+    "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&type=tcp#Speed-27482",
+    "vless://8a3806d0-efc3-4785-bc06-3246914633e6@104.21.112.115:2087?encryption=none&security=tls&sni=germant.tavlino.space&fp=unsafe&type=ws&path=%2F29445f48af474c598927edcb519b4caa&host=germant.tavlino.space#Speed-32713",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@168.144.173.134:443?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-28380",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.118.250:443?encryption=none&security=none&type=http&path=%2F&host=https%3A%2F%2Fstore.steampowered.com#Speed-42224"
 ]
