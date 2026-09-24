@@ -1,11 +1,10 @@
 [
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@mi4c3hvg0.qavm.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=5f7c3b816486b3fc&type=tcp#Speed-62143",
-    "vless://ec0fb833-2fcb-41ff-94da-75ab3f24e6ab@57.129.98.48:80?encryption=none&security=none&type=http&path=%2F&host=ir-odc.samsungapps.com#Speed-12445",
-    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@142.93.7.128:11186?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-55953",
-    "vless://e37668e0-131f-5e0f-9388-d5eeba1a36ac@master.besttotaldns.com:443?encryption=none&security=tls&sni=master.besttotaldns.com&fp=chrome&type=ws&path=%2F&host=master.besttotaldns.com#Speed-58637",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@108.181.70.13:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=120cf6b1ab&type=tcp#Speed-61448",
-    "vless://b73d11bb-18c3-4564-99c0-47bbca2c9b01@176.31.201.183:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=Iytyu_CcIQWeo-nzIwOGMXs-xXRIqabA6cBdQPr1J2E&sid=88acef34caa2bed8&type=tcp#Speed-46623",
-    "vless://a6721705-9baa-4c3e-9ce7-906800f666e9@96386532.fox-ahued.info:443?encryption=none&security=tls&sni=96386532.fox-ahued.info&fp=chrome&type=ws&path=%2Fijfyh&host=96386532.fox-ahued.info#Speed-53777",
-    "vless://4f743657-b9e1-4be5-9bb0-331fd20e48ff@188.114.97.6:443?encryption=none&security=tls&sni=alancdn.kexy.ir&fp=unsafe&type=ws&path=%2F&host=alancdn.kexy.ir#Speed-73205",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@68.183.8.147:443?encryption=none&security=none&type=http&path=%2F&host=https%3A%2F%2Fstore.steampowered.com#Speed-4673"
+    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@165.245.208.58:441?encryption=none&security=none&type=http&path=%2F&host=https%3A%2F%2Fplay-apps-features.googleusercontent.com#Speed-44771",
+    "vless://0daf9823-cf5d-8657-cc9c-3c559f1fcb6c@finland.chandplus.com:80?encryption=none&security=none&type=ws&path=%2Fv1d2LmlyYW3ob880RmNBb&host=finland.chandplus.com#Speed-46573",
+    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@159.65.121.16:441?encryption=none&security=none&type=http&path=%2F&host=https%3A%2F%2Fstore.steampowered.com#Speed-19609",
+    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@68.183.119.57:11186?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-41026",
+    "vless://84204dd3-97fc-2214-93dc-31ea36c1aced@vaniya.ir:443?encryption=none&security=tls&sni=vaniya.ir&fp=chrome&type=ws&path=%2F&host=vaniya.ir#Speed-40191",
+    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@165.245.215.190:441?encryption=none&security=none&type=http&path=%2F&host=https%3A%2F%2Fplay-apps-features.googleusercontent.com#Speed-49308",
+    "vless://872c3f0e-c5a8-9320-aea5-66b0998d909a@95.217.209.191:80?encryption=none&security=none&type=ws&path=%2F#Speed-45506",
+    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.47.194:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-15210"
 ]
