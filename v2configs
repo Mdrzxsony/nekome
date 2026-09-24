@@ -1,11 +1,12 @@
 [
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@206.189.54.232:441?encryption=none&security=none&type=http&path=%2F&host=zula.ir#Speed-65215",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@45.76.91.247:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-85863",
-    "vless://06a401fb-0100-cd98-04c5-fcf65048a37b@ns2.hosting-24.ir:443?encryption=none&security=tls&sni=ns2.hosting-24.ir&fp=chrome&type=ws&path=%2F&host=ns2.hosting-24.ir#Speed-28647",
-    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@64.23.184.149:11186?encryption=none&security=none&type=http&path=%2F&host=cafebazaar.ir#Speed-13808",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@157.230.126.153:441?encryption=none&security=none&type=http&path=%2F&host=trustseal.enamad.ir#Speed-51691",
-    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform106.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform106&host=platform106.halalkhor.info#Speed-56225",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@209.38.192.95:441?encryption=none&security=none&type=http&path=%2F&host=web-cdn.snapp.ir#Speed-54842",
-    "vless://2a9d40f2-7ad9-df4e-b784-4c1407d10a8d@apiv3.besttotaldns.com:443?encryption=none&security=tls&sni=apiv3.besttotaldns.com&fp=chrome&type=ws&path=%2F&host=apiv3.besttotaldns.com#Speed-97092",
-    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@162.243.96.236:11186?encryption=none&security=none&type=http&path=%2F&host=trustseal.enamad.ir#Speed-84506"
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.165.54:440?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-49160",
+    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform108&host=platform108.halalkhor.info#Speed-35458",
+    "vless://a6d5e169-4fd2-48ed-b4f5-7a6c8f949b0e@80510451.babak-yanfid.info:443?encryption=none&security=tls&sni=80510451.babak-yanfid.info&fp=chrome&type=ws&path=%2Fihpdo&host=80510451.babak-yanfid.info#Speed-78878",
+    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@201.79.13.234:441?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-66110",
+    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@188.166.120.41:11186?encryption=none&security=none&type=http&path=%2F&host=www.icloud.com#Speed-88881",
+    "vless://ee0a024d-f229-f697-3bcf-4db388af9ff7@46.62.232.117:80?encryption=none&security=none&type=ws&path=%2F#Speed-77848",
+    "vless://c361f3ca-b565-4965-a79f-8b01c222afd2@57.128.106.196:80?encryption=none&security=none&type=http&path=%2F&host=ir-odc.samsungapps.com#Speed-18945",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.93.46:440?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-77286",
+    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.70.21:443?encryption=none&security=tls&sni=smlati.dovrani.ir&fp=unsafe&type=ws&path=%2Fadylb&host=smlati.dovrani.ir#Speed-34186",
+    "vless://9c7f7120-6a80-173a-10bc-7e061bbcd07e@rpc1.tntsoftwaregroup.com:443?encryption=none&security=tls&sni=rpc1.tntsoftwaregroup.com&fp=chrome&type=ws&path=%2F&host=rpc1.tntsoftwaregroup.com#Speed-57865"
 ]
