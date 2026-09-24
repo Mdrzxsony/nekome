@@ -1,13 +1,12 @@
 [
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1085?type=xhttp&security=reality&encryption=none&sni=www.wikipedia.org&fp=chrome&pbk=avX5xTgoi7MdxAIy2-fBBb2lJobAD2Uhz7ugbzx77Qk&sid=afb4658a26&spx=%2F&path=%2Flive&mode=auto#Worker%201379",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1084?type=tcp&security=reality&encryption=none&sni=www.rpc.ankr.com&fp=chrome&pbk=NOdKtkm2NmSrfjoW0JCOhVvUYDFByysdkU9mBcU3UgU&sid=afb4658a26&spx=%2F#Worker%201378",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1082?type=tcp&security=reality&encryption=none&sni=www.upwork.com&fp=chrome&pbk=Ue0x4ieEthJfr9UJncd-mVB-lfM_Yk2UoJ9YCWKyPSw&sid=d579df3fd5&spx=%2F#Worker%20407",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1081?type=tcp&security=reality&encryption=none&sni=www.digikala.com&fp=chrome&pbk=i-bcTAplsvex0xoeid_M7HC3__6liXz8iu9dDgIyZSs&sid=c98edd68&spx=%2F#Worker%201377",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@dl.youping.ir:443?type=ws&security=tls&encryption=none&sni=dl.youping.ir&fp=chrome&path=%2Fbro#Worker%201374",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm4.avenone.ir:8402?type=tcp&security=none&encryption=none#Worker%20405",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm2.avenone.ir:8402?type=tcp&security=none&encryption=none#Worker%20404",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1083?type=tcp&security=reality&encryption=none&sni=amazon.com&fp=chrome&pbk=NOdKtkm2NmSrfjoW0JCOhVvUYDFByysdkU9mBcU3UgU&sid=afb4658a26&spx=%2F#Worker%201370",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm1.avenone.ir:8402?type=tcp&security=none&encryption=none#Worker%20705",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1083?type=tcp&security=reality&encryption=none&sni=amazon.com&fp=chrome&pbk=NOdKtkm2NmSrfjoW0JCOhVvUYDFByysdkU9mBcU3UgU&sid=afb4658a26&spx=%2F#Worker%201506",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1084?type=tcp&security=reality&encryption=none&sni=rpc.ankr.com&fp=chrome&pbk=NOdKtkm2NmSrfjoW0JCOhVvUYDFByysdkU9mBcU3UgU&sid=afb4658a26&spx=%2F#Worker%201512",
     "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm5.avenone.ir:8402?type=tcp&security=none&encryption=none#Worker%20654",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm3.avenone.ir:8402?type=tcp&security=none&encryption=none#Worker%201347"
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm3.avenone.ir:8402?type=tcp&security=none&encryption=none#Worker%201490",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1085?type=xhttp&security=reality&encryption=none&sni=www.wikipedia.org&fp=chrome&pbk=avX5xTgoi7MdxAIy2-fBBb2lJobAD2Uhz7ugbzx77Qk&sid=afb4658a26&spx=%2F&path=%2Flive&mode=auto#Worker%201513",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1082?type=tcp&security=reality&encryption=none&sni=www.upwork.com&fp=chrome&pbk=Ue0x4ieEthJfr9UJncd-mVB-lfM_Yk2UoJ9YCWKyPSw&sid=d579df3fd5&spx=%2F#Worker%20407",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@dl.youping.ir:443?type=ws&security=tls&encryption=none&sni=dl.youping.ir&fp=chrome&path=%2Fbro#Worker%201508",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1081?type=tcp&security=reality&encryption=none&sni=digikala.com&fp=chrome&pbk=i-bcTAplsvex0xoeid_M7HC3__6liXz8iu9dDgIyZSs&sid=c98edd68&spx=%2F#Worker%201511",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm4.avenone.ir:8402?type=tcp&security=none&encryption=none#Worker%201441",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm2.avenone.ir:8402?type=tcp&security=none&encryption=none#Worker%20404"
 ]
