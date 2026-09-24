@@ -1,10 +1,9 @@
 [
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@165.245.208.58:441?encryption=none&security=none&type=http&path=%2F&host=https%3A%2F%2Fplay-apps-features.googleusercontent.com#Speed-44771",
-    "vless://0daf9823-cf5d-8657-cc9c-3c559f1fcb6c@finland.chandplus.com:80?encryption=none&security=none&type=ws&path=%2Fv1d2LmlyYW3ob880RmNBb&host=finland.chandplus.com#Speed-46573",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@159.65.121.16:441?encryption=none&security=none&type=http&path=%2F&host=https%3A%2F%2Fstore.steampowered.com#Speed-19609",
-    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@68.183.119.57:11186?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-41026",
-    "vless://84204dd3-97fc-2214-93dc-31ea36c1aced@vaniya.ir:443?encryption=none&security=tls&sni=vaniya.ir&fp=chrome&type=ws&path=%2F&host=vaniya.ir#Speed-40191",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@165.245.215.190:441?encryption=none&security=none&type=http&path=%2F&host=https%3A%2F%2Fplay-apps-features.googleusercontent.com#Speed-49308",
-    "vless://872c3f0e-c5a8-9320-aea5-66b0998d909a@95.217.209.191:80?encryption=none&security=none&type=ws&path=%2F#Speed-45506",
-    "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.47.194:443?encryption=none&security=none&type=http&path=%2F&host=play-apps-features.googleusercontent.com#Speed-15210"
+    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@139.59.138.157:441?encryption=none&security=none&type=http&path=%2F#Speed-56197",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@104.248.252.44:440?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-74123",
+    "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.29.247:443?encryption=none&security=none&type=http&path=%2F#Speed-34302",
+    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.70.21:443?encryption=none&security=tls&sni=smartify.dovrani.ir&fp=unsafe&type=ws&path=%2Fadylb&host=smartify.dovrani.ir#Speed-61786",
+    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@43.206.253.233:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-26065",
+    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.70.21:443?encryption=none&security=tls&sni=smartify.dovrani.ir&fp=unsafe&type=ws&path=%2Fadylb&host=smartify.dovrani.ir#Speed-15745",
+    "vless://tst-ads@104.21.21.111:443?encryption=none&security=tls&sni=de.pariizad.ir&fp=chrome&type=ws&path=%2Fwss&host=de.pariizad.ir#Speed-9973"
 ]
