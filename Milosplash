@@ -1,6 +1,4 @@
 [
     "vless://890110a0-e631-49aa-9ecc-963403c4fbb4@goldpixel-core.sbs:443?encryption=none&security=reality&type=xhttp&sni=www.wikipedia.org&fp=chrome&pbk=pwxPeZlUrfZbKCcvU6AxfQyLUtmCkmX0YWz3ZETRsBo&sid=d0bfcbde#h3f7nxxd",
-    "vmess://eyJ2IjoiMiIsInBzIjoiV29ya2VyIDE5OTIiLCJhZGQiOiJjZC5kbGNsaXZlLmNsaWNrIiwicG9ydCI6IjIwODIiLCJpZCI6IjdiYWIyOGJjLWE2NzMtMDBjOC1iYzRkLTJiYTM1ZGMxZTRmMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoieGh0dHAiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJjLm5sMS5kaWdpZml4bW9iaWxlLmlyIiwicGF0aCI6Ii9saXZlIiwidGxzIjoiIiwic25pIjoiIiwiZnAiOiIiLCJhbHBuIjoiIn0=",
-    "vmess://eyJ2IjoiMiIsInBzIjoiV29ya2VyIDIwMTAiLCJhZGQiOiJjZC5kbGNsaXZlLmNsaWNrIiwicG9ydCI6IjIwODIiLCJpZCI6IjdiYWIyOGJjLWE2NzMtMDBjOC1iYzRkLTJiYTM1ZGMxZTRmMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoieGh0dHAiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJjLmRlMS5kaWdpZml4bW9iaWxlLmlyIiwicGF0aCI6Ii9saXZlIiwidGxzIjoiIiwic25pIjoiIiwiZnAiOiIiLCJhbHBuIjoiIn0=",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm1.avenone.ir:8402?type=tcp&security=none&encryption=none#Worker%202007"
+    "vless://088c7895-8dee-47e1-848e-7741bd427cd5@freshwolfnet-core.sbs:443?encryption=none&security=reality&type=xhttp&sni=www.wikipedia.org&fp=chrome&pbk=pwxPeZlUrfZbKCcvU6AxfQyLUtmCkmX0YWz3ZETRsBo&sid=d0bfcbde#h3f7nxxd"
 ]
