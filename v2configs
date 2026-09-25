@@ -1,12 +1,12 @@
 [
-    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform107.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform107&host=platform107.halalkhor.info#Speed-67376",
-    "vless://e97ab92c-6067-44d8-a8ea-c8c07d33e99a@138.68.85.74:12899?encryption=none&security=none&type=http&path=%2F&host=ghbi.ir#Speed-58039",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.108.0.27:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=08&type=tcp#Speed-83202",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@206.189.53.41:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-39319",
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@164.90.192.249:2083?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&sid=2baa&type=tcp#Speed-65294",
-    "vless://9fa5b96f-02be-48f4-ab38-31a5f24c19ea@167.233.184.113:443?encryption=none&security=none&type=grpc&serviceName=grpc&mode=gun#Speed-75632",
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@144.126.223.139:2083?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&sid=2baa&type=tcp#Speed-93075",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.65.35:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-12288",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.243.60:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-39190",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.203.29.134:439?encryption=none&security=reality&sni=www.wikipedia.org&fp=chrome&pbk=p4ZYmf3HCWjSzJLzUg1aB14qcd1-C-BBAqhkehGR4zQ&sid=6697251e0da095&type=tcp#Speed-54090"
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.212.28:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-4287",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.121.67:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-73307",
+    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform115.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform115&host=platform115.halalkhor.info#Speed-67481",
+    "vless://4d335272-8ded-9699-5299-2a7318d7dbcc@rc.besttotaldns.com:443?encryption=none&security=tls&sni=rc.besttotaldns.com&fp=chrome&type=ws&path=%2F&host=rc.besttotaldns.com#Speed-46815",
+    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.70.21:443?encryption=none&security=tls&sni=splain.dovrani.ir&fp=unsafe&type=ws&path=%2Fadylb&host=splain.dovrani.ir#Speed-28226",
+    "vless://536ac26c-6769-4989-af1c-1f5108ef9b7b@141.94.158.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=2oaxSgUSdNSispV9PyYKQX9AcDafn7QKeuquC06yB3Q&sid=7c0eb181ba2df4bd&type=tcp#Speed-62558",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.176.74.32:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-24144",
+    "vless://368cd620-59ea-4927-a8ac-6ae17fa1e34b@216.24.57.7:443?encryption=none&security=tls&sni=mikalife.lifestyle&fp=chrome&type=grpc&mode=gun#Speed-70207",
+    "vless://64dd9b1a-8d21-f6a6-426d-2d58e94817ad@core.freegreenkala.com:80?encryption=none&security=none&type=ws&path=%2FT1d2LmlyYE3ob880RmVBb&host=core.freegreenkala.com#Speed-78351",
+    "vless://e97ab92c-6067-44d8-a8ea-c8c07d33e99a@165.22.67.197:12899?encryption=none&security=none&type=http&path=%2F&host=ghbi.ir#Speed-18094"
 ]
