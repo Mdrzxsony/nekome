@@ -1,12 +1,12 @@
 [
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@68.183.219.221:440?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-71423",
-    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@164.92.235.231:11186?encryption=none&security=none&type=http&path=%2F&host=grs.dbankcloud.com#Speed-20349",
-    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform110.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform110&host=platform110.halalkhor.info#Speed-27263",
-    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@170.64.129.88:11186?encryption=none&security=none&type=http&path=%2F&host=fr.khamenei.ir#Speed-68162",
-    "vless://e97ab92c-6067-44d8-a8ea-c8c07d33e99a@64.226.127.9:12899?encryption=none&security=none&type=http&path=%2F&host=play.google.com#Speed-57273",
-    "vless://872c3f0e-c5a8-9320-aea5-66b0998d909a@95.217.209.191:80?encryption=none&security=none&type=ws&path=%2F#Speed-86604",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@139.59.153.249:441?encryption=none&security=none&type=http&path=%2F&host=web-cdn.snapp.ir#Speed-66153",
-    "vless://ee0a024d-f229-f697-3bcf-4db388af9ff7@46.62.232.117:80?encryption=none&security=none&type=ws&path=%2F#Speed-20852",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.185.132:440?encryption=none&security=none&type=http&path=%2F&host=www.amazonaws-china.com#Speed-70019",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.176.74.32:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-92417"
+    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform107.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform107&host=platform107.halalkhor.info#Speed-67376",
+    "vless://e97ab92c-6067-44d8-a8ea-c8c07d33e99a@138.68.85.74:12899?encryption=none&security=none&type=http&path=%2F&host=ghbi.ir#Speed-58039",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.108.0.27:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=08&type=tcp#Speed-83202",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@206.189.53.41:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-39319",
+    "vless://40992c2a-513e-4837-9594-23411fd42afd@164.90.192.249:2083?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&sid=2baa&type=tcp#Speed-65294",
+    "vless://9fa5b96f-02be-48f4-ab38-31a5f24c19ea@167.233.184.113:443?encryption=none&security=none&type=grpc&serviceName=grpc&mode=gun#Speed-75632",
+    "vless://40992c2a-513e-4837-9594-23411fd42afd@144.126.223.139:2083?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&sid=2baa&type=tcp#Speed-93075",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.65.35:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-12288",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.243.60:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-39190",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.203.29.134:439?encryption=none&security=reality&sni=www.wikipedia.org&fp=chrome&pbk=p4ZYmf3HCWjSzJLzUg1aB14qcd1-C-BBAqhkehGR4zQ&sid=6697251e0da095&type=tcp#Speed-54090"
 ]
