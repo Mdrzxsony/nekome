@@ -1,6 +1,6 @@
 [
     "vless://890110a0-e631-49aa-9ecc-963403c4fbb4@goldpixel-core.sbs:443?encryption=none&security=reality&type=xhttp&sni=www.wikipedia.org&fp=chrome&pbk=pwxPeZlUrfZbKCcvU6AxfQyLUtmCkmX0YWz3ZETRsBo&sid=d0bfcbde#h3f7nxxd",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1082?type=tcp&security=reality&encryption=none&sni=www.upwork.com&fp=chrome&pbk=Ue0x4ieEthJfr9UJncd-mVB-lfM_Yk2UoJ9YCWKyPSw&sid=d579df3fd5&spx=%2F#Worker%20407",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm2.avenone.ir:8402?type=tcp&security=none&encryption=none#Worker%201560",
-    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@smart.avenone.ir:1081?type=tcp&security=reality&encryption=none&sni=digikala.com&fp=chrome&pbk=i-bcTAplsvex0xoeid_M7HC3__6liXz8iu9dDgIyZSs&sid=c98edd68&spx=%2F#Worker%201868"
+    "vmess://eyJ2IjoiMiIsInBzIjoiV29ya2VyIDE5OTIiLCJhZGQiOiJjZC5kbGNsaXZlLmNsaWNrIiwicG9ydCI6IjIwODIiLCJpZCI6IjdiYWIyOGJjLWE2NzMtMDBjOC1iYzRkLTJiYTM1ZGMxZTRmMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoieGh0dHAiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJjLm5sMS5kaWdpZml4bW9iaWxlLmlyIiwicGF0aCI6Ii9saXZlIiwidGxzIjoiIiwic25pIjoiIiwiZnAiOiIiLCJhbHBuIjoiIn0=",
+    "vmess://eyJ2IjoiMiIsInBzIjoiV29ya2VyIDIwMTAiLCJhZGQiOiJjZC5kbGNsaXZlLmNsaWNrIiwicG9ydCI6IjIwODIiLCJpZCI6IjdiYWIyOGJjLWE2NzMtMDBjOC1iYzRkLTJiYTM1ZGMxZTRmMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoieGh0dHAiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJjLmRlMS5kaWdpZml4bW9iaWxlLmlyIiwicGF0aCI6Ii9saXZlIiwidGxzIjoiIiwic25pIjoiIiwiZnAiOiIiLCJhbHBuIjoiIn0=",
+    "vless://7bab28bc-a673-00c8-bc4d-2ba35dc1e4f0@kvm1.avenone.ir:8402?type=tcp&security=none&encryption=none#Worker%202007"
 ]
