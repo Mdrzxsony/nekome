@@ -1,10 +1,8 @@
 [
-    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@15.217.216.0:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-70045",
-    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.70.21:443?encryption=none&security=tls&sni=spssmlsm.dovrani.ir&fp=unsafe&type=ws&path=%2Fadylb&host=spssmlsm.dovrani.ir#Speed-82219",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@168.222.49.148:2053?encryption=none&security=tls&sni=dvouallr.tqiv.ir&fp=firefox&type=ws&path=%2F&host=dvouallr.tqiv.ir#Speed-4489",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.225.44.248:440?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=p4ZYmf3HCWjSzJLzUg1aB14qcd1-C-BBAqhkehGR4zQ&sid=b243&type=tcp#Speed-78304",
-    "vless://fff27ba2-b902-4e3f-9d15-8689b29c22e5@172.235.164.111:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=X_PIo0i_VmF0XZUsW4MoNkqkuQPZt9Buh-hJAXVgizk&sid=38efcb0a13a5c387&type=tcp#Speed-98407",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.218.11:440?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-76317",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@45.55.73.220:439?encryption=none&security=reality&sni=www.wikipedia.org&fp=chrome&pbk=p4ZYmf3HCWjSzJLzUg1aB14qcd1-C-BBAqhkehGR4zQ&sid=6697251e0da095&type=tcp#Speed-91451",
-    "vless://77868302-7d72-4ff0-bb0d-69c8235b19c7@3.64.9.213:32532?encryption=none&security=none&type=http&path=%2F&host=amp-api-edge.apps.apple.com#Speed-8807"
+    "vless://9fa5b96f-02be-48f4-ab38-31a5f24c19ea@91.107.241.180:2083?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=S8QyU-Zh_GLc5dJg9jPaPVq-PBq3xRcN1EX9DmyfRQ0&sid=c78b&type=tcp#Speed-80452",
+    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.70.21:443?encryption=none&security=tls&sni=spssmlsm.dovrani.ir&fp=unsafe&type=ws&path=%2Fadylb&host=spssmlsm.dovrani.ir#Speed-26421",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@speedtest.org:2053?encryption=none&security=tls&sni=ckwfb.muvq.ir&fp=firefox&type=ws&path=%2F&host=ckwfb.muvq.ir#Speed-59524",
+    "vless://ee0a024d-f229-f697-3bcf-4db388af9ff7@46.62.232.117:80?encryption=none&security=none&type=ws&path=%2F#Speed-88913",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@kj22k5bhsqnk.wzemi.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=90ec9bba2019&type=tcp#Speed-71549",
+    "vless://3e2ec5e4-526f-416e-a1bf-b8c5925fa690@104.21.112.115:2087?encryption=none&security=tls&sni=mashdibad.kavino.space&fp=unsafe&type=ws&path=%2Ff0b1918f6ba844a1b79ef4cbc88d28bd&host=mashdibad.kavino.space#Speed-64799"
 ]
