@@ -9,6 +9,10 @@
     "vless://c279fee0-c09c-4bd5-c780-6e9ea10da566@172.234.37.77:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.krg&fp=chrome&pbk=R6gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&type=tcp#V7pro-97309",
     "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform119.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform119&host=platform119.halalkhor.info#V7pro-24451",
     "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.111.91:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=90ec9bba2019&type=tcp#V7pro-44619",
+    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform105.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform105&host=platform105.halalkhor.info#V7pro-44795",
+    "vless://561437b1-ecf6-4a26-8a9b-b1cc4327be66@64.118.149.71:22149?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.digikala.com&fp=chrome&pbk=nmZ5WuK14vaAnzvcH4ANnv5xDvdDjobqcvR3P6Qpw0s&sid=f719ee91e15c5e33&type=tcp#V7pro-33181",
+    "vless://526ab483-09a9-4036-92a2-f5ba42df6cee@mebank.ir:110?encryption=none&security=reality&sni=android.clients.google.com&fp=chrome&pbk=JoXIfc3fCE2vBr_a_gepeEE4o58bVgpB67Ef_xN2nHI&sid=813461e3624d89&type=tcp#V7pro-51088",
+    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@51.48.89.137:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#V7pro-78375",
     "vless://63a4d81f-8cad-4c04-935b-d97f5b2cedff@172.104.249.143:80?encryption=none&security=none&type=http&path=%2F&host=ir-odc.samsungapps.com#V7pro-67943",
     "vless://efe19c5a-0ea1-4666-8a4c-4a33f4670775@104.18.13.15:443?encryption=none&security=tls&sni=loadcdn.skin&fp=unsafe&type=ws&path=%2Fraccoonwsvless&host=loadcdn.skin#V7pro-16052",
     "vless://e90d5587-1bc6-4666-ad8c-6632f49aa420@27056273.shahab-bbsijsj.click:443?encryption=none&security=tls&sni=27056273.shahab-bbsijsj.click&fp=chrome&type=ws&path=%2Ffqakb&host=27056273.shahab-bbsijsj.click#V7pro-8057",
@@ -43,9 +47,5 @@
     "vless://47b63e55-a4e4-43ce-97dc-946e6a26971d@5.181.201.44:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bababoy.karp1pdd.life&fp=random&pbk=98MNvJC4t0ZjK_xHlQjOx2WfLfAPluNDb71MzS9sPT8&sid=38018dde3e27335e&type=tcp#V7pro-5459",
     "vless://57e2a48b-0cc2-4b60-aacd-b36358fcba96@api-4pda-k9x4m.xubi.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=4pda.to&fp=chrome&pbk=8q_xD5tfjZGDPsnq-3VqXWVV7-D03crExMBuL4xQNBM&sid=d4f6a8c1b2e3f9aa&type=tcp#V7pro-76091",
     "vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@162.159.38.119:2053?encryption=none&security=tls&sni=zixyd.tenmmapps.com&fp=chrome&type=ws&path=%2F&host=zixyd.tenmmapps.com#V7pro-26533",
-    "vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?encryption=none&security=none&type=ws&path=%2F29c8fed7ca22&host=%2F%3F%E2%80%93v2rayNplus%E2%80%93v2rayNplus%E2%80%93v2rayNplus%E2%80%93#V7pro-95430",
-    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform105.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform105&host=platform105.halalkhor.info#V7pro-44795",
-    "vless://561437b1-ecf6-4a26-8a9b-b1cc4327be66@64.118.149.71:22149?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.digikala.com&fp=chrome&pbk=nmZ5WuK14vaAnzvcH4ANnv5xDvdDjobqcvR3P6Qpw0s&sid=f719ee91e15c5e33&type=tcp#V7pro-33181",
-    "vless://526ab483-09a9-4036-92a2-f5ba42df6cee@mebank.ir:110?encryption=none&security=reality&sni=android.clients.google.com&fp=chrome&pbk=JoXIfc3fCE2vBr_a_gepeEE4o58bVgpB67Ef_xN2nHI&sid=813461e3624d89&type=tcp#V7pro-51088",
-    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@51.48.89.137:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#V7pro-78375"
+    "vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?encryption=none&security=none&type=ws&path=%2F29c8fed7ca22&host=%2F%3F%E2%80%93v2rayNplus%E2%80%93v2rayNplus%E2%80%93v2rayNplus%E2%80%93#V7pro-95430"
 ]
