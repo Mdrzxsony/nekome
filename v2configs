@@ -1,8 +1,7 @@
 [
-    "vless://9fa5b96f-02be-48f4-ab38-31a5f24c19ea@91.107.241.180:2083?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=S8QyU-Zh_GLc5dJg9jPaPVq-PBq3xRcN1EX9DmyfRQ0&sid=c78b&type=tcp#Speed-80452",
-    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.70.21:443?encryption=none&security=tls&sni=spssmlsm.dovrani.ir&fp=unsafe&type=ws&path=%2Fadylb&host=spssmlsm.dovrani.ir#Speed-26421",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@speedtest.org:2053?encryption=none&security=tls&sni=ckwfb.muvq.ir&fp=firefox&type=ws&path=%2F&host=ckwfb.muvq.ir#Speed-59524",
-    "vless://ee0a024d-f229-f697-3bcf-4db388af9ff7@46.62.232.117:80?encryption=none&security=none&type=ws&path=%2F#Speed-88913",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@kj22k5bhsqnk.wzemi.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=90ec9bba2019&type=tcp#Speed-71549",
-    "vless://3e2ec5e4-526f-416e-a1bf-b8c5925fa690@104.21.112.115:2087?encryption=none&security=tls&sni=mashdibad.kavino.space&fp=unsafe&type=ws&path=%2Ff0b1918f6ba844a1b79ef4cbc88d28bd&host=mashdibad.kavino.space#Speed-64799"
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@108.181.59.29:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=08&type=tcp#Speed-4274",
+    "vless://872c3f0e-c5a8-9320-aea5-66b0998d909a@95.217.209.191:80?encryption=none&security=none&type=ws&path=%2F#Speed-72353",
+    "vless://561437b1-ecf6-4a26-8a9b-b1cc4327be66@64.118.149.71:22149?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.digikala.com&fp=chrome&pbk=nmZ5WuK14vaAnzvcH4ANnv5xDvdDjobqcvR3P6Qpw0s&sid=f719ee91e15c5e33&type=tcp#Speed-56086",
+    "vless://004ec715-f80a-41cf-93f2-51802e8a56db@155.229.197.126:25366?encryption=none&flow=xtls-rprx-vision&security=reality&sni=iranecar.com&fp=chrome&pbk=A5oY_6FbA-JHQRI-_hPvedagR43Q_U4nezU1VZ1kbwo&sid=b9c7859d47873f05&type=tcp#Speed-77750",
+    "vless://3e2ec5e4-526f-416e-a1bf-b8c5925fa690@ipw.ygdfw.com:2087?encryption=none&security=tls&sni=mashdibad.vantacore.info&fp=unsafe&type=ws&path=%2Ff0b1918f6ba844a1b79ef4cbc88d28bd&host=mashdibad.vantacore.info#Speed-71246"
 ]
