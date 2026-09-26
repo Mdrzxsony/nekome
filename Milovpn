@@ -1,14 +1,14 @@
 [
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@smart.avenone.ir:1081?security=none&type=tcp&headerType=none&path=&host=www.apple.com#Worker%202291",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@kvm2.avenone.ir:8402?security=none&type=tcp&headerType=none&path=&host=play.google.com#Worker%202349",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@cd-fy.dlclive.click:80?security=none&type=xhttp&headerType=&path=%2Flive&host=adm-app-cd-nl2.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#Worker%202351",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@kvm4.avenone.ir:8402?security=none&type=tcp&headerType=none&path=&host=play.google.com#Worker%202300",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@smart.avenone.ir:1085?security=none&type=tcp&headerType=none&path=&host=www.bing.com#Worker%202274",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@smart.avenone.ir:1083?security=none&type=tcp&headerType=none&path=&host=www.cloudflare.com#Worker%202296",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@cd-fy.dlclive.click:80?security=none&type=xhttp&headerType=&path=%2Flive&host=adm-app-cd-de3.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#Worker%202350",
     "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@kvm3.avenone.ir:8402?security=none&type=tcp&headerType=none&path=&host=play.google.com#Worker%202260",
     "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@smart.avenone.ir:1084?security=none&type=tcp&headerType=none&path=&host=www.google.com#Worker%202353",
     "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@kvm5.avenone.ir:8402?security=none&type=tcp&headerType=none&path=&host=play.google.com#Worker%202284",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@smart.avenone.ir:1081?security=none&type=tcp&headerType=none&path=&host=www.apple.com#Worker%202291",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@kvm2.avenone.ir:8402?security=none&type=tcp&headerType=none&path=&host=play.google.com#Worker%202349",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@cd-fy.dlclive.click:80?security=none&type=xhttp&headerType=&path=%2Flive&host=adm-app-cd-tr1.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#Worker%202352",
     "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@kvm1.avenone.ir:8402?security=none&type=tcp&headerType=none&path=&host=play.google.com#Worker%202348",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@smart.avenone.ir:1082?security=none&type=tcp&headerType=none&path=&host=www.microsoft.com#Worker%202295",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@smart.avenone.ir:1083?security=none&type=tcp&headerType=none&path=&host=www.cloudflare.com#Worker%202296",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@cd-fy.dlclive.click:80?security=none&type=xhttp&headerType=&path=%2Flive&host=adm-app-cd-de3.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#Worker%202350",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@cd-fy.dlclive.click:80?security=none&type=xhttp&headerType=&path=%2Flive&host=adm-app-cd-nl2.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#Worker%202351",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@kvm4.avenone.ir:8402?security=none&type=tcp&headerType=none&path=&host=play.google.com#Worker%202300"
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@smart.avenone.ir:1082?security=none&type=tcp&headerType=none&path=&host=www.microsoft.com#Worker%202295"
 ]
