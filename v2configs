@@ -1,7 +1,10 @@
 [
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@108.181.59.29:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=08&type=tcp#Speed-4274",
-    "vless://872c3f0e-c5a8-9320-aea5-66b0998d909a@95.217.209.191:80?encryption=none&security=none&type=ws&path=%2F#Speed-72353",
-    "vless://561437b1-ecf6-4a26-8a9b-b1cc4327be66@64.118.149.71:22149?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.digikala.com&fp=chrome&pbk=nmZ5WuK14vaAnzvcH4ANnv5xDvdDjobqcvR3P6Qpw0s&sid=f719ee91e15c5e33&type=tcp#Speed-56086",
-    "vless://004ec715-f80a-41cf-93f2-51802e8a56db@155.229.197.126:25366?encryption=none&flow=xtls-rprx-vision&security=reality&sni=iranecar.com&fp=chrome&pbk=A5oY_6FbA-JHQRI-_hPvedagR43Q_U4nezU1VZ1kbwo&sid=b9c7859d47873f05&type=tcp#Speed-77750",
-    "vless://3e2ec5e4-526f-416e-a1bf-b8c5925fa690@ipw.ygdfw.com:2087?encryption=none&security=tls&sni=mashdibad.vantacore.info&fp=unsafe&type=ws&path=%2Ff0b1918f6ba844a1b79ef4cbc88d28bd&host=mashdibad.vantacore.info#Speed-71246"
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@108.181.58.47:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=5fa1b9&type=tcp#Speed-2900",
+    "vless://9fa5b96f-02be-48f4-ab38-31a5f24c19ea@91.107.241.180:2083?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=S8QyU-Zh_GLc5dJg9jPaPVq-PBq3xRcN1EX9DmyfRQ0&sid=c78b&type=tcp#Speed-56322",
+    "vless://19bc4f42-2502-45f6-a573-b28fc8257f02@104.21.70.21:443?encryption=none&security=tls&sni=smart-new.arcove.dpdns.org&fp=unsafe&type=ws&path=%2Fapi%2Fv1%2Fidentity%2F012&host=smart-new.arcove.dpdns.org#Speed-41317",
+    "vless://ed092e2f-28a0-6223-abe8-a7ce7f20aa06@ns2.besttotaldns.com:443?encryption=none&security=tls&sni=ns2.besttotaldns.com&fp=chrome&type=ws&path=%2F&host=ns2.besttotaldns.com#Speed-79535",
+    "vless://6282ce42-5818-4f03-b21f-08d3aa7c1c52@104.21.70.21:443?encryption=none&security=tls&sni=smart-new.arcove.dpdns.org&fp=unsafe&type=ws&path=%2Fapi%2Fv1%2Fidentity%2F012&host=smart-new.arcove.dpdns.org#Speed-53415",
+    "vless://97aa2c4f-1665-0141-231d-4de0ec71937c@sc.jahanify.com:2053?encryption=none&security=tls&sni=sc.jahanify.com&fp=chrome&type=ws&path=%2Fr1d2LmlyYw3ob880RmbRb&host=sc.jahanify.com#Speed-6164",
+    "vless://9e1ca79a-b500-44ef-9799-0066921cf2db@146.59.129.190:80?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-65950",
+    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform113&host=platform113.halalkhor.info#Speed-46404"
 ]
