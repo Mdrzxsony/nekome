@@ -1,13 +1,13 @@
 [
-    "vless://f227d8cf-eb1e-4540-d388-379e55e32742@geo.sanabeautyshahriar.com:443?encryption=none&security=tls&sni=geo.sanabeautyshahriar.com&fp=chrome&type=ws&path=%2F&host=geo.sanabeautyshahriar.com#Speed-56464",
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.191.251:2083?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&sid=2baa&type=tcp#Speed-32234",
-    "vless://ed092e2f-28a0-6223-abe8-a7ce7f20aa06@ns2.besttotaldns.com:443?encryption=none&security=tls&sni=ns2.besttotaldns.com&fp=chrome&type=ws&path=%2F&host=ns2.besttotaldns.com#Speed-86323",
-    "vless://ee0a024d-f229-f697-3bcf-4db388af9ff7@46.62.232.117:80?encryption=none&security=none&type=ws&path=%2F#Speed-994",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@64.225.126.247:441?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=R-Pha_auvQSaq-zA8eZbXR42SDTS7DqjiWquFrCZQwA&sid=3c&type=tcp#Speed-27128",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@q8qk71goc0.mtfh.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=120cf6b1ab&type=tcp#Speed-61792",
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@143.198.17.44:2083?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&sid=2baa&type=tcp#Speed-66513",
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.137.34:2083?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&sid=2baa&type=tcp#Speed-19701",
-    "vless://b47d7684-c0f9-4d73-bd1d-ed80e8d612af@90677582.accordionddkjwnd.click:443?encryption=none&security=tls&sni=90677582.accordionddkjwnd.click&fp=firefox&type=ws&path=%2Flbwqw&host=90677582.accordionddkjwnd.click#Speed-59268",
-    "vless://06a401fb-0100-cd98-04c5-fcf65048a37b@ns2.hosting-24.ir:443?encryption=none&security=tls&sni=ns2.hosting-24.ir&fp=chrome&type=ws&path=%2F&host=ns2.hosting-24.ir#Speed-17397",
-    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.24.22.118:443?encryption=none&security=tls&sni=spelashie.dovrani.ir&fp=unsafe&type=ws&path=%2Fadylb&host=spelashie.dovrani.ir#Speed-5968"
+    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform110.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform110&host=platform110.halalkhor.info#Speed-58597",
+    "vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.25.156:443?encryption=none&security=none&type=http&path=%2F&host=maps.google.com#Speed-22768",
+    "vless://9c7f7120-6a80-173a-10bc-7e061bbcd07e@rpc1.tntsoftwaregroup.com:443?encryption=none&security=tls&sni=rpc1.tntsoftwaregroup.com&fp=chrome&type=ws&path=%2F&host=rpc1.tntsoftwaregroup.com#Speed-85028",
+    "vless://c279fee0-c09c-4bd5-c780-6e9ea10da566@172.234.37.77:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.krg&fp=chrome&pbk=R6gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&type=tcp#Speed-96497",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@95.217.224.225:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=7972b9fd&type=tcp#Speed-536",
+    "vless://063bfca4-5ebf-47a2-bc0e-254c0a172465@165.227.153.3:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-16039",
+    "vless://778d693f-c472-492e-87a1-3ffc1de6d305@172.234.100.54:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=xc8-Wcb1NFk3TafZcszqvXqWzCQ5I7C2r1KYDIK0QDE&sid=991207da5752eae8&type=tcp#Speed-49267",
+    "vless://40992c2a-513e-4837-9594-23411fd42afd@142.93.227.196:443?encryption=none&security=none&type=http&path=%2F&host=snapp.ir#Speed-31557",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@91.107.162.188:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=7972b9fd&type=tcp#Speed-75772",
+    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@134.209.87.83:441?encryption=none&security=none&type=http&path=%2F&host=mobileconfiguration-pa.googleapis.com#Speed-8766",
+    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@51.48.114.175:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-65813"
 ]
