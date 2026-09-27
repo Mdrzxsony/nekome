@@ -1,4 +1,10 @@
 [
-    "vless://ffa39da5-c70b-40e9-b62a-e753c8919bcf@greenfieldnet-zendani.sbs:443?type=xhttp&security=reality&encryption=none&sni=www.wikipedia.org&fp=chrome&allowInsecure=0&pbk=pwxPeZlUrfZbKCcvU6AxfQyLUtmCkmX0YWz3ZETRsBo&sid=d0bfcbde&spx=%2F&path=%2Fhndr&mode=auto#h3f7nxxd",
-    "vless://6ae80c25-b550-40fa-a22f-2941eab431d9@sunfox-zendani.sbs:443?encryption=none&security=reality&type=xhttp&sni=www.wikipedia.org&fp=chrome&pbk=pwxPeZlUrfZbKCcvU6AxfQyLUtmCkmX0YWz3ZETRsBo&sid=d0bfcbde&path=%2Fhndr&mode=auto#h3f7nxxd"
+    "vmess://d700370b-22e4-4d5f-a8d8-207ebe9a944f@cd.dlclive.click:2082?type=xhttp&security=none&scy=auto&aid=0&host=c.fi1.gamepingbazi.ir&path=%2Flive&mode=auto&extra=%7B%22noGRPCHeader%22%3Afalse%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#Worker%202636",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@smart.avenone.ir:1081?security=none&type=tcp&headerType=none&path=&host=www.apple.com#Worker%202374",
+    "vmess://d700370b-22e4-4d5f-a8d8-207ebe9a944f@cd.dlclive.click:2082?type=xhttp&security=none&scy=auto&aid=0&host=c.de1.gamepingbazi.ir&path=%2Flive&mode=auto&extra=%7B%22noGRPCHeader%22%3Afalse%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#Worker%202612",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@sr12.avencore.ir:8402?security=none&type=tcp&headerType=none&path=&host=play.google.com#Worker%202507",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@sr13.avencore.ir:8402?security=none&type=tcp&headerType=none&path=&host=play.google.com#Worker%202638",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@sr11.avencore.ir:8402?security=none&type=tcp&headerType=none&path=&host=play.google.com#Worker%202626",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@smart.avenone.ir:1083?security=none&type=tcp&headerType=none&path=&host=www.cloudflare.com#Worker%202395",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@136.244.104.246:8402?security=none&type=tcp&headerType=none&path=&host=play.google.com#Worker%202593"
 ]
