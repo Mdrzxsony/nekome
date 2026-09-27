@@ -1,15 +1,12 @@
 [
-    "vless://9fa5b96f-02be-48f4-ab38-31a5f24c19ea@167.233.177.170:2083?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=S8QyU-Zh_GLc5dJg9jPaPVq-PBq3xRcN1EX9DmyfRQ0&sid=c78b&type=tcp#Speed-72685",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.111.91:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=7972b9fd&type=tcp#Speed-70554",
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.153.27:443?encryption=none&security=none&type=http&path=%2F&host=grs.dbankcloud.asia#Speed-32388",
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.160.130:443?encryption=none&security=none&type=http&path=%2F&host=www.icloud.com#Speed-45882",
-    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.112.115:443?encryption=none&security=tls&sni=spelashie.dovrani.ir&fp=unsafe&type=ws&path=%2Fadylb&host=spelashie.dovrani.ir#Speed-72796",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@95.217.145.241:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=5f7c3b816486b3fc&type=tcp#Speed-47300",
-    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.112.115:443?encryption=none&security=tls&sni=spelashie.dovrani.ir&fp=unsafe&type=ws&path=%2Fadylb&host=spelashie.dovrani.ir#Speed-16475",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@157.230.117.39:441?encryption=none&security=none&type=http&path=%2F&host=speedtest.megafon.tj.prod.hosts.ooklaserver.net%3A8080#Speed-38463",
-    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.24.22.118:443?encryption=none&security=tls&sni=spelashie.dovrani.ir&fp=unsafe&type=ws&path=%2Fadylb&host=spelashie.dovrani.ir#Speed-19751",
-    "vless://3a4a7f5a-60b5-48c5-b03f-d2d93fcc9f33@3.70.240.57:12838?encryption=none&security=none&type=http&path=%2F&host=amp-api-edge.apps.apple.com#Speed-76758",
-    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.112.115:443?encryption=none&security=tls&sni=spelashie.dovrani.ir&fp=unsafe&type=ws&path=%2Fadylb&host=spelashie.dovrani.ir#Speed-88740",
-    "vless://9f2c6539-893b-49c2-b8bd-367bcfea2667@57.128.42.79:80?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-12522",
-    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@51.94.158.64:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-93754"
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@157.245.79.79:439?encryption=none&security=none&type=http&path=%2F&host=www.google.com#Speed-1966",
+    "vless://063bfca4-5ebf-47a2-bc0e-254c0a172465@64.226.85.7:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-82672",
+    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.112.115:443?encryption=none&security=tls&sni=spelashie.virelanto.store&fp=unsafe&type=ws&path=%2Fadylb&host=spelashie.virelanto.store#Speed-91004",
+    "vless://ee0a024d-f229-f697-3bcf-4db388af9ff7@apiv2.besttotaldns.com:443?encryption=none&security=tls&sni=apiv2.besttotaldns.com&fp=chrome&type=ws&path=%2F&host=apiv2.besttotaldns.com#Speed-67293",
+    "vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.149.128:443?encryption=none&security=none&type=http&path=%2F&host=grs.dbankcloud.com#Speed-55679",
+    "vless://2f892020-b89d-4403-b816-9f70597afbfb@172.239.255.243:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=OH4zZ_fKnnIhhrhnMdF-bLqwfMW-wMtbZCJlMlTCtk4&sid=97bfc6226a3ba368&type=tcp#Speed-33191",
+    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.112.115:443?encryption=none&security=tls&sni=spelashie.brmks8t47v.space&fp=unsafe&type=ws&path=%2Fadylb&host=spelashie.brmks8t47v.space#Speed-59277",
+    "vless://0a2d85cb-ad1a-4304-9b12-71309909188e@test-e1dd3388.cedarhavenpath.top:443?encryption=none&security=none&type=tcp#Speed-27357",
+    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform103&host=platform103.halalkhor.info#Speed-23386",
+    "vless://526ab483-09a9-4036-92a2-f5ba42df6cee@mebank.ir:110?encryption=none&security=reality&sni=android.clients.google.com&fp=chrome&pbk=JoXIfc3fCE2vBr_a_gepeEE4o58bVgpB67Ef_xN2nHI&sid=813461e3624d89&type=tcp#Speed-47615"
 ]
