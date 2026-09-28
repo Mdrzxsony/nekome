@@ -1,13 +1,14 @@
 [
-    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@15.237.191.216:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-42906",
-    "vless://38f912c5-b24f-4331-8cf5-6beba1e315b1@172.105.94.109:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=oYvgsnojCX-trSwUZ8QMyNp6E7ljf9rl3O1Bx5v60xQ&sid=1527c863de436d78&type=tcp#Speed-52185",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@64.226.121.167:441?encryption=none&security=none&type=http&path=%2F&host=trustseal.enamad.ir#Speed-89567",
-    "vless://e27cf318-52f0-4a01-9aac-5f36ddd9021a@172.105.94.73:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=WTXo1k-fiQhS_-AOrr5s0WElqYxHTn65mGmK3zmftR8&sid=2999616762aea591&type=tcp#Speed-28346",
-    "vless://bd03a908-7fd4-48f3-88d0-5c2400a3a666@162.19.117.67:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=6gE6cGqhE7o2qvnNFSTdB5cbf9Hl8DrSTWRCqH_1C2Y&sid=051ad3616c39fb7b&type=tcp#Speed-25634",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@142.93.143.207:441?encryption=none&security=none&type=http&path=%2F&host=snapp.ir#Speed-7969",
-    "vless://2fb96c49-befb-40d8-b5cf-89d775be1d28@162.19.117.67:80?encryption=none&security=none&type=http&path=%2F&host=firebaseremoteconfig.googleapis.com#Speed-83129",
-    "vless://e37668e0-131f-5e0f-9388-d5eeba1a36ac@master.besttotaldns.com:443?encryption=none&security=tls&sni=master.besttotaldns.com&fp=chrome&type=ws&path=%2F&host=master.besttotaldns.com#Speed-85041",
-    "vless://d16d346b-c44a-495b-b934-2942fa7f402d@02103343.damavand-hdjdm.sbs:443?encryption=none&security=tls&sni=02103343.damavand-hdjdm.sbs&fp=firefox&type=ws&path=%2Fyezmk&host=02103343.damavand-hdjdm.sbs#Speed-64900",
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.246.172:443?encryption=none&security=none&type=http&path=%2F&host=zula.ir#Speed-55359",
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@152.42.142.75:443?encryption=none&security=none&type=http&path=%2F&host=amp-api-edge.apps.apple.com#Speed-66179"
+    "vless://e62e1380-269d-4276-b428-4188a2e275b9@97879628.eslamshahr-hdjdm.sbs:443?encryption=none&security=tls&sni=97879628.eslamshahr-hdjdm.sbs&fp=firefox&type=ws&path=%2Fxijuz&host=97879628.eslamshahr-hdjdm.sbs#Speed-1021",
+    "vless://77868302-7d72-4ff0-bb0d-69c8235b19c7@3.64.252.120:32532?encryption=none&security=none&type=http&path=%2F&host=amp-api-edge.apps.apple.com#Speed-9718",
+    "vless://2b539cb2-bd77-44b6-a707-f44663e0d728@104.21.112.115:2087?encryption=none&security=tls&sni=hermes.axmqhpnfsx2.dpdns.org&fp=unsafe&type=ws&path=%2F252283bbfa6c4b31b306d2befa00a681&host=hermes.axmqhpnfsx2.dpdns.org#Speed-92515",
+    "vless://f3e10752-8147-3eb9-c1d3-fca214b234b0@cdn.sanabeautyshahriar.com:443?encryption=none&security=tls&sni=cdn.sanabeautyshahriar.com&fp=chrome&type=ws&path=%2F&host=cdn.sanabeautyshahriar.com#Speed-40109",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@140.82.38.81:2098?encryption=none&security=none&type=tcp#Speed-50860",
+    "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.202.179:443?encryption=none&security=none&type=http&path=%2F&host=aws.amazon.com#Speed-97761",
+    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.70.21:443?encryption=none&security=tls&sni=smsifks.qy4ywebyih.space&fp=unsafe&type=ws&path=%2Fadylb&host=smsifks.qy4ywebyih.space#Speed-60788",
+    "vless://4d335272-8ded-9699-5299-2a7318d7dbcc@rc.besttotaldns.com:443?encryption=none&security=tls&sni=rc.besttotaldns.com&fp=chrome&type=ws&path=%2F&host=rc.besttotaldns.com#Speed-70103",
+    "vless://40992c2a-513e-4837-9594-23411fd42afd@68.183.14.152:443?encryption=none&security=none&type=http&path=%2F&host=speedtest.megafon.tj.prod.hosts.ooklaserver.net%3A8080#Speed-32999",
+    "vless://a19da7e2-9c14-406e-bed5-d0ee4fb5df95@91.134.95.46:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=slD6lUtaTsGseGe2xt62iim0Pofr8sDhFWPXbn0-Yik&sid=9015cd12ef4b2ecc&type=tcp#Speed-57559",
+    "vless://ee0a024d-f229-f697-3bcf-4db388af9ff7@46.62.232.117:80?encryption=none&security=none&type=ws&path=%2F#Speed-22469",
+    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@35.180.21.2:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-12938"
 ]
