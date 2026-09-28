@@ -1,8 +1,10 @@
 [
-    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@gerr.supermb.ir:47462?authority=&encryption=none&security=none&serviceName=&type=grpc#server4",
-    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@gerw.supermb.ir:16232?authority=&encryption=none&security=none&serviceName=&type=grpc#server1",
-    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@gery.supermb.ir:33997?authority=&encryption=none&security=none&serviceName=&type=grpc#server5",
-    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@gerq.supermb.ir:46464?authority=&encryption=none&security=none&serviceName=&type=grpc#server8",
-    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@geru.supermb.ir:36410?authority=&encryption=none&security=none&serviceName=&type=grpc#server2",
-    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@germ.supermb.ir:8443?authority=&encryption=none&security=none&serviceName=&type=grpc#server6"
+    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@gers.supermb.ir:33997?authority=&encryption=none&security=none&serviceName=&type=grpc#server5",
+    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@gerp.supermb.ir:16232?authority=&encryption=none&security=none&serviceName=&type=grpc#server11",
+    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@geri.supermb.ir:38829?authority=&encryption=none&security=none&serviceName=&type=grpc#server12",
+    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@gera.supermb.ir:46464?authority=&encryption=none&security=none&serviceName=&type=grpc#server8",
+    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@gero.supermb.ir:37754?authority=&encryption=none&security=none&serviceName=&type=grpc#server13",
+    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@gerd.supermb.ir:36410?authority=&encryption=none&security=none&serviceName=&type=grpc#server2",
+    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@gerf.supermb.ir:8443?authority=&encryption=none&security=none&serviceName=&type=grpc#server6",
+    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@gerg.supermb.ir:47462?authority=&encryption=none&security=none&serviceName=&type=grpc#server4"
 ]
