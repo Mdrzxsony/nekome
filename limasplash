@@ -1,14 +1,9 @@
 [
-    "vless://f8175a3d-ad69-44c8-a2aa-87d4d06994eb@fserver-worker-004.maplestreamlane.sbs:443?type=ws&security=tls&path=%2Fcdn%2F06ecfaf5c909abf4&host=fserver-worker-004.maplestreamlane.sbs&sni=fserver-worker-004.maplestreamlane.sbs#W",
-    "vless://60cc7133-8973-44c0-aff8-16e0265419d6@fserver-worker-003.maplestreamlane.sbs:443?type=ws&security=tls&path=%2Fcdn%2F2954f0a9c2d4c948&host=fserver-worker-003.maplestreamlane.sbs&sni=fserver-worker-003.maplestreamlane.sbs#W",
-    "vless://38454a9f-41ee-410a-8826-3e3b2e0c20b2@fserver-worker-002.maplestreamlane.sbs:443?type=ws&security=tls&path=%2Fcdn%2F23d18753058f13f3&host=fserver-worker-002.maplestreamlane.sbs&sni=fserver-worker-002.maplestreamlane.sbs#W",
-    "vless://c0dc13ca-42bf-4be5-9b85-70113295ad78@fserver-worker-001.maplestreamlane.sbs:443?type=ws&security=tls&path=%2Fcdn%2F262990ee4cbc9a56&host=fserver-worker-001.maplestreamlane.sbs&sni=fserver-worker-001.maplestreamlane.sbs#W",
-    "vless://c0dc13ca-42bf-4be5-9b85-70113295ad78@fserver-worker-001.maplestreamlane.sbs:443?encryption=none&security=tls&type=ws&sni=fserver-worker-001.maplestreamlane.sbs&fp=chrome&alpn=http%2F1.1&path=%2Fcdn%2F262990ee4cbc9a56&host=fserver-worker-001.maplestreamlane.sbs#Worker",
-    "vless://f8175a3d-ad69-44c8-a2aa-87d4d06994eb@fserver-worker-004.maplestreamlane.sbs:443?encryption=none&security=tls&type=ws&sni=fserver-worker-004.maplestreamlane.sbs&fp=chrome&alpn=http%2F1.1&path=%2Fcdn%2F06ecfaf5c909abf4&host=fserver-worker-004.maplestreamlane.sbs#Worker",
-    "vless://c0dc13ca-42bf-4be5-9b85-70113295ad78@fserver-worker-001.maplestreamlane.sbs:443?type=ws&security=tls&path=/cdn/262990ee4cbc9a56&host=95.216.20.218&sni=95.216.20.218#W",
-    "vless://f8175a3d-ad69-44c8-a2aa-87d4d06994eb@fserver-worker-004.maplestreamlane.sbs:443?type=ws&security=tls&path=/cdn/06ecfaf5c909abf4&host=195.201.9.235&sni=195.201.9.235#W",
-    "vless://38454a9f-41ee-410a-8826-3e3b2e0c20b2@fserver-worker-002.maplestreamlane.sbs:443?encryption=none&security=tls&type=ws&sni=fserver-worker-002.maplestreamlane.sbs&fp=chrome&alpn=http%2F1.1&path=%2Fcdn%2F23d18753058f13f3&host=fserver-worker-002.maplestreamlane.sbs#Worker",
-    "vless://38454a9f-41ee-410a-8826-3e3b2e0c20b2@fserver-worker-002.maplestreamlane.sbs:443?type=ws&security=tls&path=/cdn/23d18753058f13f3&host=94.130.205.110&sni=94.130.205.110#W",
-    "vless://60cc7133-8973-44c0-aff8-16e0265419d6@fserver-worker-003.maplestreamlane.sbs:443?encryption=none&security=tls&type=ws&sni=fserver-worker-003.maplestreamlane.sbs&fp=chrome&alpn=http%2F1.1&path=%2Fcdn%2F2954f0a9c2d4c948&host=fserver-worker-003.maplestreamlane.sbs#Worker",
-    "vless://60cc7133-8973-44c0-aff8-16e0265419d6@fserver-worker-003.maplestreamlane.sbs:443?type=ws&security=tls&path=/cdn/2954f0a9c2d4c948&host=88.99.161.169&sni=88.99.161.169#W"
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@2rcpgd.mqhv.ir:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&fp=chrome&sni=web.eitaa.com&sid=08&spx=%2FKjc6Bl4E#Server%2026",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@bu1ntue.gnyq.ir:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&fp=chrome&sni=web.eitaa.com&sid=90ec9bba2019&spx=%2FdnkfP9J40T7yay#Server%2025",
+    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@mrcxfdfdgf.supermb.ir:8443?authority=&encryption=none&security=none&serviceName=&type=grpc#server37",
+    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@hkjvcvb.supermb.ir:33997?authority=&encryption=none&security=none&serviceName=&type=grpc#server36",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@t44ha.dqhz.ir:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&fp=chrome&sni=web.eitaa.com&sid=7972b9fd&spx=%2F1eRMNx6ui#Server%2027",
+    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@dfgcvban.supermb.ir:16232?authority=&encryption=none&security=none&serviceName=&type=grpc#server34",
+    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@hadfcxss.supermb.ir:36410?authority=&encryption=none&security=none&serviceName=&type=grpc#server35"
 ]
