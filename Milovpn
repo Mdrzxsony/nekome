@@ -1,15 +1,10 @@
 [
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@45.32.153.37:2098?security=none&type=tcp&headerType=none&path=&host=testspeed-foreign.tci.ir#Worker%202772",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@188.245.97.92:2098?security=none&type=tcp&headerType=none&path=&host=testspeed-foreign.tci.ir#Worker%202800",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@172.235.53.122:2098?security=none&type=tcp&headerType=none&path=&host=testspeed-foreign.tci.ir#Worker%202787",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@172.239.236.51:2098?security=none&type=tcp&headerType=none&path=&host=testspeed-foreign.tci.ir#Worker%202789",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@178.83.122.161:2098?security=none&type=tcp&headerType=none&path=&host=testspeed-foreign.tci.ir#Worker%202808",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@172.235.164.40:2098?security=none&type=tcp&headerType=none&path=&host=testspeed-foreign.tci.ir#Worker%202786",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@188.245.101.148:2098?security=none&type=tcp&headerType=none&path=&host=testspeed-foreign.tci.ir#Worker%202853",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@103.83.87.42:2098?security=none&type=tcp&headerType=none&path=&host=testspeed-foreign.tci.ir#Worker%202782",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@178.83.122.164:2098?security=none&type=tcp&headerType=none&path=&host=testspeed-foreign.tci.ir#Worker%202810",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@140.82.36.233:2098?security=none&type=tcp&headerType=none&path=&host=testspeed-foreign.tci.ir#Worker%202768",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@172.104.146.38:2098?security=none&type=tcp&headerType=none&path=&host=testspeed-foreign.tci.ir#Worker%202784",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@cd-fy.dlclive.click:80?security=none&type=xhttp&headerType=&path=%2Flive&host=admapp-cd-it1.global.ssl.fastly.net&mode=auto#Worker%202881",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@178.83.122.166:2098?security=none&type=tcp&headerType=none&path=&host=testspeed-foreign.tci.ir#Worker%202812"
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@178.83.122.165:2098?security=none&type=tcp&headerType=none&path=&host=testspeed-foreign.tci.ir#Worker%202811",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@139.162.176.39:2098?security=none&type=tcp&headerType=none&path=&host=testspeed-foreign.tci.ir#Worker%202783",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@204.168.147.195:2098?security=none&type=tcp&headerType=none&path=&host=testspeed-foreign.tci.ir#Worker%202841",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@188.245.96.14:2098?security=none&type=tcp&headerType=none&path=&host=testspeed-foreign.tci.ir#Worker%202796",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@188.245.102.96:2098?security=none&type=tcp&headerType=none&path=&host=testspeed-foreign.tci.ir#Worker%202794",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@188.245.100.34:2098?security=none&type=tcp&headerType=none&path=&host=testspeed-foreign.tci.ir#Worker%202792",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@136.244.80.75:2098?security=none&type=tcp&headerType=none&path=&host=testspeed-foreign.tci.ir#Worker%202767",
+    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@cd-fy.dlclive.click:80?security=none&type=xhttp&headerType=&path=%2Flive&host=admapp-cd-fr1.global.ssl.fastly.net&mode=auto#Worker%202904"
 ]
