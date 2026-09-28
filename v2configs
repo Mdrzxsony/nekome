@@ -1,12 +1,15 @@
 [
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@170.64.209.29:441?encryption=none&security=none&type=http&path=%2F&host=play.googleapis.com#Speed-55776",
-    "vless://32ca5cc1-7c57-41f5-8102-b13d7a845934@104.21.70.21:443?encryption=none&security=tls&sni=smart-new.asxfuqpk6ss1mx.dpdns.org&fp=unsafe&type=ws&path=%2Fapi%2Fv1%2Fidentity%2F012&host=smart-new.asxfuqpk6ss1mx.dpdns.org#Speed-6155",
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.26.160:443?encryption=none&security=none&type=http&path=%2F&host=maps.google.com#Speed-19292",
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.9.141:443?encryption=none&security=none&type=http&path=%2F&host=maps.google.com#Speed-69130",
-    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform138.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform138&host=platform138.halalkhor.info#Speed-84621",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@91.107.162.187:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=7972b9fd&type=tcp#Speed-68189",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@165.22.88.235:441?encryption=none&security=none&type=http&path=%2F&host=play.googleapis.com#Speed-611",
-    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@15.217.217.20:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-86469",
-    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@51.94.158.64:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-93323",
-    "vless://859740a9-141c-4f6f-baee-9b7891fd80a6@57.130.55.110:80?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-84865"
+    "vless://bd03a908-7fd4-48f3-88d0-5c2400a3a666@162.19.117.67:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=6gE6cGqhE7o2qvnNFSTdB5cbf9Hl8DrSTWRCqH_1C2Y&sid=051ad3616c39fb7b&type=tcp#Speed-15368",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.81.22:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=80805c03e51653&type=tcp#Speed-87974",
+    "vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.145.137:443?encryption=none&security=none&type=http&path=%2F&host=zula.ir#Speed-24981",
+    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform129.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform129&host=platform129.halalkhor.info#Speed-39128",
+    "vless://063bfca4-5ebf-47a2-bc0e-254c0a172465@165.227.153.3:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-92426",
+    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@139.59.166.210:441?encryption=none&security=none&type=http&path=%2F&host=khamenei.ir#Speed-17580",
+    "vless://7abeab67-0623-45a1-a469-4646afec9593@51.178.33.102:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=dvpiebn_s-tJl8yHDgTZh3ylPDud6rVO845C_Rkka34&sid=1e3f7808846b757b&type=tcp#Speed-85014",
+    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform138.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform138&host=platform138.halalkhor.info#Speed-65673",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.195.189:439?encryption=none&security=none&type=http&path=%2F&host=zula.ir#Speed-33680",
+    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.70.21:443?encryption=none&security=tls&sni=smsifks.drqoglxd6y.space&fp=unsafe&type=ws&path=%2Fadylb&host=smsifks.drqoglxd6y.space#Speed-89737",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.80.17:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=5fa1b9&type=tcp#Speed-85856",
+    "vless://40992c2a-513e-4837-9594-23411fd42afd@164.90.185.45:443?encryption=none&security=none&type=http&path=%2F&host=amp-api-edge.apps.apple.com#Speed-80088",
+    "vless://063bfca4-5ebf-47a2-bc0e-254c0a172465@64.226.85.7:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-31031"
 ]
