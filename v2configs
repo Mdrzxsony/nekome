@@ -1,14 +1,11 @@
 [
-    "vless://817be056-2afc-4358-9b8d-5dbe836251f3@199.247.18.183:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-67433",
-    "vless://39abda72-f5a5-4ede-9862-bbb8109aba73@maxfieldbox-nayab.org:443?encryption=none&security=tls&sni=wdcxb.darkstonezone-jamesbondi.info&fp=chrome&type=ws&path=%2Fbaran&host=wdcxb.darkstonezone-jamesbondi.info#Speed-47968",
-    "vless://794990ea-dc34-4eff-8a43-020a92fec381@65.109.249.114:80?encryption=none&security=none&type=ws&path=%2F#Speed-58295",
-    "vless://9f7696b7-9801-4660-ac37-22c6737a32c6@63.180.230.174:57065?encryption=none&security=none&type=http&path=%2F&host=amp-api-edge.apps.apple.com#Speed-49046",
-    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@149.28.74.158:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-75272",
-    "vless://73bcd72f-9545-4cb8-8daf-7d004501880d@188.114.97.6:443?encryption=none&security=tls&sni=wzknb.pages.dev&fp=unsafe&type=ws&path=%2Fproxyip%3D179.255.104.87%2C179.255.116.198%2C179.255.101.56%2C142.248.218.6%2C142.248.218.4%2C45.76.79.239%2C179.255.152.163%2C208.68.180.240&host=wzknb.pages.dev#Speed-81507",
-    "vless://d4ac061e-9ed1-5360-abf8-d2a8557540ee@149.248.20.96:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-44822",
-    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@149.28.74.158:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-885",
-    "vless://c65a693c-0685-423a-9e08-2b0f037bcbe7@95.216.182.249:80?encryption=none&security=none&type=ws&path=%2F#Speed-44091",
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@159.223.233.151:443?encryption=none&security=none&type=http&path=%2F&host=maps.google.com#Speed-27175",
-    "vless://faafd99b-528b-4b7f-98b4-3ac38a62b622@94.130.190.20:80?encryption=none&security=none&type=ws&path=%2F#Speed-71423",
-    "vless://373da2c2-d136-44d2-9e81-fc9755473464@94.130.188.195:80?encryption=none&security=none&type=ws&path=%2F#Speed-73364"
+    "vless://5a4be84c-0769-455a-9bbd-cc3e69ec9439@94.130.188.164:80?encryption=none&security=none&type=ws&path=%2F#Speed-88934",
+    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@188.166.62.41:441?encryption=none&security=none&type=http&path=%2F&host=maps.google.com#Speed-51958",
+    "vless://85e38c9a-1c32-4b27-b418-f528236bbf5f@support.zoom.us:2095?encryption=none&security=none&type=httpupgrade#Speed-77465",
+    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.112.115:443?encryption=none&security=tls&sni=smsifks.iranoo.dpdns.org&fp=unsafe&type=ws&path=%2Fadylb&host=smsifks.iranoo.dpdns.org#Speed-90699",
+    "vless://c1fb9e0e-15e0-41e6-b92a-fbec982a5894@95.216.179.212:80?encryption=none&security=none&type=ws&path=%2F#Speed-80795",
+    "vless://48bc1038-c5ac-41c3-b772-5a70865be6fd@162.55.167.245:41456?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=HaRj2bDeqflNiBul1P2zSzGtE8JwRYyLLH_IWOswIjQ&sid=bb9aefec4079a4c6&type=grpc&serviceName=grpc&mode=gun#Speed-13785",
+    "vless://ff642d7a-9a24-4078-a031-f8c656f4554e@5.223.41.179:80?encryption=none&security=none&type=ws&path=%2F#Speed-11828",
+    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@45.32.172.49:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-51350",
+    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@45.77.141.233:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-70193"
 ]
