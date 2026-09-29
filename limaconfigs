@@ -1,7 +1,10 @@
 [
-    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@hkjvcvb.supermb.ir:33997?authority=&encryption=none&security=none&serviceName=&type=grpc#server36",
-    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@dfgcvban.supermb.ir:16232?authority=&encryption=none&security=none&serviceName=&type=grpc#server34",
-    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@hadfcxss.supermb.ir:36410?authority=&encryption=none&security=none&serviceName=&type=grpc#server35",
-    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@sscxcrtd.supermb.ir:47462?authority=&encryption=none&security=none&serviceName=&type=grpc#server40",
-    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@saghfmjjd.supermb.ir:46464?authority=&encryption=none&security=none&serviceName=&type=grpc#server39"
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server1.beshdash.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2007",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server2.beshdash.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2003",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server4.beshdash.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2004",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server5.beshdash.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2005",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server8.beshdash.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2009",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server7.beshdash.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2008",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server6.beshdash.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2006",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server3.beshdash.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2001"
 ]
