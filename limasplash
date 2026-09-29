@@ -1,10 +1,10 @@
 [
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all2.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2008",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all2.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2006",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all2.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=/#W",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all2.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2004",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all2.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2005",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all2.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2001",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all2.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2007",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all2.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2009"
+    "vmess://eyJ2IjoiMiIsInBzIjoic2VydmVyNjIiLCJhZGQiOiJnZXJrLnN1cGVybWIuaXIiLCJwb3J0IjoiMTM1MDIiLCJpZCI6IjlkZTg0YmM2LTg2OWItNDAwNi05NTRlLWYzYWFhMTk3NTc4NiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImZwIjoiIiwiYWxwbiI6IiJ9",
+    "vmess://eyJ2IjoiMiIsInBzIjoic2VydmVyOTciLCJhZGQiOiJnZXJkLnN1cGVybWIuaXIiLCJwb3J0IjoiMTM3MjIiLCJpZCI6IjlkZTg0YmM2LTg2OWItNDAwNi05NTRlLWYzYWFhMTk3NTc4NiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJmcCI6IiIsImFscG4iOiIifQ==",
+    "vmess://eyJ2IjoiMiIsInBzIjoic2VydmVyODgiLCJhZGQiOiJnZXJkLnN1cGVybWIuaXIiLCJwb3J0IjoiMTAyMjkiLCJpZCI6IjlkZTg0YmM2LTg2OWItNDAwNi05NTRlLWYzYWFhMTk3NTc4NiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImZwIjoiIiwiYWxwbiI6IiJ9",
+    "vmess://eyJ2IjoiMiIsInBzIjoic2VydmVyOTYiLCJhZGQiOiJnZXJkLnN1cGVybWIuaXIiLCJwb3J0IjoiNDQzNzkiLCJpZCI6IjlkZTg0YmM2LTg2OWItNDAwNi05NTRlLWYzYWFhMTk3NTc4NiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImZwIjoiIiwiYWxwbiI6IiJ9",
+    "trojan://oJ0xsfF4KQtEvlICK1fmQZo9qB3sCTgG2sQQzynfO9Q%3D@gerz.supermb.ir:8080?host=domain.785460.ir.cdn.ir&path=&security=none&type=ws#server57",
+    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@gerh.supermb.ir:51833?encryption=none&host=&path=%2F&security=none&type=httpupgrade#server80",
+    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@gerd.supermb.ir:16154?authority=&encryption=none&security=none&serviceName=&type=grpc#server90",
+    "vmess://eyJ2IjoiMiIsInBzIjoic2VydmVyODciLCJhZGQiOiJnZXJoLnN1cGVybWIuaXIiLCJwb3J0IjoiNTg1OTQiLCJpZCI6IjlkZTg0YmM2LTg2OWItNDAwNi05NTRlLWYzYWFhMTk3NTc4NiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImZwIjoiIiwiYWxwbiI6IiJ9"
 ]
