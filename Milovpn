@@ -1,7 +1,10 @@
 [
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@172.239.236.51:2098?security=none&type=tcp&headerType=http&path=&host=testspeed-foreign.tci.ir#Worker%202996",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@cd-fy.dlclive.click:80?security=none&type=xhttp&headerType=&path=%2Flive&host=admapp-cd-gb1.global.ssl.fastly.net&mode=auto#Worker%203069",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@178.83.122.161:2098?security=none&type=tcp&headerType=http&path=&host=testspeed-foreign.tci.ir#Worker%203003",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@140.82.36.233:2098?security=none&type=tcp&headerType=http&path=&host=testspeed-foreign.tci.ir#Worker%202942",
-    "vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@199.247.19.162:2098?security=none&type=tcp&headerType=http&path=&host=testspeed-foreign.tci.ir#Worker%202969"
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server1.silverstreampath.sbs:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2007",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server2.silverstreampath.sbs:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2003",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server4.silverstreampath.sbs:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2004",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server5.silverstreampath.sbs:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2005",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server8.silverstreampath.sbs:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2009",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server7.silverstreampath.sbs:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2008",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server6.silverstreampath.sbs:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2006",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server3.silverstreampath.sbs:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2001"
 ]
