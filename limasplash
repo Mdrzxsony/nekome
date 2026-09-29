@@ -1,9 +1,6 @@
 [
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@2rcpgd.mqhv.ir:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&fp=chrome&sni=web.eitaa.com&sid=08&spx=%2FKjc6Bl4E#Server%2026",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@bu1ntue.gnyq.ir:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&fp=chrome&sni=web.eitaa.com&sid=90ec9bba2019&spx=%2FdnkfP9J40T7yay#Server%2025",
-    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@mrcxfdfdgf.supermb.ir:8443?authority=&encryption=none&security=none&serviceName=&type=grpc#server37",
-    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@hkjvcvb.supermb.ir:33997?authority=&encryption=none&security=none&serviceName=&type=grpc#server36",
     "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@t44ha.dqhz.ir:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&fp=chrome&sni=web.eitaa.com&sid=7972b9fd&spx=%2F1eRMNx6ui#Server%2027",
-    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@dfgcvban.supermb.ir:16232?authority=&encryption=none&security=none&serviceName=&type=grpc#server34",
-    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@hadfcxss.supermb.ir:36410?authority=&encryption=none&security=none&serviceName=&type=grpc#server35"
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@2rcpgd.mqhv.ir:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&fp=chrome&sni=web.eitaa.com&sid=08&spx=%2FKjc6Bl4E#Server%2026",
+    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@hkjvcvb.supermb.ir:33997?authority=&encryption=none&security=none&serviceName=&type=grpc#server36",
+    "vless://9de84bc6-869b-4006-954e-f3aaa1975786@dfgcvban.supermb.ir:16232?authority=&encryption=none&security=none&serviceName=&type=grpc#server34"
 ]
