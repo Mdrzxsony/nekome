@@ -1,13 +1,10 @@
 [
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2009",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2008",
-    "vless://48bc1038-c5ac-41c3-b772-5a70865be6fd@2.28.136.241:20833?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&pbk=9F1nYE5JTn5txe8SRl4Knrcr6sSdgsY7G91R_7QYmUM&sid=2ddd47aaa0fa54c5&spx=%2F#Worker%203332",
-    "vless://48bc1038-c5ac-41c3-b772-5a70865be6fd@2.28.131.83:41456?encryption=none&security=reality&type=grpc&headerType=none&serviceName=grpc&mode=gun&sni=www.cloudflare.com&fp=chrome&pbk=HaRj2bDeqflNiBul1P2zSzGtE8JwRYyLLH_IWOswIjQ&sid=bb9aefec4079a4c6&spx=%2F#Worker%203338",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2003",
     "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2004",
-    "vless://48bc1038-c5ac-41c3-b772-5a70865be6fd@2.28.141.77:20833?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&pbk=9F1nYE5JTn5txe8SRl4Knrcr6sSdgsY7G91R_7QYmUM&sid=2ddd47aaa0fa54c5&spx=%2F#Worker%203343",
-    "vless://48bc1038-c5ac-41c3-b772-5a70865be6fd@2.28.133.218:20833?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&pbk=9F1nYE5JTn5txe8SRl4Knrcr6sSdgsY7G91R_7QYmUM&sid=2ddd47aaa0fa54c5&spx=%2F#Worker%203325",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2005",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=/#W",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2009",
     "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2006",
-    "vless://48bc1038-c5ac-41c3-b772-5a70865be6fd@2.28.129.38:20833?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&pbk=9F1nYE5JTn5txe8SRl4Knrcr6sSdgsY7G91R_7QYmUM&sid=2ddd47aaa0fa54c5&spx=%2F#Worker%203321",
-    "vless://48bc1038-c5ac-41c3-b772-5a70865be6fd@162.55.167.245:41456?encryption=none&security=reality&type=grpc&headerType=none&serviceName=grpc&mode=gun&sni=www.cloudflare.com&fp=chrome&pbk=HaRj2bDeqflNiBul1P2zSzGtE8JwRYyLLH_IWOswIjQ&sid=bb9aefec4079a4c6&spx=%2F#Worker%203306"
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2001",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2007",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2003"
 ]
