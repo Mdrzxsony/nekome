@@ -1,10 +1,6 @@
 [
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2004",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2005",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2009",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2008",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2006",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2007",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2003",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2001"
+    "vless://f8175a3d-ad69-44c8-a2aa-87d4d06994eb@fserver-worker-004.pinestreamlane.sbs:443?encryption=none&security=tls&type=ws&sni=fserver-worker-004.pinestreamlane.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=fserver-worker-004.pinestreamlane.sbs#Server",
+    "vless://60cc7133-8973-44c0-aff8-16e0265419d6@fserver-worker-003.pinestreamlane.sbs:443?encryption=none&security=tls&type=ws&sni=fserver-worker-003.pinestreamlane.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=fserver-worker-003.pinestreamlane.sbs#Server",
+    "vless://38454a9f-41ee-410a-8826-3e3b2e0c20b2@fserver-worker-002.pinestreamlane.sbs:443?encryption=none&security=tls&type=ws&sni=fserver-worker-002.pinestreamlane.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=fserver-worker-002.pinestreamlane.sbs#Server",
+    "vless://c0dc13ca-42bf-4be5-9b85-70113295ad78@fserver-worker-001.pinestreamlane.sbs:443?encryption=none&security=tls&type=ws&sni=fserver-worker-001.pinestreamlane.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=fserver-worker-001.pinestreamlane.sbs#Server"
 ]
