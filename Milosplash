@@ -1,10 +1,16 @@
 [
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2004",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2005",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=/#W",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2009",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2006",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2001",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2007",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2003"
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all7.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2008",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all7.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2006",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@dl-sr3.pamelasli.ir:2443?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Worker%203416",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=cd-sr6.k8k8110.com&sni=cd-sr6.k8k8110.com&fp=chrome&alpn=h3#Worker%203346",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all7.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2009",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@dl-sr11.pamelasli.ir:1443?encryption=none&security=reality&type=xhttp&headerType=none&path=%2Fxhttp&mode=stream-one&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%7D&sni=usga.org&fp=chrome&pbk=Mq_V9-y4dEBkkeQGIQEFOTd4eFQzmhg91rtoItxzuTA&sid=99d467e821df14eb&spx=%2F#Worker%203403",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=cd-sr1.k8k8110.com&sni=cd-sr1.k8k8110.com&fp=chrome&alpn=h3#Worker%203349",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all7.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2001",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all7.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2007",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=cd-sr2.k8k8110.com&sni=cd-sr2.k8k8110.com&fp=chrome&alpn=h3#Worker%203419",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@dl-sr10.pamelasli.ir:2443?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Worker%203395",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all7.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2004",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all7.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2005",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@dl-sr1.pamelasli.ir:1443?encryption=none&security=reality&type=xhttp&headerType=none&path=%2Fxhttp&mode=stream-one&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%7D&sni=usga.org&fp=chrome&pbk=Mq_V9-y4dEBkkeQGIQEFOTd4eFQzmhg91rtoItxzuTA&sid=99d467e821df14eb&spx=%2F#Worker%203411"
 ]
