@@ -1,10 +1,14 @@
 [
-    "vless://48bc1038-c5ac-41c3-b772-5a70865be6fd@2.28.132.90:41456?encryption=none&security=reality&type=grpc&headerType=none&serviceName=grpc&mode=gun&sni=www.cloudflare.com&fp=chrome&pbk=HaRj2bDeqflNiBul1P2zSzGtE8JwRYyLLH_IWOswIjQ&sid=bb9aefec4079a4c6&spx=%2F#Worker%203345",
-    "vless://48bc1038-c5ac-41c3-b772-5a70865be6fd@2.28.135.55:21494?encryption=none&security=reality&type=xhttp&headerType=none&path=%2Fxhttp&mode=packet-up&sni=www.cloudflare.com&fp=chrome&pbk=0VVpeYmHacnvockx-IWry5MOrZtzmKXbAD2FJNs58Bc&sid=e6f3eebd736b4d28&spx=%2F#Worker%203331",
-    "vless://48bc1038-c5ac-41c3-b772-5a70865be6fd@2.28.131.83:41456?encryption=none&security=reality&type=grpc&headerType=none&serviceName=grpc&mode=gun&sni=www.cloudflare.com&fp=chrome&pbk=HaRj2bDeqflNiBul1P2zSzGtE8JwRYyLLH_IWOswIjQ&sid=bb9aefec4079a4c6&spx=%2F#Worker%203338",
-    "vless://48bc1038-c5ac-41c3-b772-5a70865be6fd@162.55.167.245:20833?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&pbk=9F1nYE5JTn5txe8SRl4Knrcr6sSdgsY7G91R_7QYmUM&sid=2ddd47aaa0fa54c5&spx=%2F#Worker%203317",
-    "vless://48bc1038-c5ac-41c3-b772-5a70865be6fd@2.28.133.38:21494?encryption=none&security=reality&type=xhttp&headerType=none&path=%2Fxhttp&mode=packet-up&sni=www.cloudflare.com&fp=chrome&pbk=0VVpeYmHacnvockx-IWry5MOrZtzmKXbAD2FJNs58Bc&sid=e6f3eebd736b4d28&spx=%2F#Worker%203328",
-    "vless://48bc1038-c5ac-41c3-b772-5a70865be6fd@2.28.141.77:21494?encryption=none&security=reality&type=xhttp&headerType=none&path=%2Fxhttp&mode=packet-up&sni=www.cloudflare.com&fp=chrome&pbk=0VVpeYmHacnvockx-IWry5MOrZtzmKXbAD2FJNs58Bc&sid=e6f3eebd736b4d28&spx=%2F#Worker%203344",
-    "vless://48bc1038-c5ac-41c3-b772-5a70865be6fd@2.28.141.77:41456?encryption=none&security=reality&type=grpc&headerType=none&serviceName=grpc&mode=gun&sni=www.cloudflare.com&fp=chrome&pbk=HaRj2bDeqflNiBul1P2zSzGtE8JwRYyLLH_IWOswIjQ&sid=bb9aefec4079a4c6&spx=%2F#Worker%203314",
-    "vless://48bc1038-c5ac-41c3-b772-5a70865be6fd@2.28.133.38:41456?encryption=none&security=reality&type=grpc&headerType=none&serviceName=grpc&mode=gun&sni=www.cloudflare.com&fp=chrome&pbk=HaRj2bDeqflNiBul1P2zSzGtE8JwRYyLLH_IWOswIjQ&sid=bb9aefec4079a4c6&spx=%2F#Worker%203339"
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2003",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2004",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:443?encryption=none&security=tls&type=ws&sni=31.15.16.63&fp=chrome&alpn=http%2F1.1&path=%2F&host=31.15.16.63#Server",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:443?encryption=none&security=tls&type=ws&sni=31.56.146.76&fp=chrome&alpn=http%2F1.1&path=%2F&host=31.56.146.76#Server",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2005",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:443?encryption=none&security=tls&type=ws&sni=31.56.228.164&fp=chrome&alpn=http%2F1.1&path=%2F&host=31.56.228.164#Server",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2009",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2008",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:443?encryption=none&security=tls&type=ws&sni=31.57.157.230&fp=chrome&alpn=http%2F1.1&path=%2F&host=31.57.157.230#Server",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:443?encryption=none&security=tls&type=ws&sni=31.57.158.99&fp=chrome&alpn=http%2F1.1&path=%2F&host=31.57.158.99#Server",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2007",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:443?encryption=none&security=tls&type=ws&sni=31.15.16.223&fp=chrome&alpn=http%2F1.1&path=%2F&host=31.15.16.223#Server"
 ]
