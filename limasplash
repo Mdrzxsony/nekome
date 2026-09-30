@@ -1,14 +1,9 @@
 [
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2004",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2005",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:443?encryption=none&security=tls&type=ws&sni=31.56.146.76&fp=chrome&alpn=http%2F1.1&path=%2F&host=31.56.146.76#Server",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:443?encryption=none&security=tls&type=ws&sni=31.56.228.164&fp=chrome&alpn=http%2F1.1&path=%2F&host=31.56.228.164#Server",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2007",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2003",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:443?encryption=none&security=tls&type=ws&sni=31.15.16.223&fp=chrome&alpn=http%2F1.1&path=%2F&host=31.15.16.223#Server",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:443?encryption=none&security=tls&type=ws&sni=31.15.16.63&fp=chrome&alpn=http%2F1.1&path=%2F&host=31.15.16.63#Server",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2008",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2006",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:443?encryption=none&security=tls&type=ws&sni=31.57.158.99&fp=chrome&alpn=http%2F1.1&path=%2F&host=31.57.158.99#Server",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all4.exirgameofficial.ir:443?encryption=none&security=tls&type=ws&sni=46.8.224.197&fp=chrome&alpn=http%2F1.1&path=%2F&host=46.8.224.197#Server"
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2009",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2008",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=/#W",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2003",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2004",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2006",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all5.exirgameofficial.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2001"
 ]
