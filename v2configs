@@ -1,11 +1,15 @@
 [
-    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@95.179.208.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-9482",
-    "vless://64dd9b1a-8d21-f6a6-426d-2d58e94817ad@core.freegreenkala.com:80?encryption=none&security=none&type=ws&path=%2FT1d2LmlyYE3ob880RmVBb&host=core.freegreenkala.com#Speed-35738",
-    "vless://40f6058d-6cc1-4e4e-8c00-a5df8b7a8b58@45.32.135.52:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-85359",
-    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform113&host=platform113.halalkhor.info#Speed-34660",
-    "vless://ff642d7a-9a24-4078-a031-f8c656f4554e@5.223.41.179:80?encryption=none&security=none&type=ws&path=%2F#Speed-49055",
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@165.227.162.19:443?encryption=none&security=none&type=http&path=%2F&host=maps.google.com#Speed-12919",
-    "vless://f3e10752-8147-3eb9-c1d3-fca214b234b0@cdn.sanabeautyshahriar.com:443?encryption=none&security=tls&sni=cdn.sanabeautyshahriar.com&fp=chrome&type=ws&path=%2F&host=cdn.sanabeautyshahriar.com#Speed-32950",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@164.92.158.36:441?encryption=none&security=none&type=http&path=%2F&host=maps.google.com#Speed-58068",
-    "vless://39abda72-f5a5-4ede-9862-bbb8109aba73@maxfieldbox-nayab.org:443?encryption=none&security=tls&sni=fhoix.skycloud-zarapo.site&fp=chrome&type=ws&path=%2Fbaran&host=fhoix.skycloud-zarapo.site#Speed-18248"
+    "vless://60cc7133-8973-44c0-aff8-16e0265419d6@fserver-worker-003.novameg2q.info:443?encryption=none&security=tls&sni=fserver-worker-003.novameg2q.info&fp=chrome&type=ws&path=%2Fcdn%2F2954f0a9c2d4c948&host=fserver-worker-003.novameg2q.info#Speed-90451",
+    "vless://817be056-2afc-4358-9b8d-5dbe836251f3@45.32.157.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-76968",
+    "vless://40f6058d-6cc1-4e4e-8c00-a5df8b7a8b58@199.247.17.21:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-1346",
+    "vless://09ad172d-efe5-4744-95b7-7189521216bd@94.130.191.74:80?encryption=none&security=none&type=ws&path=%2F#Speed-2322",
+    "vless://bcf89786-1b01-47dc-9a36-a7db03626e53@megariverport-nayab.org:443?encryption=none&security=tls&sni=wjqks.freshwolfzone-zarapo.site&fp=chrome&type=ws&path=%2Ftigerjoon&host=wjqks.freshwolfzone-zarapo.site#Speed-4947",
+    "vless://c1fb9e0e-15e0-41e6-b92a-fbec982a5894@95.216.179.212:80?encryption=none&security=none&type=ws&path=%2F#Speed-39770",
+    "vless://40f6058d-6cc1-4e4e-8c00-a5df8b7a8b58@199.247.18.183:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-53427",
+    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@64.227.45.94:441?encryption=none&security=none&type=http&path=%2F&host=maps.google.com#Speed-59525",
+    "vless://40f6058d-6cc1-4e4e-8c00-a5df8b7a8b58@80.240.18.100:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-82894",
+    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.112.115:443?encryption=none&security=tls&sni=smsifks.awkcs3llqcer.dpdns.org&fp=unsafe&type=ws&path=%2Fadylb&host=smsifks.awkcs3llqcer.dpdns.org#Speed-13736",
+    "vless://c03c5aff-39ff-45fc-abb6-cc389e71f452@5.223.41.231:80?encryption=none&security=none&type=ws&path=%2F#Speed-57482",
+    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.112.115:443?encryption=none&security=tls&sni=smsifks.golbanaaa.dpdns.org&fp=unsafe&type=ws&path=%2Fadylb&host=smsifks.golbanaaa.dpdns.org#Speed-9261",
+    "vless://bcf89786-1b01-47dc-9a36-a7db03626e53@maxfieldbox-nayab.org:443?encryption=none&security=tls&sni=dajhx.minicitybase-jamesbondi.info&fp=chrome&type=ws&path=%2Ftigerjoon&host=dajhx.minicitybase-jamesbondi.info#Speed-36732"
 ]
