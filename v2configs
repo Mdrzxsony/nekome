@@ -1,13 +1,16 @@
 [
-    "vless://bcf89786-1b01-47dc-9a36-a7db03626e53@megariverport-nayab.org:443?encryption=none&security=tls&sni=xguud.primewolfway-zarapo.site&fp=chrome&type=ws&path=%2Ftigerjoon&host=xguud.primewolfway-zarapo.site#Speed-23445",
-    "vless://48bc1038-c5ac-41c3-b772-5a70865be6fd@2.28.131.83:41456?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=HaRj2bDeqflNiBul1P2zSzGtE8JwRYyLLH_IWOswIjQ&sid=bb9aefec4079a4c6&type=grpc&serviceName=grpc&mode=gun#Speed-12071",
-    "vless://48bc1038-c5ac-41c3-b772-5a70865be6fd@2.28.36.191:41456?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=HaRj2bDeqflNiBul1P2zSzGtE8JwRYyLLH_IWOswIjQ&sid=bb9aefec4079a4c6&type=grpc&serviceName=grpc&mode=gun#Speed-93017",
-    "vless://7889993e-8762-47a3-8fe5-fd0bbc6487e3@152.228.242.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=z5NFQU4cHEIB6BDNpA9R-UNaavfF-q3E0UT9tYoQtyA&sid=1d522125e96b2bec&type=tcp#Speed-23758",
-    "vless://d4ac061e-9ed1-5360-abf8-d2a8557540ee@139.180.129.158:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-59746",
-    "vless://70f95dff-e4dc-4bd2-a760-c0585066019e@gara.downloadplus.info:443?encryption=none&security=tls&sni=gara.downloadplus.info&fp=chrome&type=grpc&mode=gun#Speed-63194",
-    "vless://40f6058d-6cc1-4e4e-8c00-a5df8b7a8b58@45.32.135.52:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-77930",
-    "vless://817be056-2afc-4358-9b8d-5dbe836251f3@66.42.97.171:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-53226",
-    "vless://1fc8977c-ffce-4d2b-ad05-4b3d15957a6e@91.107.149.220:80?encryption=none&security=none&type=ws&path=%2F#Speed-46719",
-    "vless://40f6058d-6cc1-4e4e-8c00-a5df8b7a8b58@45.32.135.52:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-10570",
-    "vless://85e38c9a-1c32-4b27-b418-f528236bbf5f@support.zoom.us:2095?encryption=none&security=none&type=httpupgrade#Speed-6925"
+    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@167.71.130.173:441?encryption=none&security=none&type=http&path=%2F&host=maps.google.com#Speed-57007",
+    "vless://8afe27ac-aac9-4ff3-933f-7a12682adb70@5.223.41.188:80?encryption=none&security=none&type=ws&path=%2F#Speed-48289",
+    "vless://514904f4-64a6-44c4-9116-9d2692a0e7ee@86911905485734919011.amol-jjjdskjs.info:443?encryption=none&security=tls&sni=86911905485734919011.amol-jjjdskjs.info&fp=firefox&type=ws&path=%2Fbttff&host=86911905485734919011.amol-jjjdskjs.info#Speed-47374",
+    "vless://839d5b45-8e2d-4a2c-8843-43e26437002c@03505448366500182063.andorra-yysajh.site:443?encryption=none&security=tls&sni=03505448366500182063.andorra-yysajh.site&fp=chrome&type=ws&path=%2Fmsblf&host=03505448366500182063.andorra-yysajh.site#Speed-67822",
+    "vless://349fd9b8-ddb9-4ab8-bf35-a01151ef2304@5.161.102.40:80?encryption=none&security=none&type=ws&path=%2F#Speed-94398",
+    "vless://ee0a024d-f229-f697-3bcf-4db388af9ff7@apiv2.besttotaldns.com:443?encryption=none&security=tls&sni=apiv2.besttotaldns.com&fp=chrome&type=ws&path=%2F&host=apiv2.besttotaldns.com#Speed-51035",
+    "vless://38454a9f-41ee-410a-8826-3e3b2e0c20b2@fserver-worker-002.pinestreamlane.sbs:443?encryption=none&security=tls&sni=fserver-worker-002.pinestreamlane.sbs&fp=chrome&type=ws&path=%2Frally&host=fserver-worker-002.pinestreamlane.sbs#Speed-28247",
+    "vless://97aa2c4f-1665-0141-231d-4de0ec71937c@sc.jahanify.com:2053?encryption=none&security=tls&sni=sc.jahanify.com&fp=chrome&type=ws&path=%2Fr1d2LmlyYw3ob880RmbRb&host=sc.jahanify.com#Speed-31210",
+    "vless://d4ac061e-9ed1-5360-abf8-d2a8557540ee@66.42.40.255:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-27355",
+    "vless://5ef68b99-ab7c-40fe-bb85-4d57b8b9f3f7@64.176.75.22:80?encryption=none&security=none&type=ws&path=%2F#Speed-2361",
+    "vless://f1046f5a-0ada-41b5-817b-f6ef1838255f@64.176.75.254:80?encryption=none&security=none&type=ws&path=%2F#Speed-78213",
+    "vless://70f95dff-e4dc-4bd2-a760-c0585066019e@dije.downloadplus.info:443?encryption=none&security=tls&sni=dije.downloadplus.info&fp=chrome&type=grpc&mode=gun#Speed-10186",
+    "vless://40f6058d-6cc1-4e4e-8c00-a5df8b7a8b58@173.199.70.148:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-47661",
+    "vless://60cc7133-8973-44c0-aff8-16e0265419d6@fserver-worker-003.pinestreamlane.sbs:443?encryption=none&security=tls&sni=fserver-worker-003.pinestreamlane.sbs&fp=chrome&type=ws&path=%2Frally&host=fserver-worker-003.pinestreamlane.sbs#Speed-73296"
 ]
