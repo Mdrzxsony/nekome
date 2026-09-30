@@ -1,15 +1,10 @@
 [
-    "vless://614d8597-3735-49ec-9ff4-6c4799beba98@172.67.141.182:443?encryption=none&security=tls&sni=recreation.cam&fp=chrome&type=grpc&mode=gun#Speed-15954",
-    "vless://d39a5042-77d6-4791-8f4c-54c72c9457b7@5.161.70.16:80?encryption=none&security=none&type=ws&path=%2F#Speed-68405",
-    "vless://31ae842f-a16e-4d94-8d72-776a5b78bc11@5.223.41.119:80?encryption=none&security=none&type=ws&path=%2F#Speed-22732",
-    "vless://9931a80b-dff1-432f-9555-dd8465cff88c@64.176.67.189:80?encryption=none&security=none&type=ws&path=%2F#Speed-60084",
-    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@108.61.221.36:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-34594",
-    "vless://872c3f0e-c5a8-9320-aea5-66b0998d909a@apiv1.besttotaldns.com:443?encryption=none&security=tls&sni=apiv1.besttotaldns.com&fp=chrome&type=ws&path=%2F&host=apiv1.besttotaldns.com#Speed-80726",
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.18.210:443?encryption=none&security=none&type=http&path=%2F&host=bmi.ir#Speed-81088",
-    "vless://40f6058d-6cc1-4e4e-8c00-a5df8b7a8b58@45.32.135.52:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-21409",
-    "vless://fafba78f-c43d-455d-9cfe-5d98b28eb9ae@64.176.77.131:80?encryption=none&security=none&type=ws&path=%2F#Speed-27732",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@139.59.160.56:441?encryption=none&security=none&type=http&path=%2F&host=maps.google.com#Speed-67471",
-    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?encryption=none&security=tls&sni=cd-sr9.k8k8110.com&fp=chrome&type=ws&path=%2F&host=cd-sr9.k8k8110.com#Speed-58668",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@168.144.160.181:441?encryption=none&security=none&type=http&path=%2F&host=grs.dbankcloud.asia#Speed-35510",
-    "vless://31ae842f-a16e-4d94-8d72-776a5b78bc11@5.223.41.119:80?encryption=none&security=none&type=ws&path=%2F#Speed-70093"
+    "vless://70f95dff-e4dc-4bd2-a760-c0585066019e@rugo.downloadplus.info:443?encryption=none&security=tls&sni=rugo.downloadplus.info&fp=chrome&type=grpc&mode=gun#Speed-47399",
+    "vless://4ca0842b-6bbb-4a06-9677-97160b0376a4@5.223.41.155:80?encryption=none&security=none&type=ws&path=%2F#Speed-37291",
+    "vless://4ca0842b-6bbb-4a06-9677-97160b0376a4@5.223.41.155:80?encryption=none&security=none&type=ws&path=%2F#Speed-36478",
+    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.112.115:443?encryption=none&security=tls&sni=smsifks.dolfanoo.dpdns.org&fp=unsafe&type=ws&path=%2Fadylb&host=smsifks.dolfanoo.dpdns.org#Speed-36160",
+    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@45.32.172.49:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-64354",
+    "vless://03edcef4-9fc6-4e7c-b6b6-b6b6817b7cb5@51.68.82.219:80?encryption=none&security=none&type=http&path=%2F&host=firebaseinstallations.googleapis.com#Speed-89871",
+    "vless://4ca0842b-6bbb-4a06-9677-97160b0376a4@5.223.41.155:80?encryption=none&security=none&type=ws&path=%2F#Speed-38439",
+    "vless://99bac01f-162b-4f45-b978-a78f01b8db68@megariverport-nayab.org:443?encryption=none&security=tls&sni=bcumi.fastbirdlab-navafe.sbs&fp=chrome&type=ws&path=%2Fjetian&host=bcumi.fastbirdlab-navafe.sbs#Speed-85320"
 ]
