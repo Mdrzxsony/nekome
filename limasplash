@@ -1,10 +1,8 @@
 [
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-af1172083c71b4fd.poek.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2007",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-af1172083c71b4fd.poek.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2003",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-af1172083c71b4fd.poek.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=/#W",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-af1172083c71b4fd.poek.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2008",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-af1172083c71b4fd.poek.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2006",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-af1172083c71b4fd.poek.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2004",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-af1172083c71b4fd.poek.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2005",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-af1172083c71b4fd.poek.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2009"
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-d5bc74c0f167e7bd.poek.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2006",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-d5bc74c0f167e7bd.poek.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2001",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-d5bc74c0f167e7bd.poek.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=/#W",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-d5bc74c0f167e7bd.poek.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2004",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-d5bc74c0f167e7bd.poek.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2005",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-d5bc74c0f167e7bd.poek.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2008"
 ]
