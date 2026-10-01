@@ -1,11 +1,13 @@
 [
-    "vless://d8f8d6dd-7428-47f8-88de-c60a2b01decb@5.223.41.117:80?encryption=none&security=none&type=ws&path=%2F#Speed-1381",
-    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@209.250.246.191:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-45646",
-    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?encryption=none&security=tls&sni=cd-sr3.k8k8110.com&fp=chrome&type=ws&path=%2F&host=cd-sr3.k8k8110.com#Speed-17342",
-    "vless://476369e2-c6cd-4360-a024-1a043dce4f2f@64.176.75.210:80?encryption=none&security=none&type=ws&path=%2F#Speed-76110",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@165.232.74.48:441?encryption=none&security=none&type=http&path=%2F&host=firebaseinstallations.googleapis.com#Speed-33833",
-    "vless://6475a33e-51f9-4a1b-99bf-fbbc58c5b98d@165.227.164.248:37649?encryption=none&security=none&type=tcp#Speed-75242",
-    "vless://38454a9f-41ee-410a-8826-3e3b2e0c20b2@speedtest.org:443?encryption=none&security=tls&sni=server2.pinecloudgate.sbs&fp=chrome&type=ws&path=%2Frally&host=server2.pinecloudgate.sbs#Speed-67143",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@91.107.160.1:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=08&type=tcp#Speed-58235",
-    "vless://70f95dff-e4dc-4bd2-a760-c0585066019e@geca.downloadplus.info:443?encryption=none&security=tls&sni=geca.downloadplus.info&fp=chrome&type=grpc&mode=gun#Speed-67164"
+    "vless://c0dc13ca-42bf-4be5-9b85-70113295ad78@server1.pinecloudpath.lat:443?encryption=none&security=tls&sni=server1.pinecloudpath.lat&fp=chrome&type=ws&path=%2Frally&host=server1.pinecloudpath.lat#Speed-31896",
+    "vless://34d95d10-7bba-432a-bb1f-e2fd3def84cd@speedtest.org:443?encryption=none&security=tls&sni=server13.pinecloudgate.sbs&fp=chrome&type=ws&path=%2Frally&host=server13.pinecloudgate.sbs#Speed-19775",
+    "vless://8376d7b4-90c3-457d-89eb-ff99ce73f5f7@speedtest.org:443?encryption=none&security=tls&sni=server12.pinecloudgate.sbs&fp=chrome&type=ws&path=%2Frally&host=server12.pinecloudgate.sbs#Speed-83546",
+    "vless://c0dc13ca-42bf-4be5-9b85-70113295ad78@speedtest.org:443?encryption=none&security=tls&sni=server1.ambercloudgate.sbs&fp=chrome&type=ws&path=%2Frally&host=server1.ambercloudgate.sbs#Speed-78973",
+    "vless://57fd9841-0694-4582-9800-469dbc6a9038@5.223.41.21:80?encryption=none&security=none&type=ws&path=%2F#Speed-99008",
+    "vless://d4ac061e-9ed1-5360-abf8-d2a8557540ee@104.156.238.232:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-51341",
+    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@18.216.41.155:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-88875",
+    "vless://3cfee815-6f6e-450c-8539-cb4e1ed0bda9@speedtest.org:443?encryption=none&security=tls&sni=server7.ambercloudgate.sbs&fp=chrome&type=ws&path=%2Frally&host=server7.ambercloudgate.sbs#Speed-35511",
+    "vless://f29e9fce-1f37-4a83-9e6c-05a997123dfb@5.223.41.95:80?encryption=none&security=none&type=ws&path=%2F#Speed-62992",
+    "vless://d41f4133-940b-4b08-9204-d81ef5990d1a@70.34.245.43:80?encryption=none&security=none&type=ws&path=%2F#Speed-9961",
+    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@159.223.3.114:441?encryption=none&security=none&type=http&path=%2F&host=web-cdn.snapp.ir#Speed-24105"
 ]
