@@ -1,13 +1,12 @@
 [
-    "vless://c0dc13ca-42bf-4be5-9b85-70113295ad78@server1.pinecloudpath.lat:443?encryption=none&security=tls&sni=server1.pinecloudpath.lat&fp=chrome&type=ws&path=%2Frally&host=server1.pinecloudpath.lat#Speed-31896",
-    "vless://34d95d10-7bba-432a-bb1f-e2fd3def84cd@speedtest.org:443?encryption=none&security=tls&sni=server13.pinecloudgate.sbs&fp=chrome&type=ws&path=%2Frally&host=server13.pinecloudgate.sbs#Speed-19775",
-    "vless://8376d7b4-90c3-457d-89eb-ff99ce73f5f7@speedtest.org:443?encryption=none&security=tls&sni=server12.pinecloudgate.sbs&fp=chrome&type=ws&path=%2Frally&host=server12.pinecloudgate.sbs#Speed-83546",
-    "vless://c0dc13ca-42bf-4be5-9b85-70113295ad78@speedtest.org:443?encryption=none&security=tls&sni=server1.ambercloudgate.sbs&fp=chrome&type=ws&path=%2Frally&host=server1.ambercloudgate.sbs#Speed-78973",
-    "vless://57fd9841-0694-4582-9800-469dbc6a9038@5.223.41.21:80?encryption=none&security=none&type=ws&path=%2F#Speed-99008",
-    "vless://d4ac061e-9ed1-5360-abf8-d2a8557540ee@104.156.238.232:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-51341",
-    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@18.216.41.155:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-88875",
-    "vless://3cfee815-6f6e-450c-8539-cb4e1ed0bda9@speedtest.org:443?encryption=none&security=tls&sni=server7.ambercloudgate.sbs&fp=chrome&type=ws&path=%2Frally&host=server7.ambercloudgate.sbs#Speed-35511",
-    "vless://f29e9fce-1f37-4a83-9e6c-05a997123dfb@5.223.41.95:80?encryption=none&security=none&type=ws&path=%2F#Speed-62992",
-    "vless://d41f4133-940b-4b08-9204-d81ef5990d1a@70.34.245.43:80?encryption=none&security=none&type=ws&path=%2F#Speed-9961",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@159.223.3.114:441?encryption=none&security=none&type=http&path=%2F&host=web-cdn.snapp.ir#Speed-24105"
+    "vless://70f95dff-e4dc-4bd2-a760-c0585066019e@yoru.downloadplus.info:443?encryption=none&security=tls&sni=yoru.downloadplus.info&fp=chrome&type=grpc&mode=gun#Speed-5491",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@95.217.224.225:2053?encryption=none&security=tls&sni=dpnudp7pv.ktjq.ir&fp=firefox&type=ws&path=%2F&host=dpnudp7pv.ktjq.ir#Speed-28109",
+    "vless://40f6058d-6cc1-4e4e-8c00-a5df8b7a8b58@136.244.85.164:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-32648",
+    "vless://a0c2e68e-23a9-47fa-84dc-9de7300ec7f9@5.223.18.79:80?encryption=none&security=none&type=ws&path=%2F#Speed-5416",
+    "vless://70f95dff-e4dc-4bd2-a760-c0585066019e@yubu.downloadplus.info:443?encryption=none&security=tls&sni=yubu.downloadplus.info&fp=chrome&type=grpc&mode=gun#Speed-19756",
+    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@45.32.172.49:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-31052",
+    "vless://b7d82fdf-01e5-49a7-a247-dbeff2ba0554@09006560825764500443.piano-zzxhhvd.info:443?encryption=none&security=tls&sni=09006560825764500443.piano-zzxhhvd.info&fp=firefox&type=ws&path=%2Fmdpqu&host=09006560825764500443.piano-zzxhhvd.info#Speed-64648",
+    "vless://063bfca4-5ebf-47a2-bc0e-254c0a172465@64.226.85.7:440?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-49725",
+    "vless://a337aa84-3152-40f0-87fc-bdcbbb3b3b5d@megariverport-nayab.org:443?encryption=none&security=tls&sni=blgxw.blueleafnode-notan.sbs&fp=chrome&type=ws&path=%2Fbali&host=blgxw.blueleafnode-notan.sbs#Speed-78384",
+    "vless://717d03fa-4678-47a0-b27a-dff61a08ef83@5.223.18.177:80?encryption=none&security=none&type=ws&path=%2F#Speed-60478"
 ]
