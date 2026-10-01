@@ -1,14 +1,16 @@
 [
-    "vless://38454a9f-41ee-410a-8826-3e3b2e0c20b2@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server2.hillcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server2.hillcloudgate.sbs#Server",
-    "vless://c0dc13ca-42bf-4be5-9b85-70113295ad78@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server1.hillcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server1.hillcloudgate.sbs#Server",
-    "vless://494a1b84-63a7-46cc-973f-3b24f34adb28@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server5.hillcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server5.hillcloudgate.sbs#Server",
-    "vless://3cfee815-6f6e-450c-8539-cb4e1ed0bda9@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server7.hillcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server7.hillcloudgate.sbs#Server",
-    "vless://4b14622e-fd30-4627-ae9b-5af9eaf47f62@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server6.hillcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server6.hillcloudgate.sbs#Server",
-    "vless://29af8f8e-a8ea-4700-99d6-e1687cf3e2e9@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server10.hillcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server10.hillcloudgate.sbs#Server",
-    "vless://76b1e392-6892-46d2-b44f-40769d7d2327@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server11.hillcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server11.hillcloudgate.sbs#Server",
-    "vless://8376d7b4-90c3-457d-89eb-ff99ce73f5f7@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server12.hillcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server12.hillcloudgate.sbs#Server",
-    "vless://34d95d10-7bba-432a-bb1f-e2fd3def84cd@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server13.hillcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server13.hillcloudgate.sbs#Server",
-    "vless://9355e95b-5dfd-4d98-8cc0-f787c7961e33@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server14.hillcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server14.hillcloudgate.sbs#Server",
-    "vless://0fb72f72-4925-4ff0-9b78-89208a907c38@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server8.hillcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server8.hillcloudgate.sbs#Server",
-    "vless://99b139bb-04a4-459f-be01-52a79bdafdf6@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server9.hillcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server9.hillcloudgate.sbs#Server"
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?encryption=none&security=tls&type=ws&sni=h1-9.mycitymobile.ir&fp=chrome&alpn=h3&path=%2F#Server%203640",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@199.232.245.150:443?encryption=none&security=tls&type=xhttp&sni=speedtest.net&fp=edge&alpn=h2&path=%2F&host=fast-adm-se1.global.ssl.fastly.net&mode=auto#Server%203631",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?encryption=none&security=tls&type=ws&sni=h1-20.mycitymobile.ir&fp=chrome&alpn=h3&path=%2F#Server%203652",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?encryption=none&security=tls&type=ws&sni=h1-7.mycitymobile.ir&fp=chrome&alpn=h3&path=%2F#Server%203639",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?encryption=none&security=tls&type=ws&sni=h1-19.mycitymobile.ir&fp=chrome&alpn=h3&path=%2F#Server%203648",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?encryption=none&security=tls&type=ws&sni=h1-16.mycitymobile.ir&fp=chrome&alpn=h3&path=%2F#Server%203649",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@199.232.245.150:443?encryption=none&security=tls&type=xhttp&sni=speedtest.net&fp=edge&alpn=h2&path=%2F&host=gm25251hs.global.ssl.fastly.net&mode=auto#Server%203633",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@www.speedtest.net:443?encryption=none&security=tls&type=ws&sni=h1-6.mycitymobile.ir&fp=chrome&alpn=h3&path=%2F#Server%203664",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@45.131.4.24:443?encryption=none&security=tls&type=ws&sni=h1-2.mycitymobile.ir&fp=chrome&alpn=h3&path=%2F#Server%203638",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@104.25.189.214:443?encryption=none&security=tls&type=ws&sni=h1-3.mycitymobile.ir&fp=chrome&alpn=h3&path=%2F#Server%203634",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@199.232.245.150:443?encryption=none&security=tls&type=xhttp&sni=speedtest.net&fp=edge&alpn=h2&path=%2F&host=fast-adm-it1.global.ssl.fastly.net&mode=auto#Server%203628",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@162.159.93.89:443?encryption=none&security=tls&type=ws&sni=h1-5.mycitymobile.ir&fp=chrome&alpn=h3&path=%2F#Server%203637",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?encryption=none&security=tls&type=ws&sni=h1-18.mycitymobile.ir&fp=chrome&alpn=h3&path=%2F#Server%203642",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?encryption=none&security=tls&type=ws&sni=h1-17.mycitymobile.ir&fp=chrome&alpn=h3&path=%2F#Server%203647"
 ]
