@@ -1,12 +1,16 @@
 [
-    "vless://f8175a3d-ad69-44c8-a2aa-87d4d06994eb@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server4.stonecloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server4.stonecloudgate.sbs#Server",
-    "vless://60cc7133-8973-44c0-aff8-16e0265419d6@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server3.stonecloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server3.stonecloudgate.sbs#Server",
-    "vless://f8175a3d-ad69-44c8-a2aa-87d4d06994eb@server4.stonecloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=195.201.9.235&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=195.201.9.235#Server",
-    "vless://60cc7133-8973-44c0-aff8-16e0265419d6@server3.stonecloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=88.99.161.169&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=88.99.161.169#Server",
-    "vless://0fb72f72-4925-4ff0-9b78-89208a907c38@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server8.stonecloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server8.stonecloudgate.sbs#Server",
-    "vless://99b139bb-04a4-459f-be01-52a79bdafdf6@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server9.stonecloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server9.stonecloudgate.sbs#Server",
-    "vless://0fb72f72-4925-4ff0-9b78-89208a907c38@server8.stonecloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=2.28.204.114&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=2.28.204.114#Server",
-    "vless://99b139bb-04a4-459f-be01-52a79bdafdf6@server9.stonecloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=2.29.49.144&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=2.29.49.144#Server",
-    "vless://38454a9f-41ee-410a-8826-3e3b2e0c20b2@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server2.stonecloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server2.stonecloudgate.sbs#Server",
-    "vless://38454a9f-41ee-410a-8826-3e3b2e0c20b2@server2.stonecloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=94.130.205.110&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=94.130.205.110#Server"
+    "vless://60cc7133-8973-44c0-aff8-16e0265419d6@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server3.hillcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server3.hillcloudgate.sbs#Server",
+    "vless://38454a9f-41ee-410a-8826-3e3b2e0c20b2@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server2.hillcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server2.hillcloudgate.sbs#Server",
+    "vless://60cc7133-8973-44c0-aff8-16e0265419d6@server3.hillcloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=88.99.161.169&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=88.99.161.169#Server",
+    "vless://38454a9f-41ee-410a-8826-3e3b2e0c20b2@server2.hillcloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=94.130.205.110&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=94.130.205.110#Server",
+    "vless://0fb72f72-4925-4ff0-9b78-89208a907c38@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server8.hillcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server8.hillcloudgate.sbs#Server",
+    "vless://99b139bb-04a4-459f-be01-52a79bdafdf6@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server9.hillcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server9.hillcloudgate.sbs#Server",
+    "vless://0fb72f72-4925-4ff0-9b78-89208a907c38@server8.hillcloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=2.28.204.114&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=2.28.204.114#Server",
+    "vless://99b139bb-04a4-459f-be01-52a79bdafdf6@server9.hillcloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=2.29.49.144&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=2.29.49.144#Server",
+    "vless://c0dc13ca-42bf-4be5-9b85-70113295ad78@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server1.hillcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server1.hillcloudgate.sbs#Server",
+    "vless://c0dc13ca-42bf-4be5-9b85-70113295ad78@server1.hillcloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=95.216.20.218&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=95.216.20.218#Server",
+    "vless://29af8f8e-a8ea-4700-99d6-e1687cf3e2e9@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server10.hillcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server10.hillcloudgate.sbs#Server",
+    "vless://76b1e392-6892-46d2-b44f-40769d7d2327@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server11.hillcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server11.hillcloudgate.sbs#Server",
+    "vless://29af8f8e-a8ea-4700-99d6-e1687cf3e2e9@server10.hillcloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=2.31.8.197&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=2.31.8.197#Server",
+    "vless://76b1e392-6892-46d2-b44f-40769d7d2327@server11.hillcloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=2.29.57.180&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=2.29.57.180#Server"
 ]
