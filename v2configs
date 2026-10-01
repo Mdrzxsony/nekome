@@ -1,11 +1,11 @@
 [
-    "vless://9fa5b96f-02be-48f4-ab38-31a5f24c19ea@195.201.251.251:2083?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=S8QyU-Zh_GLc5dJg9jPaPVq-PBq3xRcN1EX9DmyfRQ0&sid=c78b&type=tcp#Speed-92443",
-    "vless://4338e79a-521b-ca59-ca6a-377a769cc5e9@ns1.besttotaldns.com:443?encryption=none&security=tls&sni=ns1.besttotaldns.com&fp=chrome&type=grpc&serviceName=grpc-path&mode=gun#Speed-66717",
-    "vless://6fb66608-b166-4b6e-ab05-6590dcf659c9@2.28.228.176:80?encryption=none&security=none&type=ws&path=%2F#Speed-39739",
-    "vless://4b14622e-fd30-4627-ae9b-5af9eaf47f62@server6.pinecloudpath.lat:443?encryption=none&security=tls&sni=server6.pinecloudpath.lat&fp=chrome&type=ws&path=%2Frally&host=server6.pinecloudpath.lat#Speed-44572",
-    "vless://eaac85ce-5c3b-4ce2-96b0-4a0a8bbba27d@172.238.255.23:2095?encryption=none&security=none&type=http&path=%2F&host=firebaseinstallations.googleapis.com#Speed-4121",
-    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@136.244.83.117:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-90218",
-    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@45.32.172.49:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-27576",
-    "vless://d8782296-02da-424c-bdf4-d8eb388a28d7@51.83.251.124:80?encryption=none&security=none&type=http&path=%2F&host=store.steampowered.com#Speed-97573",
-    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@dl-sr6.pamelasli.ir:2443?encryption=none&security=none&type=http&path=%2F&host=play.google.com#Speed-80426"
+    "vless://d8f8d6dd-7428-47f8-88de-c60a2b01decb@5.223.41.117:80?encryption=none&security=none&type=ws&path=%2F#Speed-1381",
+    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@209.250.246.191:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-45646",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?encryption=none&security=tls&sni=cd-sr3.k8k8110.com&fp=chrome&type=ws&path=%2F&host=cd-sr3.k8k8110.com#Speed-17342",
+    "vless://476369e2-c6cd-4360-a024-1a043dce4f2f@64.176.75.210:80?encryption=none&security=none&type=ws&path=%2F#Speed-76110",
+    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@165.232.74.48:441?encryption=none&security=none&type=http&path=%2F&host=firebaseinstallations.googleapis.com#Speed-33833",
+    "vless://6475a33e-51f9-4a1b-99bf-fbbc58c5b98d@165.227.164.248:37649?encryption=none&security=none&type=tcp#Speed-75242",
+    "vless://38454a9f-41ee-410a-8826-3e3b2e0c20b2@speedtest.org:443?encryption=none&security=tls&sni=server2.pinecloudgate.sbs&fp=chrome&type=ws&path=%2Frally&host=server2.pinecloudgate.sbs#Speed-67143",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@91.107.160.1:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=08&type=tcp#Speed-58235",
+    "vless://70f95dff-e4dc-4bd2-a760-c0585066019e@geca.downloadplus.info:443?encryption=none&security=tls&sni=geca.downloadplus.info&fp=chrome&type=grpc&mode=gun#Speed-67164"
 ]
