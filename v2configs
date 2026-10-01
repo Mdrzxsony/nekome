@@ -1,12 +1,15 @@
 [
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.16.146:443?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-18219",
-    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@173.199.70.148:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-19717",
-    "vless://40f6058d-6cc1-4e4e-8c00-a5df8b7a8b58@104.207.130.175:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-67265",
-    "vless://075113fe-e3f2-4a20-9f23-1ce4fb04c2a7@megariverport-nayab.org:443?encryption=none&security=tls&sni=bbxjn.moonwolfway-navafe.sbs&fp=chrome&type=ws&path=%2Fgiant&host=bbxjn.moonwolfway-navafe.sbs#Speed-38524",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@all.exirgameofficial.ir:53929?encryption=none&security=none&type=http&path=%2F&host=play.google.com#Speed-85608",
-    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@149.28.208.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-15582",
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@159.223.209.58:443?encryption=none&security=none&type=http&path=%2F&host=amp-api-edge.apps.apple.com#Speed-72399",
-    "vless://40f6058d-6cc1-4e4e-8c00-a5df8b7a8b58@95.179.208.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-13414",
-    "vless://3b821031-d7d4-4368-918b-15f2312dba2b@5.223.41.125:80?encryption=none&security=none&type=ws&path=%2F#Speed-37632",
-    "vless://99bac01f-162b-4f45-b978-a78f01b8db68@megariverport-nayab.org:443?encryption=none&security=tls&sni=hfbdv.smartrockethub-navafe.sbs&fp=chrome&type=ws&path=%2Fjetian&host=hfbdv.smartrockethub-navafe.sbs#Speed-84149"
+    "vless://40f6058d-6cc1-4e4e-8c00-a5df8b7a8b58@45.32.238.69:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-23649",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@dl-sr4.pamelasli.ir:2443?encryption=none&security=none&type=http&path=%2F&host=play.google.com#Speed-39224",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all.exirgameofficial.ir:53929?encryption=none&security=none&type=http&path=%2F&host=play.google.com#Speed-38617",
+    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@140.82.41.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-5201",
+    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@70.34.223.233:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-82279",
+    "vless://078bdc7d-cf01-1c88-843e-826b205e0201@ns3.besttotaldns.com:443?encryption=none&security=tls&sni=ns3.besttotaldns.com&fp=chrome&type=ws&path=%2F&host=ns3.besttotaldns.com#Speed-33871",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?encryption=none&security=tls&sni=cd-sr9.k8k8110.com&fp=chrome&type=ws&path=%2F&host=cd-sr9.k8k8110.com#Speed-70523",
+    "vless://40f6058d-6cc1-4e4e-8c00-a5df8b7a8b58@45.32.154.90:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-65373",
+    "vless://fbe5ad17-39f5-444c-8251-3c520cb0bbc3@139.162.179.74:31146?encryption=none&security=reality&sni=play-fe.googleapis.com&fp=chrome&pbk=vs10U0RP4Sq1GTT83EY7yGfNJUyklGvMat3PbsTmgiQ&sid=cf4e6f8338&type=tcp#Speed-27610",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?encryption=none&security=tls&sni=cd-sr7.k8k8110.com&fp=chrome&type=ws&path=%2F&host=cd-sr7.k8k8110.com#Speed-35961",
+    "vless://40f6058d-6cc1-4e4e-8c00-a5df8b7a8b58@136.244.81.175:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-88711",
+    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@207.246.68.13:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-48672",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@dl-sr3.pamelasli.ir:2443?encryption=none&security=none&type=http&path=%2F&host=play.google.com#Speed-1652"
 ]
