@@ -1,15 +1,13 @@
 [
-    "vless://494a1b84-63a7-46cc-973f-3b24f34adb28@speedtest.org:443?encryption=none&security=tls&sni=server5.hillcloudgate.sbs&fp=chrome&type=ws&path=%2Frally&host=server5.hillcloudgate.sbs#Speed-30777",
-    "vless://d8f8d6dd-7428-47f8-88de-c60a2b01decb@5.223.41.117:80?encryption=none&security=none&type=ws&path=%2F#Speed-12230",
-    "vless://2e055175-728b-44be-90a4-e7f59ed16f1b@5.223.41.248:80?encryption=none&security=none&type=ws&path=%2F#Speed-87491",
-    "vless://ff9fee9d-a2b0-8776-392f-970be4224753@intfloat.omsapplications.com:443?encryption=none&security=tls&sni=intfloat.omsapplications.com&fp=chrome&type=grpc&serviceName=hilgzp05rk&mode=gun#Speed-33142",
-    "vless://f8175a3d-ad69-44c8-a2aa-87d4d06994eb@speedtest.org:443?encryption=none&security=tls&sni=server4.meadowcloudgate.sbs&fp=chrome&type=ws&path=%2Frally&host=server4.meadowcloudgate.sbs#Speed-20876",
-    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?encryption=none&security=tls&sni=cd-sr5.k8k8110.com&fp=chrome&type=ws&path=%2F&host=cd-sr5.k8k8110.com#Speed-14688",
-    "vless://8376d7b4-90c3-457d-89eb-ff99ce73f5f7@speedtest.org:443?encryption=none&security=tls&sni=server12.meadowcloudgate.sbs&fp=chrome&type=ws&path=%2Frally&host=server12.meadowcloudgate.sbs#Speed-32990",
-    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@45.77.72.74:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-86787",
-    "vless://4b14622e-fd30-4627-ae9b-5af9eaf47f62@speedtest.org:443?encryption=none&security=tls&sni=server6.hillcloudgate.sbs&fp=chrome&type=ws&path=%2Frally&host=server6.hillcloudgate.sbs#Speed-5551",
-    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@140.82.41.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-1842",
-    "vless://99b139bb-04a4-459f-be01-52a79bdafdf6@speedtest.org:443?encryption=none&security=tls&sni=server9.hillcloudgate.sbs&fp=chrome&type=ws&path=%2Frally&host=server9.hillcloudgate.sbs#Speed-10164",
-    "vless://4b8a0930-1c36-4efe-b4fe-21f9ad97905c@5.223.19.211:80?encryption=none&security=none&type=ws&path=%2F#Speed-25138",
-    "vless://bcf89786-1b01-47dc-9a36-a7db03626e53@maxfieldbox-nayab.org:443?encryption=none&security=tls&sni=dajhx.minicitybase-jamesbondi.info&fp=chrome&type=ws&path=%2Ftigerjoon&host=dajhx.minicitybase-jamesbondi.info#Speed-56120"
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@fsjgwtzmznqh.qomz.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=90ec9bba2019&type=tcp#Speed-75580",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@37.27.67.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=7972b9fd&type=tcp#Speed-48571",
+    "vless://58deb8ce-8d76-4754-a953-701d7bb68f93@76505854777641041895.bugle-ttchoj.site:443?encryption=none&security=tls&sni=76505854777641041895.bugle-ttchoj.site&fp=firefox&type=ws&path=%2Fzptpp&host=76505854777641041895.bugle-ttchoj.site#Speed-11286",
+    "vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.4.123:443?encryption=none&security=none&type=http&path=%2F&host=bmi.ir#Speed-39742",
+    "vless://e37668e0-131f-5e0f-9388-d5eeba1a36ac@master.besttotaldns.com:443?encryption=none&security=tls&sni=master.besttotaldns.com&fp=chrome&type=ws&path=%2F&host=master.besttotaldns.com#Speed-90496",
+    "vless://a337aa84-3152-40f0-87fc-bdcbbb3b3b5d@megariverport-nayab.org:443?encryption=none&security=tls&sni=kkqjs.skyfieldway-notan.sbs&fp=chrome&type=ws&path=%2Fbali&host=kkqjs.skyfieldway-notan.sbs#Speed-81207",
+    "vless://e0faca3d-6aae-4bed-9882-27f02c83e049@172.235.117.113:2095?encryption=none&security=none&type=http&path=%2F&host=firebaseinstallations.googleapis.com#Speed-36799",
+    "vless://a337aa84-3152-40f0-87fc-bdcbbb3b3b5d@megariverport-nayab.org:443?encryption=none&security=tls&sni=aicbh.moonfield-notan.sbs&fp=chrome&type=ws&path=%2Fbali&host=aicbh.moonfield-notan.sbs#Speed-20430",
+    "vless://4b8a0930-1c36-4efe-b4fe-21f9ad97905c@5.223.19.211:80?encryption=none&security=none&type=ws&path=%2F#Speed-40219",
+    "vless://40992c2a-513e-4837-9594-23411fd42afd@161.35.32.81:443?encryption=none&security=none&type=http&path=%2F&host=amp-api-edge.apps.apple.com#Speed-21067",
+    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@18.226.226.34:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-38266"
 ]
