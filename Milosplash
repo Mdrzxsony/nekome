@@ -1,10 +1,14 @@
 [
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-2f3e5bc4d7bb8d64.poek.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2004",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-2f3e5bc4d7bb8d64.poek.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2005",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-2f3e5bc4d7bb8d64.poek.ir:443?encryption=none&security=tls&type=ws&sni=31.56.146.76&fp=chrome&alpn=http%2F1.1&path=%2F&host=31.56.146.76#Server",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-2f3e5bc4d7bb8d64.poek.ir:443?encryption=none&security=tls&type=ws&sni=31.56.228.164&fp=chrome&alpn=http%2F1.1&path=%2F&host=31.56.228.164#Server",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-2f3e5bc4d7bb8d64.poek.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2003",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-2f3e5bc4d7bb8d64.poek.ir:443?encryption=none&security=tls&type=ws&sni=31.15.16.63&fp=chrome&alpn=http%2F1.1&path=%2F&host=31.15.16.63#Server",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-2f3e5bc4d7bb8d64.poek.ir:53929?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#Server%2007",
-    "vless://db6729cd-c761-4066-bf24-6a940705e910@server-2f3e5bc4d7bb8d64.poek.ir:443?encryption=none&security=tls&type=ws&sni=31.15.16.223&fp=chrome&alpn=http%2F1.1&path=%2F&host=31.15.16.223#Server"
+    "vless://60cc7133-8973-44c0-aff8-16e0265419d6@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server3.birchcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server3.birchcloudgate.sbs#Server",
+    "vless://38454a9f-41ee-410a-8826-3e3b2e0c20b2@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server2.birchcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server2.birchcloudgate.sbs#Server",
+    "vless://60cc7133-8973-44c0-aff8-16e0265419d6@server3.birchcloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=88.99.161.169&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=88.99.161.169#Server",
+    "vless://38454a9f-41ee-410a-8826-3e3b2e0c20b2@server2.birchcloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=94.130.205.110&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=94.130.205.110#Server",
+    "vless://8376d7b4-90c3-457d-89eb-ff99ce73f5f7@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server12.birchcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server12.birchcloudgate.sbs#Server",
+    "vless://34d95d10-7bba-432a-bb1f-e2fd3def84cd@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server13.birchcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server13.birchcloudgate.sbs#Server",
+    "vless://8376d7b4-90c3-457d-89eb-ff99ce73f5f7@server12.birchcloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=2.31.3.124&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=2.31.3.124#Server",
+    "vless://34d95d10-7bba-432a-bb1f-e2fd3def84cd@server13.birchcloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=37.27.145.202&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=37.27.145.202#Server",
+    "vless://c0dc13ca-42bf-4be5-9b85-70113295ad78@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server1.birchcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server1.birchcloudgate.sbs#Server",
+    "vless://c0dc13ca-42bf-4be5-9b85-70113295ad78@server1.birchcloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=95.216.20.218&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=95.216.20.218#Server",
+    "vless://494a1b84-63a7-46cc-973f-3b24f34adb28@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server5.birchcloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server5.birchcloudgate.sbs#Server",
+    "vless://494a1b84-63a7-46cc-973f-3b24f34adb28@server5.birchcloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=2.29.50.73&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=2.29.50.73#Server"
 ]
