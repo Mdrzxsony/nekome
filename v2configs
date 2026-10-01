@@ -1,13 +1,12 @@
 [
-    "vless://0f7996b1-3ef7-4274-b612-0310270d2a41@5.223.41.121:80?encryption=none&security=none&type=ws&path=%2F#Speed-66439",
-    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@dl-sr11.pamelasli.ir:2443?encryption=none&security=none&type=http&path=%2F&host=play.google.com#Speed-28743",
-    "vless://ac8e1bf3-775a-44ee-b018-d553cce0201a@5.223.41.138:80?encryption=none&security=none&type=ws&path=%2F#Speed-15766",
-    "vless://380240ea-0b1f-4650-accf-b468be73d649@188.245.7.193:8080?encryption=none&security=none&type=http&path=%2F&host=firebaseinstallations.googleapis.com#Speed-32431",
-    "vless://9fa5b96f-02be-48f4-ab38-31a5f24c19ea@195.201.251.251:2083?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=S8QyU-Zh_GLc5dJg9jPaPVq-PBq3xRcN1EX9DmyfRQ0&sid=c78b&type=tcp#Speed-37103",
-    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?encryption=none&security=tls&sni=cd-sr9.k8k8110.com&fp=chrome&type=ws&path=%2F&host=cd-sr9.k8k8110.com#Speed-58505",
-    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.100.78:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=5f7c3b816486b3fc&type=tcp#Speed-9401",
-    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@45.32.172.49:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-6341",
-    "vless://817be056-2afc-4358-9b8d-5dbe836251f3@45.77.141.233:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-66763",
-    "vless://ac8e1bf3-775a-44ee-b018-d553cce0201a@5.223.41.138:80?encryption=none&security=none&type=ws&path=%2F#Speed-3658",
-    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@199.247.18.174:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-59281"
+    "vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.16.146:443?encryption=none&security=none&type=http&path=%2F&host=diwork.com#Speed-18219",
+    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@173.199.70.148:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-19717",
+    "vless://40f6058d-6cc1-4e4e-8c00-a5df8b7a8b58@104.207.130.175:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-67265",
+    "vless://075113fe-e3f2-4a20-9f23-1ce4fb04c2a7@megariverport-nayab.org:443?encryption=none&security=tls&sni=bbxjn.moonwolfway-navafe.sbs&fp=chrome&type=ws&path=%2Fgiant&host=bbxjn.moonwolfway-navafe.sbs#Speed-38524",
+    "vless://db6729cd-c761-4066-bf24-6a940705e910@all.exirgameofficial.ir:53929?encryption=none&security=none&type=http&path=%2F&host=play.google.com#Speed-85608",
+    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@149.28.208.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-15582",
+    "vless://40992c2a-513e-4837-9594-23411fd42afd@159.223.209.58:443?encryption=none&security=none&type=http&path=%2F&host=amp-api-edge.apps.apple.com#Speed-72399",
+    "vless://40f6058d-6cc1-4e4e-8c00-a5df8b7a8b58@95.179.208.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-13414",
+    "vless://3b821031-d7d4-4368-918b-15f2312dba2b@5.223.41.125:80?encryption=none&security=none&type=ws&path=%2F#Speed-37632",
+    "vless://99bac01f-162b-4f45-b978-a78f01b8db68@megariverport-nayab.org:443?encryption=none&security=tls&sni=hfbdv.smartrockethub-navafe.sbs&fp=chrome&type=ws&path=%2Fjetian&host=hfbdv.smartrockethub-navafe.sbs#Speed-84149"
 ]
