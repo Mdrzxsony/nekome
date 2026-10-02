@@ -1,14 +1,14 @@
 [
-    "vless://4d642443-2113-49fc-b2d7-01f394cd4e00@65.20.115.75:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=intel.com&fp=chrome&pbk=2XK2jZGPxCA0MvFCKsWKKLDJXTRaue5nyDPFE4NJvws&sid=c4278a38&type=tcp#Speed-33723",
-    "vless://54060b1f-123b-4225-ac57-524b71268b19@108.61.251.37:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=5uA4XZIqPygs5ma1z4DeosJuwj_0Fd5fTzZ_cf_hGmA&sid=f0e284f8&type=tcp#Speed-43111",
-    "vless://3bf9a20e-d66c-4693-8b34-0dd831d64784@70.34.217.238:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=xqm_hVl4w5-HEgIUYWgxVa-rRDc39oFHJ2DTKep9tnU&sid=943873b8&type=tcp#Speed-81017",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.223.216.21:440?encryption=none&security=none&type=http&path=%2F&host=amp-api-edge.apps.apple.com#Speed-95789",
-    "vless://9852e08d-acf0-4d21-a15b-15ba128d0bcd@45.63.97.208:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=SiXo-hBT-49yYkK-lDFL0l2zgr5IwRLTl2QHy5lBBAc&sid=566c09f3&type=tcp#Speed-20139",
-    "vless://3373c3f3-1d28-48d0-ae99-8c9a1bd133f6@45.63.30.35:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=1o-x3JyqAFQaoNewcB71OFN9yToahBPZ83g34TBeIWU&sid=6b78b14d&type=tcp#Speed-34932",
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.223.146:443?encryption=none&security=none&type=http&path=%2F&host=khamenei.ir#Speed-33905",
-    "vless://70f95dff-e4dc-4bd2-a760-c0585066019e@riye.sensoscloud.com:443?encryption=none&security=tls&sni=riye.sensoscloud.com&fp=chrome&type=grpc&mode=gun#Speed-35848",
-    "vless://3d64dd15-5f13-4cfb-922a-510a7fa5c9f7@108.61.166.23:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ai.android&fp=chrome&pbk=Je5VITUvxt74M5o0PW4cK4boEAnCln9P355mDfYenC8&sid=8950ed5d&type=tcp#Speed-71333",
-    "vless://e038db7f-81dd-4a5f-82e7-cfb8e8f06fce@70.34.221.201:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=gJyasP0ZCRfuGoz1LCMoExnlsOoxLxcjMs43i6-FshE&sid=34e61741&type=tcp#Speed-93797",
-    "vless://70f95dff-e4dc-4bd2-a760-c0585066019e@miba.sensoscloud.com:443?encryption=none&security=tls&sni=miba.sensoscloud.com&fp=chrome&type=grpc&mode=gun#Speed-58547",
-    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform110.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform110&host=platform110.halalkhor.info#Speed-61258"
+    "vless://a337aa84-3152-40f0-87fc-bdcbbb3b3b5d@megariverport-nayab.org:443?encryption=none&security=tls&sni=vvxfc.redstonehub-notan.sbs&fp=chrome&type=ws&path=%2Fbali&host=vvxfc.redstonehub-notan.sbs#Speed-67818",
+    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform117&host=platform117.halalkhor.info#Speed-7172",
+    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@18.118.37.102:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-41805",
+    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@108.61.209.137:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-44703",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?encryption=none&security=tls&sni=cd-sr3.k8k8110.com&fp=chrome&type=ws&path=%2F&host=cd-sr3.k8k8110.com#Speed-79779",
+    "vless://70f95dff-e4dc-4bd2-a760-c0585066019e@zowe.sensoscloud.com:443?encryption=none&security=tls&sni=zowe.sensoscloud.com&fp=chrome&type=grpc&mode=gun#Speed-31789",
+    "vless://40992c2a-513e-4837-9594-23411fd42afd@165.232.106.177:443?encryption=none&security=none&type=http&path=%2F&host=speedtest.megafon.tj.prod.hosts.ooklaserver.net%3A8080#Speed-98207",
+    "vless://a337aa84-3152-40f0-87fc-bdcbbb3b3b5d@megariverport-nayab.org:443?encryption=none&security=tls&sni=wkknp.redstonebase-notan.sbs&fp=chrome&type=ws&path=%2Fbali&host=wkknp.redstonebase-notan.sbs#Speed-13638",
+    "vless://70f95dff-e4dc-4bd2-a760-c0585066019e@jori.sensoscloud.com:443?encryption=none&security=tls&sni=jori.sensoscloud.com&fp=chrome&type=grpc&mode=gun#Speed-50987",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@144.126.234.169:440?encryption=none&security=none&type=http&path=%2F&host=trustseal.enamad.ir#Speed-4116",
+    "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.65.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=5fa1b9&type=tcp#Speed-8090",
+    "vless://a337aa84-3152-40f0-87fc-bdcbbb3b3b5d@megariverport-nayab.org:443?encryption=none&security=tls&sni=nuwne.skylionnode-hangover.sbs&fp=chrome&type=ws&path=%2Fbali&host=nuwne.skylionnode-hangover.sbs#Speed-75987"
 ]
