@@ -1,3 +1,6 @@
 [
-    "vless://e2e4984d-f7b6-499f-a546-08df79c25973@dl1.digifixmobile.ir:1001?encryption=none&security=tls&type=ws&sni=dl1.digifixmobile.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Flive#Server%2002"
+    "vless://e2e4984d-f7b6-499f-a546-08df79c25973@dl1.digifixmobile.ir:1004?encryption=none&security=tls&type=ws&sni=dl1.digifixmobile.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Flive#Server%2004",
+    "vless://e2e4984d-f7b6-499f-a546-08df79c25973@dl1.digifixmobile.ir:1001?encryption=none&security=tls&type=ws&sni=dl1.digifixmobile.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Flive#Server%2002",
+    "vless://e2e4984d-f7b6-499f-a546-08df79c25973@dl1.digifixmobile.ir:1002?encryption=none&security=tls&type=ws&sni=dl1.digifixmobile.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Flive#Server%2003",
+    "vless://e2e4984d-f7b6-499f-a546-08df79c25973@dl1.digifixmobile.ir:1003?encryption=none&security=tls&type=ws&sni=dl1.digifixmobile.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Flive#Server%2005"
 ]
