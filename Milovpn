@@ -1,11 +1,6 @@
 [
-    "vless://50c68621-db98-484b-9429-cdbbd6de511e@gsv15.mobileemdad.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=dynu.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08#Worker%2015",
-    "vless://50c68621-db98-484b-9429-cdbbd6de511e@ukm.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=testspeed-foreign.tci.ir&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=aefc7f3722#Worker%2003",
-    "vless://50c68621-db98-484b-9429-cdbbd6de511e@fln3.mobileemdad.top:42538?type=tcp&security=none&encryption=mlkem768x25519plus.native.0rtt.AVXFMcglKPJZWipMVvK2BeYTTGe4QD6Z1Srm7d7Q5Bk&flow=xtls-rprx-vision&headerType=http&path=%2F&host=dynu.com#Worker%2012",
-    "vless://50c68621-db98-484b-9429-cdbbd6de511e@gsv6.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=play.google.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=f88610dd#Worker%2016",
-    "vless://50c68621-db98-484b-9429-cdbbd6de511e@frn8.mobileemdad.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&fp=ios&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=aefc7f3722#Worker%2007",
-    "vless://50c68621-db98-484b-9429-cdbbd6de511e@ugb.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=dynu.com&fp=ios&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d#Worker%2008",
-    "vless://50c68621-db98-484b-9429-cdbbd6de511e@usa4.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=stripe.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=070a23aed243#Worker%2009",
-    "vless://50c68621-db98-484b-9429-cdbbd6de511e@nln11.mobileemdad.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=070a23aed243#Worker%2004",
-    "vless://50c68621-db98-484b-9429-cdbbd6de511e@usa3.mobileemdad.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=nobitex.ir&fp=ios&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=e8f4426268c05621#Worker%2010"
+    "vless://c0dc13ca-42bf-4be5-9b85-70113295ad78@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server1.birchvalleyway.top&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server1.birchvalleyway.top#Server",
+    "vless://f8175a3d-ad69-44c8-a2aa-87d4d06994eb@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server4.birchvalleyway.top&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server4.birchvalleyway.top#Server",
+    "vless://60cc7133-8973-44c0-aff8-16e0265419d6@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server3.birchvalleyway.top&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server3.birchvalleyway.top#Server",
+    "vless://38454a9f-41ee-410a-8826-3e3b2e0c20b2@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server2.birchvalleyway.top&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server2.birchvalleyway.top#Server"
 ]
