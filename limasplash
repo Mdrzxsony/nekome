@@ -1,14 +1,13 @@
 [
-    "vless://8376d7b4-90c3-457d-89eb-ff99ce73f5f7@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server12.gladecloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server12.gladecloudgate.sbs#Server",
-    "vless://34d95d10-7bba-432a-bb1f-e2fd3def84cd@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server13.gladecloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server13.gladecloudgate.sbs#Server",
-    "vless://a43fdab5-6693-49d5-809f-90290f608aaa@megariverport-nayab.org:443?encryption=none&security=tls&type=ws&sni=csplv.bluefoxlab-notan.sbs&fp=firefox&alpn=h2%2Chttp%2F1.1&allowInsecure=1&path=%2Frally&host=csplv.bluefoxlab-notan.sbs#newfrag-vlessws",
-    "vless://34d95d10-7bba-432a-bb1f-e2fd3def84cd@server13.gladecloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=37.27.145.202&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=37.27.145.202#Server",
-    "vless://4b14622e-fd30-4627-ae9b-5af9eaf47f62@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server6.gladecloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server6.gladecloudgate.sbs#Server",
-    "vless://0fb72f72-4925-4ff0-9b78-89208a907c38@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server8.gladecloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server8.gladecloudgate.sbs#Server",
-    "vless://0fb72f72-4925-4ff0-9b78-89208a907c38@server8.gladecloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=2.28.204.114&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=2.28.204.114#Server",
-    "vless://99b139bb-04a4-459f-be01-52a79bdafdf6@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server9.gladecloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server9.gladecloudgate.sbs#Server",
-    "vless://99b139bb-04a4-459f-be01-52a79bdafdf6@server9.gladecloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=2.29.49.144&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=2.29.49.144#Server",
-    "vless://f8175a3d-ad69-44c8-a2aa-87d4d06994eb@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server4.gladecloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server4.gladecloudgate.sbs#Server",
     "vless://60cc7133-8973-44c0-aff8-16e0265419d6@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server3.gladecloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server3.gladecloudgate.sbs#Server",
-    "vless://60cc7133-8973-44c0-aff8-16e0265419d6@server3.gladecloudgate.sbs:443?encryption=none&security=tls&type=ws&sni=88.99.161.169&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=88.99.161.169#Server"
+    "vless://38454a9f-41ee-410a-8826-3e3b2e0c20b2@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server2.gladecloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server2.gladecloudgate.sbs#Server",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@199.232.245.150:443?encryption=none&security=tls&type=xhttp&sni=speedtest.net&fp=edge&alpn=h2&path=%2F&host=fastd-adm-fr1.global.ssl.fastly.net&mode=auto#Server%2006",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@199.232.245.150:443?encryption=none&security=tls&type=xhttp&sni=speedtest.net&fp=edge&alpn=h2&path=%2F&host=fast-adm-gb1.global.ssl.fastly.net&mode=auto#Server%2002",
+    "vless://c0dc13ca-42bf-4be5-9b85-70113295ad78@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server1.gladecloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server1.gladecloudgate.sbs#Server",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@199.232.245.150:443?encryption=none&security=tls&type=xhttp&sni=speedtest.net&fp=edge&alpn=h2&path=%2F&host=gm25251hs.global.ssl.fastly.net&mode=auto#Server%2008",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@199.232.245.150:443?encryption=none&security=tls&type=xhttp&sni=speedtest.net&fp=edge&alpn=h2&path=%2F&host=fast-adm-it1.global.ssl.fastly.net&mode=auto#Server%2005",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@199.232.245.150:443?encryption=none&security=tls&type=xhttp&sni=speedtest.net&fp=edge&alpn=h2&path=%2F&host=fast-adm-nl1.global.ssl.fastly.net&mode=auto#Server%2001",
+    "vless://f8175a3d-ad69-44c8-a2aa-87d4d06994eb@speedtest.org:443?encryption=none&security=tls&type=ws&sni=server4.gladecloudgate.sbs&fp=chrome&alpn=http%2F1.1&path=%2Frally&host=server4.gladecloudgate.sbs#Server",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@199.232.245.150:443?encryption=none&security=tls&type=xhttp&sni=speedtest.net&fp=edge&alpn=h2&path=%2F&host=fast-adm-se1.global.ssl.fastly.net&mode=auto#Server%2007",
+    "vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@199.232.245.150:443?encryption=none&security=tls&type=xhttp&sni=speedtest.net&fp=edge&alpn=h2&path=%2F&host=fast-adm-sr12.global.ssl.fastly.net&mode=auto#Server%2004"
 ]
