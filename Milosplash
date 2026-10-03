@@ -1,9 +1,7 @@
 [
-    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl4.digifixmobile.ir:1004?encryption=none&security=tls&type=ws&sni=dl1.digifixmobile.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Flive#Server%20107",
-    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl2.digifixmobile.ir:1002?encryption=none&security=tls&type=ws&sni=dl1.digifixmobile.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Flive#Server%20103",
-    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl5.digifixmobile.ir:1005?encryption=none&security=tls&type=ws&sni=dl1.digifixmobile.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Flive#Server%2084",
-    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl8.digifixmobile.ir:1008?encryption=none&security=tls&type=ws&sni=dl1.digifixmobile.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Flive#Server%2095",
-    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl8.digifixmobile.ir:2008?encryption=none&security=tls&type=ws&sni=dl1.digifixmobile.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Flive#Server%2090",
-    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl3.digifixmobile.ir:1003?encryption=none&security=tls&type=ws&sni=dl1.digifixmobile.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Flive#Server%20102",
-    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl6.digifixmobile.ir:2006?encryption=none&security=tls&type=ws&sni=dl1.digifixmobile.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Flive#Server%20111"
+    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl2.digifixmobile.ir:1002?encryption=none&security=tls&type=ws&sni=dl1.digifixmobile.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Flive#Server%20130",
+    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl5.digifixmobile.ir:1005?encryption=none&security=tls&type=ws&sni=dl1.digifixmobile.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Flive#Server%20121",
+    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl6.digifixmobile.ir:1006?encryption=none&security=tls&type=ws&sni=dl1.digifixmobile.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Flive#Server%20128",
+    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl1.digifixmobile.ir:1001?encryption=none&security=tls&type=ws&sni=dl1.digifixmobile.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Flive#Server%20131",
+    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl8.digifixmobile.ir:1008?encryption=none&security=tls&type=ws&sni=dl1.digifixmobile.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Flive#Server%2095"
 ]
