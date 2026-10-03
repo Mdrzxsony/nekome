@@ -1,11 +1,1 @@
-[
-    "vless://afdd8366-4c68-4fd3-9bc5-2d744413bd2f@usa3.mobileemdad.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=nobitex.ir&fp=ios&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d#Worker%2011",
-    "vless://afdd8366-4c68-4fd3-9bc5-2d744413bd2f@gsv1.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=play.google.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08#Worker%2008",
-    "vless://afdd8366-4c68-4fd3-9bc5-2d744413bd2f@nln10.mobileemdad.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=aefc7f3722#Worker%2014",
-    "vless://afdd8366-4c68-4fd3-9bc5-2d744413bd2f@ukm.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=testspeed-foreign.tci.ir&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=377d#Worker%2002",
-    "vless://afdd8366-4c68-4fd3-9bc5-2d744413bd2f@trn24.mobileemdad.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=377d#Worker%2004",
-    "vless://afdd8366-4c68-4fd3-9bc5-2d744413bd2f@frn10.mobileemdad.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&fp=ios&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=aefc7f3722#Worker%2006",
-    "vless://afdd8366-4c68-4fd3-9bc5-2d744413bd2f@fln3.mobileemdad.top:42538?type=tcp&security=none&encryption=mlkem768x25519plus.native.0rtt.AVXFMcglKPJZWipMVvK2BeYTTGe4QD6Z1Srm7d7Q5Bk&flow=xtls-rprx-vision&headerType=http&path=%2F&host=dynu.com#Worker%2013",
-    "vless://afdd8366-4c68-4fd3-9bc5-2d744413bd2f@ugb.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=dynu.com&fp=ios&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d#Worker%2007",
-    "vless://afdd8366-4c68-4fd3-9bc5-2d744413bd2f@usa4.mobileemdad.top:443?type=tcp&security=reality&encryption=none&sni=stripe.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08#Worker%2010"
-]
+[]
