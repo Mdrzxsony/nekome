@@ -1,16 +1,13 @@
 [
-    "vless://5f2cfa07-db6f-415d-9ad9-d49a3d3466a3@megariverport-nayab.org:443?encryption=none&security=tls&sni=bwpwh.fastrockethub-nexolo.sbs&fp=chrome&type=ws&path=%2Fjar&host=bwpwh.fastrockethub-nexolo.sbs#Speed-53897",
-    "vless://5f2cfa07-db6f-415d-9ad9-d49a3d3466a3@megariverport-nayab.org:443?encryption=none&security=tls&sni=feuqd.starstoneway-nexolo.sbs&fp=chrome&type=ws&path=%2Fjar&host=feuqd.starstoneway-nexolo.sbs#Speed-94518",
-    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl5.digifixmobile.ir:1005?encryption=none&security=tls&sni=dl1.digifixmobile.ir&fp=chrome&type=ws&path=%2Flive&host=dl1.digifixmobile.ir#Speed-18487",
-    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl1.digifixmobile.ir:2001?encryption=none&security=tls&sni=dl1.digifixmobile.ir&fp=chrome&type=ws&path=%2Flive&host=dl1.digifixmobile.ir#Speed-31082",
-    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl3.digifixmobile.ir:1003?encryption=none&security=tls&sni=dl1.digifixmobile.ir&fp=chrome&type=ws&path=%2Flive&host=dl1.digifixmobile.ir#Speed-94302",
-    "vless://6475a33e-51f9-4a1b-99bf-fbbc58c5b98d@164.92.132.226:37649?encryption=none&security=none&type=tcp#Speed-18102",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@104.248.84.68:439?encryption=none&security=none&type=http&path=%2F&host=maps.google.com#Speed-17047",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@46.101.56.210:441?encryption=none&security=none&type=http&path=%2F&host=hhlfy.twiladaphne.ndjp.net#Speed-12605",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@178.62.48.128:441?encryption=none&security=none&type=http&path=%2F#Speed-61191",
-    "vless://fcc57a46-3bec-437c-a1b4-fc8e8adb73f7@51.178.33.167:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=dvRAzSAvaf2sxAJNcLm6lZS6kqgJQFl4FhFio0vcEFc&sid=2fe7c2530e028ec9&type=tcp#Speed-87340",
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@162.243.167.173:443?encryption=none&security=none&type=http&path=%2F&host=recursive1.dnspro.ir#Speed-96453",
-    "vless://1a4f61bb-e323-44ad-861b-0dc9851c7330@71693083923200537480.cello-kjkhygvc.sbs:443?encryption=none&security=tls&sni=71693083923200537480.cello-kjkhygvc.sbs&fp=chrome&type=ws&path=%2Fluvic&host=71693083923200537480.cello-kjkhygvc.sbs#Speed-26560",
-    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@104.248.132.43:440?encryption=none&security=none&type=http&path=%2F&host=divar.ir#Speed-11275",
-    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl3.digifixmobile.ir:2003?encryption=none&security=tls&sni=dl1.digifixmobile.ir&fp=chrome&type=ws&path=%2Flive&host=dl1.digifixmobile.ir#Speed-24257"
+    "vless://a337aa84-3152-40f0-87fc-bdcbbb3b3b5d@megariverport-nayab.org:443?encryption=none&security=tls&sni=nuwne.skylionnode-hangover.sbs&fp=chrome&type=ws&path=%2Fbali&host=nuwne.skylionnode-hangover.sbs#Speed-21864",
+    "vless://40992c2a-513e-4837-9594-23411fd42afd@138.68.81.121:443?encryption=none&security=none&type=http&path=%2F&host=safebrowsing.googleapis.com#Speed-20272",
+    "vless://40992c2a-513e-4837-9594-23411fd42afd@64.227.19.23:443?encryption=none&security=none&type=http&path=%2F&host=hhlfy.twiladaphne.ndjp.net#Speed-35714",
+    "vless://5f2cfa07-db6f-415d-9ad9-d49a3d3466a3@megariverport-nayab.org:443?encryption=none&security=tls&sni=wxgwi.primebirdlab-nexolo.sbs&fp=chrome&type=ws&path=%2Fjar&host=wxgwi.primebirdlab-nexolo.sbs#Speed-98162",
+    "vless://70f95dff-e4dc-4bd2-a760-c0585066019e@neza.losantos.cc:443?encryption=none&security=tls&sni=neza.losantos.cc&fp=chrome&type=grpc&mode=gun#Speed-66731",
+    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl8.digifixmobile.ir:2008?encryption=none&security=tls&sni=dl1.digifixmobile.ir&fp=chrome&type=ws&path=%2Flive&host=dl1.digifixmobile.ir#Speed-91572",
+    "vless://5f2cfa07-db6f-415d-9ad9-d49a3d3466a3@megariverport-nayab.org:443?encryption=none&security=tls&sni=dujrj.lightorbitnet-nexolo.sbs&fp=chrome&type=ws&path=%2Fjar&host=dujrj.lightorbitnet-nexolo.sbs#Speed-80723",
+    "vless://3ec759ec-cbee-4ab2-996b-33d6492f56ea@172.238.15.144:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=PpYODR9sdq5B0fNIH-54pp-CFTvzTmWxJCIs1V8bVlo&sid=3fc0355eac5d3930&type=tcp#Speed-49596",
+    "vless://a337aa84-3152-40f0-87fc-bdcbbb3b3b5d@megariverport-nayab.org:443?encryption=none&security=tls&sni=urjev.moonwolfport-hangover.sbs&fp=chrome&type=ws&path=%2Fbali&host=urjev.moonwolfport-hangover.sbs#Speed-49198",
+    "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform143.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform143&host=platform143.halalkhor.info#Speed-30195",
+    "vless://a337aa84-3152-40f0-87fc-bdcbbb3b3b5d@megariverport-nayab.org:443?encryption=none&security=tls&sni=aqgdg.moonwolfport-balam.site&fp=chrome&type=ws&path=%2Fbali&host=aqgdg.moonwolfport-balam.site#Speed-34420"
 ]
