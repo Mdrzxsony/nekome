@@ -1,15 +1,15 @@
 [
-    "vless://a6221ab6-70ff-4ed5-abe2-ed5623f3a175@maxfieldbox-nayab.org:443?encryption=none&security=tls&sni=ulqyu.freshfieldport-nexolo.sbs&fp=chrome&type=ws&path=%2Fpay&host=ulqyu.freshfieldport-nexolo.sbs#Speed-78419",
-    "vless://5f2cfa07-db6f-415d-9ad9-d49a3d3466a3@megariverport-nayab.org:443?encryption=none&security=tls&sni=ynxww.starleafport-nexolo.sbs&fp=chrome&type=ws&path=%2Fjar&host=ynxww.starleafport-nexolo.sbs#Speed-43406",
-    "vless://5f2cfa07-db6f-415d-9ad9-d49a3d3466a3@megariverport-nayab.org:443?encryption=none&security=tls&sni=qejfb.megaleafhub-nexolo.sbs&fp=chrome&type=ws&path=%2Fjar&host=qejfb.megaleafhub-nexolo.sbs#Speed-97827",
-    "vless://70f95dff-e4dc-4bd2-a760-c0585066019e@feju.losantos.cc:443?encryption=none&security=tls&sni=feju.losantos.cc&fp=chrome&type=grpc&mode=gun#Speed-32838",
-    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl6.digifixmobile.ir:1006?encryption=none&security=tls&sni=dl1.digifixmobile.ir&fp=chrome&type=ws&path=%2Flive&host=dl1.digifixmobile.ir#Speed-13045",
-    "vless://6033ee9d-7c2a-4f37-a055-0c0d2d8487f0@45.76.126.129:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-35427",
-    "vless://89a4e0ed-de52-4468-a9f6-4b8999ed5ce3@73748838006592118080.babolsar-hjvhjbnm.sbs:443?encryption=none&security=tls&sni=73748838006592118080.babolsar-hjvhjbnm.sbs&fp=chrome&type=ws&path=%2Ftogds&host=73748838006592118080.babolsar-hjvhjbnm.sbs#Speed-95638",
-    "vless://9fa5b96f-02be-48f4-ab38-31a5f24c19ea@195.201.45.238:2083?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=S8QyU-Zh_GLc5dJg9jPaPVq-PBq3xRcN1EX9DmyfRQ0&sid=c78b&type=tcp#Speed-15244",
-    "vless://a337aa84-3152-40f0-87fc-bdcbbb3b3b5d@megariverport-nayab.org:443?encryption=none&security=tls&sni=dxhsl.megaroadbase-notan.sbs&fp=chrome&type=ws&path=%2Fbali&host=dxhsl.megaroadbase-notan.sbs#Speed-8245",
-    "vless://d71433a3-d275-4395-a520-5b71c33f31b1@megariverport-nayab.org:443?encryption=none&security=tls&sni=bugye.primestonebox-nexolo.sbs&fp=chrome&type=ws&path=%2Fparsi&host=bugye.primestonebox-nexolo.sbs#Speed-17266",
-    "vless://5f2cfa07-db6f-415d-9ad9-d49a3d3466a3@megariverport-nayab.org:443?encryption=none&security=tls&sni=ynxww.starleafport-nexolo.sbs&fp=chrome&type=ws&path=%2Fjar&host=ynxww.starleafport-nexolo.sbs#Speed-63150",
-    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl8.digifixmobile.ir:1008?encryption=none&security=tls&sni=dl1.digifixmobile.ir&fp=chrome&type=ws&path=%2Flive&host=dl1.digifixmobile.ir#Speed-30144",
-    "vless://77b79508-0efb-4e50-9c1a-2e25b6f315fc@dl2.digifixmobile.ir:2002?encryption=none&security=tls&sni=dl1.digifixmobile.ir&fp=chrome&type=ws&path=%2Flive&host=dl1.digifixmobile.ir#Speed-85752"
+    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@54.152.60.37:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-64122",
+    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@100.54.238.153:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-1802",
+    "vless://9199e337-ae94-483d-bfc8-8aeac1e4e747@69369662867288271513.bojnurd-dsjhcvdsajh.sbs:443?encryption=none&security=tls&sni=69369662867288271513.bojnurd-dsjhcvdsajh.sbs&fp=firefox&type=ws&path=%2Fxzcsj&host=69369662867288271513.bojnurd-dsjhcvdsajh.sbs#Speed-85388",
+    "vless://5f2cfa07-db6f-415d-9ad9-d49a3d3466a3@megariverport-nayab.org:443?encryption=none&security=tls&sni=dbmau.darksparkbox-nexolo.sbs&fp=chrome&type=ws&path=%2Fjar&host=dbmau.darksparkbox-nexolo.sbs#Speed-94851",
+    "vless://5f2cfa07-db6f-415d-9ad9-d49a3d3466a3@megariverport-nayab.org:443?encryption=none&security=tls&sni=dujrj.lightorbitnet-nexolo.sbs&fp=chrome&type=ws&path=%2Fjar&host=dujrj.lightorbitnet-nexolo.sbs#Speed-3007",
+    "vless://d71433a3-d275-4395-a520-5b71c33f31b1@megariverport-nayab.org:443?encryption=none&security=tls&sni=xcjym.moonwave-nexolo.sbs&fp=chrome&type=ws&path=%2Fparsi&host=xcjym.moonwave-nexolo.sbs#Speed-91652",
+    "vless://d71433a3-d275-4395-a520-5b71c33f31b1@megariverport-nayab.org:443?encryption=none&security=tls&sni=mdesd.starfoxhub-balam.site&fp=chrome&type=ws&path=%2Fparsi&host=mdesd.starfoxhub-balam.site#Speed-56977",
+    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@54.226.226.93:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-29546",
+    "vless://a337aa84-3152-40f0-87fc-bdcbbb3b3b5d@megariverport-nayab.org:443?encryption=none&security=tls&sni=pcaiu.bluewaveway-notan.sbs&fp=chrome&type=ws&path=%2Fbali&host=pcaiu.bluewaveway-notan.sbs#Speed-99987",
+    "vless://b7893b00-35aa-f79c-5032-48ff8c5492a7@100.48.95.248:443?encryption=none&security=none&type=ws&path=%2F&host=chat.deepseek.com#Speed-12360",
+    "vless://a337aa84-3152-40f0-87fc-bdcbbb3b3b5d@megariverport-nayab.org:443?encryption=none&security=tls&sni=nuwne.skylionnode-hangover.sbs&fp=chrome&type=ws&path=%2Fbali&host=nuwne.skylionnode-hangover.sbs#Speed-84112",
+    "vless://5f2cfa07-db6f-415d-9ad9-d49a3d3466a3@megariverport-nayab.org:443?encryption=none&security=tls&sni=ygrhj.primecloudnode-nexolo.sbs&fp=chrome&type=ws&path=%2Fjar&host=ygrhj.primecloudnode-nexolo.sbs#Speed-51009",
+    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@108.61.103.222:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-14727"
 ]
