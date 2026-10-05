@@ -1,14 +1,15 @@
 [
-    "vless://64dd9b1a-8d21-f6a6-426d-2d58e94817ad@core.freegreenkala.com:80?encryption=none&security=none&type=ws&path=%2FT1d2LmlyYE3ob880RmVBb&host=core.freegreenkala.com#Speed-63106",
-    "vless://5f2cfa07-db6f-415d-9ad9-d49a3d3466a3@megariverport-nayab.org:443?encryption=none&security=tls&sni=rqgpd.fastlionway-gorjian.sbs&fp=chrome&type=ws&path=%2Fjar&host=rqgpd.fastlionway-gorjian.sbs#Speed-66663",
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@159.223.225.249:443?encryption=none&security=none&type=http&path=%2F#Speed-68322",
-    "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@209.38.23.128:441?encryption=none&security=none&type=http&path=%2F&host=shecan.ir#Speed-98875",
-    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@45.77.101.112:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-86694",
-    "vless://8b97cfbd-7b33-444a-a7e3-8521f0215cdf@51.75.89.91:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=KZlfnsJICdR_-d8CAAiRObThgaZPJwJyHNIu6MdFnxY&sid=7b200c6ea3d286bc&type=tcp#Speed-70376",
-    "vless://4338e79a-521b-ca59-ca6a-377a769cc5e9@ns1.besttotaldns.com:443?encryption=none&security=tls&sni=ns1.besttotaldns.com&fp=chrome&type=grpc&serviceName=grpc-path&mode=gun#Speed-13012",
-    "vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.161.131:443?encryption=none&security=none&type=http&path=%2F&host=hhlfy.twiladaphne.ndjp.net#Speed-51093",
-    "vless://d90087c3-54f5-4283-a13f-615260c8b0c7@45.76.93.73:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp#Speed-18392",
-    "vless://8b97cfbd-7b33-444a-a7e3-8521f0215cdf@51.75.89.91:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=KZlfnsJICdR_-d8CAAiRObThgaZPJwJyHNIu6MdFnxY&sid=7b200c6ea3d286bc&type=tcp#Speed-24798",
-    "vless://97aa2c4f-1665-0141-231d-4de0ec71937c@sc.jahanify.com:2053?encryption=none&security=tls&sni=sc.jahanify.com&fp=chrome&type=ws&path=%2Fr1d2LmlyYw3ob880RmbRb&host=sc.jahanify.com#Speed-53817",
-    "vless://5f2cfa07-db6f-415d-9ad9-d49a3d3466a3@megariverport-nayab.org:443?encryption=none&security=tls&sni=feuqd.starstoneway-nexolo.sbs&fp=chrome&type=ws&path=%2Fjar&host=feuqd.starstoneway-nexolo.sbs#Speed-31365"
+    "vless://70f95dff-e4dc-4bd2-a760-c0585066019e@216.24.57.5:443?encryption=none&security=tls&sni=defe.discoverais.com&fp=chrome&type=grpc&mode=gun#Speed-38825",
+    "vless://73bcd72f-9545-4cb8-8daf-7d004501880d@188.114.97.6:443?encryption=none&security=tls&sni=wzknb.pages.dev&fp=unsafe&type=ws&path=%2Fproxyip%3D179.255.104.87%2C179.255.116.198%2C179.255.101.56%2C142.248.218.6%2C142.248.218.4%2C45.76.79.239%2C179.255.152.163%2C208.68.180.240fp%3Dchrome&host=wzknb.pages.dev#Speed-74706",
+    "vless://40992c2a-513e-4837-9594-23411fd42afd@165.22.205.64:443?encryption=none&security=none&type=http&path=%2F&host=hhlfy.twiladaphne.ndjp.net#Speed-78197",
+    "vless://526ab483-09a9-4036-92a2-f5ba42df6cee@bank.ir:110?encryption=none&security=reality&sni=android.clients.google.com&fp=chrome&pbk=JoXIfc3fCE2vBr_a_gepeEE4o58bVgpB67Ef_xN2nHI&sid=813461e3624d89&type=tcp#Speed-45354",
+    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.227.133.78:439?encryption=none&security=none&type=http&path=%2F&host=m.swegg.daxaryx.fun#Speed-70447",
+    "vless://ae038715-8ab2-43ea-8289-ba5f990e2b0e@104.105.203.212:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=TQNvFxEcWigrB_sKeK8ITO0HaLWRJn_EngsoHmr4IS8&sid=e2649a5f40ab7504&type=tcp#Speed-37286",
+    "vless://70f95dff-e4dc-4bd2-a760-c0585066019e@216.24.57.5:443?encryption=none&security=tls&sni=vucu.discoverais.com&fp=chrome&type=grpc&mode=gun#Speed-66460",
+    "vless://ff9fee9d-a2b0-8776-392f-970be4224753@intfloat.omsapplications.com:443?encryption=none&security=tls&sni=intfloat.omsapplications.com&fp=chrome&type=grpc&serviceName=hilgzp05rk&mode=gun#Speed-22817",
+    "vless://70f95dff-e4dc-4bd2-a760-c0585066019e@216.24.57.5:443?encryption=none&security=tls&sni=rebe.discoverais.com&fp=chrome&type=grpc&mode=gun#Speed-84327",
+    "vless://526ab483-09a9-4036-92a2-f5ba42df6cee@mebank.ir:110?encryption=none&security=reality&sni=android.clients.google.com&fp=chrome&pbk=JoXIfc3fCE2vBr_a_gepeEE4o58bVgpB67Ef_xN2nHI&sid=813461e3624d89&type=tcp#Speed-46347",
+    "vless://ed092e2f-28a0-6223-abe8-a7ce7f20aa06@ns2.besttotaldns.com:443?encryption=none&security=tls&sni=ns2.besttotaldns.com&fp=chrome&type=ws&path=%2F&host=ns2.besttotaldns.com#Speed-98995",
+    "vless://70f95dff-e4dc-4bd2-a760-c0585066019e@216.24.57.5:443?encryption=none&security=tls&sni=noke.discoverais.com&fp=chrome&type=grpc&mode=gun#Speed-68260",
+    "vless://ad288892-10a9-4d7e-992f-bb4021c90303@dgculkwkdikr.global.ssl.fastly.net:443?encryption=none&security=tls&sni=dgculkwkdikr.global.ssl.fastly.net&fp=chrome&type=ws&path=%2F&host=dgculkwkdikr.global.ssl.fastly.net#Speed-13913"
 ]
