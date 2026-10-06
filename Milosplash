@@ -1,3 +1,4 @@
 [
+    "vless://e30669d0-2b32-4bb9-ac8f-fd3206b1f3b7@orznlck9kk.tenqivo.ir:26328?type=ws&security=tls&encryption=none&sni=tun.berfexa.ir&path=%2F&host=tun.berfexa.ir#Worker%2007",
     "vless://c326b0af-e926-4dc8-a8a3-e7790cc0bdec@199.232.78.187:443?type=ws&security=tls&encryption=none&sni=default.ssl.fastly.net&fp=chrome&alpn=h2&path=%2F&host=V2HOUSEGG.global.ssl.fastly.net#Worker%2007"
 ]
