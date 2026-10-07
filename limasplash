@@ -1,4 +1,14 @@
 [
-    "vless://e30669d0-2b32-4bb9-ac8f-fd3206b1f3b7@orznlck9kk.tenqivo.ir:26328?type=ws&security=tls&encryption=none&sni=tun.berfexa.ir&path=%2F&host=tun.berfexa.ir#Worker%2007",
-    "vless://c326b0af-e926-4dc8-a8a3-e7790cc0bdec@199.232.78.187:443?type=ws&security=tls&encryption=none&sni=default.ssl.fastly.net&fp=chrome&alpn=h2&path=%2F&host=V2HOUSEGG.global.ssl.fastly.net#Worker%2007"
+    "vless://e9d72eda-2bf1-48d0-bb27-e4abf6fb717a@94.130.180.154:443?type=xhttp&security=reality&pbk=@pbk&fp=chrome&sni=94.130.180.154&sid=@sid&path=/hndr&mode=auto#W",
+    "vless://b5683051-e168-47b2-88c4-ef3b96c51576@37.27.159.45:443?type=xhttp&security=reality&pbk=@pbk&fp=chrome&sni=37.27.159.45&sid=@sid&path=/hndr&mode=auto#W",
+    "vless://105a4703-13f6-4f5d-9151-f240edcd322a@2.28.197.133:443?type=xhttp&security=reality&pbk=@pbk&fp=chrome&sni=2.28.197.133&sid=@sid&path=/hndr&mode=auto#W",
+    "vless://643d7bd7-eb43-4197-a7bd-1d045edce372@37.27.157.136:443?type=xhttp&security=reality&pbk=@pbk&fp=chrome&sni=37.27.157.136&sid=@sid&path=/hndr&mode=auto#W",
+    "vless://b4e2b082-7c25-499f-98a9-1a5869a2077c@178.104.146.208:443?type=xhttp&security=reality&pbk=@pbk&fp=chrome&sni=178.104.146.208&sid=@sid&path=/hndr&mode=auto#W",
+    "vless://865d80eb-08c6-48fb-a8dc-b7de7b15f3f4@49.12.96.196:443?type=xhttp&security=reality&pbk=@pbk&fp=chrome&sni=49.12.96.196&sid=@sid&path=/hndr&mode=auto#W",
+    "vless://11d1df91-b69b-4754-a033-da3cc914a91b@178.105.15.21:443?type=xhttp&security=reality&pbk=@pbk&fp=chrome&sni=178.105.15.21&sid=@sid&path=/hndr&mode=auto#W",
+    "vless://a5508da1-b18c-484d-91fc-78be1fc454f4@78.47.217.35:443?type=xhttp&security=reality&pbk=@pbk&fp=chrome&sni=78.47.217.35&sid=@sid&path=/hndr&mode=auto#W",
+    "vless://db1b5563-6086-49ab-96ef-3a9583ee13ce@178.105.15.135:443?type=xhttp&security=reality&pbk=@pbk&fp=chrome&sni=178.105.15.135&sid=@sid&path=/hndr&mode=auto#W",
+    "vless://ff2d609d-e062-42ff-98d9-0b736ddd7134@167.233.171.144:443?type=xhttp&security=reality&pbk=@pbk&fp=chrome&sni=167.233.171.144&sid=@sid&path=/hndr&mode=auto#W",
+    "vless://49f02206-c9a7-4ac8-b303-4ee587610022@37.27.147.87:443?type=xhttp&security=reality&pbk=@pbk&fp=chrome&sni=37.27.147.87&sid=@sid&path=/hndr&mode=auto#W",
+    "vless://98d71fc6-16e5-4afa-ac3b-919173f8cbec@37.27.150.224:443?type=xhttp&security=reality&pbk=@pbk&fp=chrome&sni=37.27.150.224&sid=@sid&path=/hndr&mode=auto#W"
 ]
