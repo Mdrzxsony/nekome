@@ -1,6 +1,6 @@
 [
-    "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@104.17.108.69:8443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.soren-app.name.ng.&fp=unsafe&host=soren-scale-62.soren-app.name.ng.&path=%2Fsocket.io%2F#Other-Germany%200",
-    "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@104.21.112.115:8443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.soren-app.name.ng.&fp=unsafe&host=soren-scale-85.soren-app.name.ng.&path=%2Fsocket.io%2F#Other-Germany%200",
+    "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@104.17.108.69:8443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.soren-app.name.ng.&fp=unsafe&host=soren-scale-68.soren-app.name.ng.&path=%2Fsocket.io%2F#Other-Germany%200",
+    "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@104.21.112.115:8443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.soren-app.name.ng.&fp=unsafe&host=soren-scale-60.soren-app.name.ng.&path=%2Fsocket.io%2F#Other-Germany%200",
     "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@172.67.142.44:8443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.soren-app.name.ng.&fp=unsafe&host=soren-scale-51.soren-app.name.ng.&path=%2Fsocket.io%2F#Other-Germany%200",
     "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@188.114.97.6:8443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.soren-app.name.ng.&fp=unsafe&host=soren-scale-100.soren-app.name.ng.&path=%2Fsocket.io%2F#Other-Germany%200",
     "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@216.24.57.7:8443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.soren-app.name.ng.&fp=unsafe&host=soren-scale-56.soren-app.name.ng.&path=%2Fsocket.io%2F#Other-Germany%200",
@@ -32,7 +32,7 @@
     "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@199.232.78.159:443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.fastly.com&fp=chrome&host=soren-hetzner-23.global.ssl.fastly.net&path=%2Fsocket.io%2F#Other-Germany%2023",
     "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@199.232.78.159:443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.fastly.com&fp=chrome&host=soren-hetzner-51.global.ssl.fastly.net&path=%2Fsocket.io%2F#Other-Germany%2051",
     "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@199.232.78.159:443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.fastly.com&fp=chrome&host=soren-hetzner-92.global.ssl.fastly.net&path=%2Fsocket.io%2F#Other-Germany%2092",
-    "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@chatgpt.com:8443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.soren-app.name.ng.&fp=unsafe&host=soren-scale-63.soren-app.name.ng.&path=%2Fsocket.io%2F#Other-Germany%200",
+    "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@chatgpt.com:8443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.soren-app.name.ng.&fp=unsafe&host=soren-scale-75.soren-app.name.ng.&path=%2Fsocket.io%2F#Other-Germany%200",
     "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@199.232.78.159:443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.fastly.com&fp=chrome&host=soren-hetzner-22.global.ssl.fastly.net&path=%2Fsocket.io%2F#Other-Germany%2022",
     "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@199.232.78.159:443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.fastly.com&fp=chrome&host=soren-hetzner-89.global.ssl.fastly.net&path=%2Fsocket.io%2F#Other-Germany%2089",
     "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@199.232.237.79:443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.fastly.com&fp=chrome&host=soren-hetzner-93.global.ssl.fastly.net&path=%2Fsocket.io%2F#Other-Germany%2093",
@@ -70,5 +70,10 @@
     "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@199.232.237.79:443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.fastly.com&fp=chrome&host=soren-hetzner-50.global.ssl.fastly.net&path=%2Fsocket.io%2F#Other-Germany%2050",
     "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@199.232.78.159:443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.fastly.com&fp=chrome&host=soren-hetzner-53.global.ssl.fastly.net&path=%2Fsocket.io%2F#Other-Germany%2053",
     "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@199.232.78.159:443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.fastly.com&fp=chrome&host=soren-hetzner-66.global.ssl.fastly.net&path=%2Fsocket.io%2F#Other-Germany%2066",
-    "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@199.232.237.79:443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.fastly.com&fp=chrome&host=soren-hetzner-97.global.ssl.fastly.net&path=%2Fsocket.io%2F#Other-Germany%2097"
+    "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@199.232.237.79:443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.fastly.com&fp=chrome&host=soren-hetzner-97.global.ssl.fastly.net&path=%2Fsocket.io%2F#Other-Germany%2097",
+    "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@199.232.78.159:443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.fastly.com&fp=chrome&host=soren-hetzner-21.global.ssl.fastly.net&path=%2Fsocket.io%2F#Other-Germany%2021",
+    "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@199.232.237.79:443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.fastly.com&fp=chrome&host=soren-hetzner-39.global.ssl.fastly.net&path=%2Fsocket.io%2F#Other-Germany%2039",
+    "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@199.232.237.79:443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.fastly.com&fp=chrome&host=soren-hetzner-67.global.ssl.fastly.net&path=%2Fsocket.io%2F#Other-Germany%2067",
+    "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@199.232.78.159:443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.fastly.com&fp=chrome&host=soren-hetzner-69.global.ssl.fastly.net&path=%2Fsocket.io%2F#Other-Germany%2069",
+    "vless://24a3ef9f-dda8-4e5a-9a1b-a2e3b5fc6bbf@199.232.237.79:443?encryption=none&type=ws&security=tls&flow=4&sni=ssl.fastly.com&fp=chrome&host=soren-hetzner-95.global.ssl.fastly.net&path=%2Fsocket.io%2F#Other-Germany%2095"
 ]
