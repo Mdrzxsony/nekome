@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "data": [
+        {
+            "domain": "https://v2speedappcreator.space/api"
+        }
+    ],
+    "message": "Operation completed successfully"
+}
