@@ -1,3 +1,3 @@
 [
-    "vless://c326b0af-e926-4dc8-a8a3-e7790cc0bdec@199.232.78.187:443?type=ws&security=tls&encryption=none&sni=default.ssl.fastly.net&fp=chrome&alpn=h2&path=%2F&host=FFJHVVFGG.global.ssl.fastly.net#Worker%2007"
+    "vless://cc19cc64-daba-4f2e-94ff-0b49c60067a9@77.81.182.126:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=tYhQNU2gsmb5pC4VfGiAwzZo5maENo20wGRnDKf152o&sid=5d9d9c1b#proxy"
 ]
