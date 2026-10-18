@@ -1,3 +1,3 @@
 [
-    "vless://daa7b8da-e7d8-42c8-beb3-a9cbdb4a7c19@77.81.182.130:443?encryption=none&security=none&type=tcp#Aws-Google-443"
+    "vless://daa7b8da-e7d8-42c8-beb3-a9cbdb4a7c19@77.81.182.130:443?type=tcp&security=none&encryption=none&headerType=http&path=%2F&host=play.googleapis.com#Aws-Google-443"
 ]
