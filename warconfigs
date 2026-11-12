@@ -1,15 +1,16 @@
 [
-    "vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c16:d1d9::1]:51926?type=tcp&encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k#%F0%9F%87%A9%F0%9F%87%AA%20Germany115%20-%20IPV6",
-    "vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:c015:57cd::1]:51926?type=tcp&encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k#%F0%9F%87%A9%F0%9F%87%AA%20Germany8%20-%20IPV6",
-    "vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c18:f8e0::1]:51926?type=tcp&encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k#%F0%9F%87%A9%F0%9F%87%AA%20Germany47%20-%20IPV6",
-    "vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c1f:9795::1]:51926?type=tcp&encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k#%F0%9F%87%A9%F0%9F%87%AA%20Germany169%20-%20IPV6",
-    "vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c1a:40ec::1]:51926?type=tcp&encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k#%F0%9F%87%A9%F0%9F%87%AA%20Germany44%20-%20IPV6",
-    "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.39:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands7",
-    "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?type=tcp&security=tls&sni=api.iloverussia2026.com&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany35",
-    "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands15",
+    "vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c16:e594::1]:51926?type=tcp&encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k#%F0%9F%87%A9%F0%9F%87%AA%20Germany144%20-%20IPV6",
+    "vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c1a:d41::1]:51926?type=tcp&encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k#%F0%9F%87%A9%F0%9F%87%AA%20Germany137%20-%20IPV6",
+    "vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c1f:9e34::1]:51926?type=tcp&encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k#%F0%9F%87%A9%F0%9F%87%AA%20Germany167%20-%20IPV6",
+    "vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c19:2585::1]:51926?type=tcp&encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k#%F0%9F%87%A9%F0%9F%87%AA%20Germany104%20-%20IPV6",
+    "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#%F0%9F%87%A9%F0%9F%87%AA%20Germany6",
+    "vless://fb390da4-00c5-54f1-a1b4-c8e2bb6378c2@vv9bo423qfvc.cloudymedia.click:443?type=tcp&security=reality&sni=deepl.com&pbk=8RfEuI1RxxW1dqq2nbt6ssKwx7UdmgKW1nKL9OuilGs&sid=0492eabdb9&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany11",
+    "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?type=tcp&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&flow=xtls-rprx-vision&headerType=none&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands29",
+    "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy45",
+    "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?type=tcp&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&flow=xtls-rprx-vision&headerType=none&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands41",
+    "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands40",
     "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?type=tcp&security=reality&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&flow=xtls-rprx-vision&headerType=none&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands50",
-    "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?type=tcp&security=reality&sni=fuck.rkn&host=v2rayNplus--v2rayNplus--v2rayNplus&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&flow=xtls-rprx-vision&headerType=none&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands19",
-    "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppam9Vd2Zkbmt6N21YNHBXZGtTcG1FaXhUWkN0MlRSbTFKRHI0QlNhQkFXa0x4WUdvWEJIWGFkRktZNUQ1WmZvVlR3cXN4NDZqQ21FVURuUVVpekpEWXJNN0I1YW5obnU@23.230.52.119:42878#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands36",
-    "vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?type=tcp&security=reality&sni=de.stream-node6.com&fp=safari&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&sid=98753667b2406829&flow=xtls-rprx-vision&headerType=none&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands9",
-    "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.157.88.43:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany3"
+    "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?type=tcp&security=reality&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&flow=xtls-rprx-vision&headerType=none&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands32",
+    "vless://90157e25-cee1-4217-921e-91f300bc1a24@novonl.subv.ru:443?type=tcp&security=reality&sni=golos.mail.ru&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F&flow=xtls-rprx-vision&headerType=none&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands38",
+    "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.39:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands7"
 ]
