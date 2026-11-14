@@ -1,15 +1,14 @@
 [
-    "vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c1f:b29a::1]:51926?type=tcp&encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k#%F0%9F%87%A9%F0%9F%87%AA%20Germany166%20-%20IPV6",
     "vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:c0c:fc8f::1]:51926?type=tcp&encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k#%F0%9F%87%A9%F0%9F%87%AA%20Germany90%20-%20IPV6",
-    "vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c0c:50cc::1]:51926?type=tcp&encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k#%F0%9F%87%A9%F0%9F%87%AA%20Germany171%20-%20IPV6",
-    "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.116.98:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany10",
-    "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.118.247:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany43",
-    "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.119.83:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany16",
-    "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.117.84:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany24",
-    "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany9",
-    "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@198.244.201.129:19999#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom34",
-    "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands6",
-    "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowM3k1Z2JueWw0bzFoYzJu@51.38.127.93:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany20",
-    "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@47.91.74.232:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany36",
-    "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@47.254.143.251:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany4"
+    "vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c16:23b4::1]:51926?type=tcp&encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k#%F0%9F%87%A9%F0%9F%87%AA%20Germany119%20-%20IPV6",
+    "vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c1c:5414::1]:51926?type=tcp&encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k#%F0%9F%87%A9%F0%9F%87%AA%20Germany108%20-%20IPV6",
+    "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands24",
+    "vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@172.213.24.16:2083?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AE%F0%9F%87%B9%20Italy14",
+    "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy42",
+    "vless://a289a3d3-5833-4b28-8809-ae72898a98d0@138.16.141.59:7443?type=tcp&security=reality&sni=ibm.com&fp=chrome&pbk=RY7zkFQ01lI92jxNAyCa8T33UBW1fgpJgg8ZEqMA10k&sid=a09ff9f8&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands35",
+    "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands36",
+    "vless://baded307-189c-4ffc-a271-9acdab51a324@91.107.255.63:39653?type=tcp&security=tls&sni=online.shop.ir.eeso.cc&alpn=h2%2Chttp%2F1.1&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany12",
+    "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?type=tcp&security=reality&sni=fuck.rkn&host=%2F%3FTelegram%E2%80%94%40bored_vpn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&flow=xtls-rprx-vision&headerType=none&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands31",
+    "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.119.83:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany20",
+    "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.119.3:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany7"
 ]
